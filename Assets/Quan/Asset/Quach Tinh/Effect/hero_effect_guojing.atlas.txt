@@ -1,0 +1,1077 @@
+
+hero_effect_guojing.png
+size: 2020,2020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00001
+  rotate: true
+  xy: 837, 1422
+  size: 44, 57
+  orig: 150, 150
+  offset: 48, 21
+  index: -1
+Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00003
+  rotate: true
+  xy: 1898, 784
+  size: 92, 79
+  orig: 150, 150
+  offset: 27, 20
+  index: -1
+Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00005
+  rotate: false
+  xy: 1746, 180
+  size: 144, 82
+  orig: 150, 150
+  offset: 0, 20
+  index: -1
+Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00007
+  rotate: false
+  xy: 1626, 1037
+  size: 149, 86
+  orig: 150, 150
+  offset: 0, 19
+  index: -1
+Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00009
+  rotate: false
+  xy: 540, 95
+  size: 149, 86
+  orig: 150, 150
+  offset: 0, 18
+  index: -1
+Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00011
+  rotate: false
+  xy: 889, 261
+  size: 148, 82
+  orig: 150, 150
+  offset: 0, 19
+  index: -1
+Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00013
+  rotate: false
+  xy: 1777, 1037
+  size: 131, 78
+  orig: 150, 150
+  offset: 6, 20
+  index: -1
+Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00015
+  rotate: true
+  xy: 931, 53
+  size: 133, 73
+  orig: 150, 150
+  offset: 6, 25
+  index: -1
+Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00017
+  rotate: true
+  xy: 1152, 58
+  size: 134, 71
+  orig: 150, 150
+  offset: 5, 27
+  index: -1
+Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00019
+  rotate: false
+  xy: 703, 220
+  size: 135, 71
+  orig: 150, 150
+  offset: 5, 27
+  index: -1
+Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00021
+  rotate: false
+  xy: 701, 147
+  size: 135, 71
+  orig: 150, 150
+  offset: 5, 27
+  index: -1
+Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00023
+  rotate: false
+  xy: 840, 188
+  size: 135, 71
+  orig: 150, 150
+  offset: 5, 27
+  index: -1
+Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00025
+  rotate: true
+  xy: 1006, 56
+  size: 135, 71
+  orig: 150, 150
+  offset: 5, 27
+  index: -1
+Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00027
+  rotate: true
+  xy: 1079, 56
+  size: 135, 71
+  orig: 150, 150
+  offset: 5, 27
+  index: -1
+Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00029
+  rotate: false
+  xy: 1235, 188
+  size: 132, 72
+  orig: 150, 150
+  offset: 5, 27
+  index: -1
+Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00031
+  rotate: false
+  xy: 1225, 113
+  size: 132, 73
+  orig: 150, 150
+  offset: 5, 26
+  index: -1
+Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00033
+  rotate: false
+  xy: 1225, 38
+  size: 132, 73
+  orig: 150, 150
+  offset: 5, 26
+  index: -1
+Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00035
+  rotate: true
+  xy: 1687, 19
+  size: 99, 73
+  orig: 150, 150
+  offset: 5, 26
+  index: -1
+Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00037
+  rotate: false
+  xy: 1908, 225
+  size: 73, 73
+  orig: 150, 150
+  offset: 31, 26
+  index: -1
+Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00039
+  rotate: false
+  xy: 1863, 46
+  size: 64, 74
+  orig: 150, 150
+  offset: 40, 26
+  index: -1
+Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00041
+  rotate: true
+  xy: 1892, 158
+  size: 65, 74
+  orig: 150, 150
+  offset: 40, 26
+  index: -1
+Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00138
+  rotate: true
+  xy: 1884, 878
+  size: 157, 70
+  orig: 200, 200
+  offset: 0, 69
+  index: -1
+Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00139
+  rotate: true
+  xy: 1746, 264
+  size: 162, 84
+  orig: 200, 200
+  offset: 0, 58
+  index: -1
+Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00140
+  rotate: true
+  xy: 1780, 1117
+  size: 160, 97
+  orig: 200, 200
+  offset: 6, 52
+  index: -1
+Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00141
+  rotate: true
+  xy: 1502, 876
+  size: 170, 113
+  orig: 200, 200
+  offset: 7, 44
+  index: -1
+Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00142
+  rotate: true
+  xy: 1380, 412
+  size: 172, 114
+  orig: 200, 200
+  offset: 7, 43
+  index: -1
+Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00143
+  rotate: false
+  xy: 661, 1389
+  size: 174, 116
+  orig: 200, 200
+  offset: 7, 42
+  index: -1
+Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00144
+  rotate: false
+  xy: 1418, 1644
+  size: 177, 116
+  orig: 200, 200
+  offset: 6, 42
+  index: -1
+Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00145
+  rotate: true
+  xy: 1379, 230
+  size: 180, 118
+  orig: 200, 200
+  offset: 6, 41
+  index: -1
+Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00146
+  rotate: true
+  xy: 1467, 596
+  size: 181, 119
+  orig: 200, 200
+  offset: 7, 41
+  index: -1
+Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00147
+  rotate: true
+  xy: 1496, 413
+  size: 181, 119
+  orig: 200, 200
+  offset: 8, 41
+  index: -1
+Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00148
+  rotate: true
+  xy: 1588, 597
+  size: 180, 120
+  orig: 200, 200
+  offset: 9, 41
+  index: -1
+Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00149
+  rotate: true
+  xy: 1499, 230
+  size: 181, 122
+  orig: 200, 200
+  offset: 9, 40
+  index: -1
+Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00151
+  rotate: true
+  xy: 1623, 265
+  size: 160, 121
+  orig: 200, 200
+  offset: 9, 42
+  index: -1
+Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00152
+  rotate: true
+  xy: 1879, 1142
+  size: 157, 121
+  orig: 200, 200
+  offset: 9, 42
+  index: -1
+Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00153
+  rotate: true
+  xy: 1794, 621
+  size: 157, 118
+  orig: 200, 200
+  offset: 9, 45
+  index: -1
+Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00154
+  rotate: true
+  xy: 1762, 877
+  size: 158, 120
+  orig: 200, 200
+  offset: 9, 44
+  index: -1
+Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00156
+  rotate: false
+  xy: 329, 212
+  size: 155, 117
+  orig: 200, 200
+  offset: 11, 44
+  index: -1
+Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00003
+  rotate: false
+  xy: 714, 15
+  size: 130, 130
+  orig: 200, 200
+  offset: 36, 36
+  index: -1
+Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00005
+  rotate: false
+  xy: 1871, 1362
+  size: 147, 147
+  orig: 200, 200
+  offset: 28, 28
+  index: -1
+Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00007
+  rotate: false
+  xy: 1626, 1125
+  size: 152, 152
+  orig: 200, 200
+  offset: 25, 25
+  index: -1
+Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00009
+  rotate: false
+  xy: 1617, 877
+  size: 143, 158
+  orig: 200, 200
+  offset: 22, 22
+  index: -1
+Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00011
+  rotate: false
+  xy: 1910, 1039
+  size: 106, 101
+  orig: 200, 200
+  offset: 47, 56
+  index: -1
+Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00013
+  rotate: false
+  xy: 1359, 70
+  size: 100, 98
+  orig: 200, 200
+  offset: 48, 59
+  index: -1
+Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00015
+  rotate: false
+  xy: 1585, 21
+  size: 100, 97
+  orig: 200, 200
+  offset: 46, 61
+  index: -1
+Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00017
+  rotate: false
+  xy: 1533, 779
+  size: 101, 95
+  orig: 200, 200
+  offset: 45, 63
+  index: -1
+Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00019
+  rotate: false
+  xy: 529, 2
+  size: 100, 91
+  orig: 200, 200
+  offset: 45, 65
+  index: -1
+Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00021
+  rotate: true
+  xy: 1929, 87
+  size: 69, 68
+  orig: 200, 200
+  offset: 48, 66
+  index: -1
+Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00023
+  rotate: true
+  xy: 1359, 2
+  size: 66, 63
+  orig: 200, 200
+  offset: 49, 67
+  index: -1
+Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00025
+  rotate: true
+  xy: 1956, 888
+  size: 65, 60
+  orig: 200, 200
+  offset: 49, 68
+  index: -1
+Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00027
+  rotate: true
+  xy: 1968, 1603
+  size: 42, 50
+  orig: 200, 200
+  offset: 72, 68
+  index: -1
+Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00029
+  rotate: false
+  xy: 1041, 754
+  size: 13, 29
+  orig: 200, 200
+  offset: 92, 69
+  index: -1
+Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00031
+  rotate: false
+  xy: 643, 1145
+  size: 3, 2
+  orig: 200, 200
+  offset: 102, 91
+  index: -1
+Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00000
+  rotate: false
+  xy: 1111, 1666
+  size: 36, 40
+  orig: 150, 150
+  offset: 59, 5
+  index: -1
+Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00002
+  rotate: true
+  xy: 49, 3
+  size: 44, 69
+  orig: 150, 150
+  offset: 57, 8
+  index: -1
+Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00004
+  rotate: false
+  xy: 485, 111
+  size: 53, 99
+  orig: 150, 150
+  offset: 48, 11
+  index: -1
+Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00006
+  rotate: true
+  xy: 977, 193
+  size: 61, 135
+  orig: 150, 150
+  offset: 42, 15
+  index: -1
+Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00008
+  rotate: true
+  xy: 1611, 120
+  size: 58, 130
+  orig: 150, 150
+  offset: 42, 20
+  index: -1
+Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00010
+  rotate: true
+  xy: 1743, 122
+  size: 56, 126
+  orig: 150, 150
+  offset: 42, 24
+  index: -1
+Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00012
+  rotate: false
+  xy: 486, 212
+  size: 52, 117
+  orig: 150, 150
+  offset: 43, 33
+  index: -1
+Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00014
+  rotate: false
+  xy: 1975, 545
+  size: 43, 90
+  orig: 150, 150
+  offset: 47, 60
+  index: -1
+Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00016
+  rotate: false
+  xy: 1968, 1527
+  size: 38, 74
+  orig: 150, 150
+  offset: 52, 76
+  index: -1
+Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00018
+  rotate: false
+  xy: 1424, 2
+  size: 34, 66
+  orig: 150, 150
+  offset: 55, 81
+  index: -1
+Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00020
+  rotate: false
+  xy: 1871, 160
+  size: 19, 18
+  orig: 150, 150
+  offset: 61, 128
+  index: -1
+Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00005
+  rotate: true
+  xy: 462, 2
+  size: 107, 65
+  orig: 288, 162
+  offset: 91, 46
+  index: -1
+Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00009
+  rotate: false
+  xy: 1871, 1301
+  size: 147, 59
+  orig: 288, 162
+  offset: 67, 47
+  index: -1
+Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00011
+  rotate: true
+  xy: 1908, 300
+  size: 150, 59
+  orig: 288, 162
+  offset: 67, 47
+  index: -1
+Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00013
+  rotate: false
+  xy: 737, 293
+  size: 150, 59
+  orig: 288, 162
+  offset: 67, 47
+  index: -1
+Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00015
+  rotate: true
+  xy: 1916, 491
+  size: 144, 57
+  orig: 288, 162
+  offset: 71, 49
+  index: -1
+Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00017
+  rotate: true
+  xy: 1968, 1884
+  size: 134, 50
+  orig: 288, 162
+  offset: 76, 56
+  index: -1
+Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00019
+  rotate: true
+  xy: 1968, 1761
+  size: 121, 50
+  orig: 288, 162
+  offset: 81, 57
+  index: -1
+Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00021
+  rotate: true
+  xy: 1968, 1647
+  size: 112, 47
+  orig: 288, 162
+  offset: 87, 59
+  index: -1
+Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00023
+  rotate: true
+  xy: 1976, 683
+  size: 99, 42
+  orig: 288, 162
+  offset: 92, 61
+  index: -1
+Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00025
+  rotate: false
+  xy: 840, 261
+  size: 45, 30
+  orig: 288, 162
+  offset: 96, 63
+  index: -1
+Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00027
+  rotate: true
+  xy: 1563, 36
+  size: 38, 20
+  orig: 288, 162
+  offset: 101, 68
+  index: -1
+Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00029
+  rotate: true
+  xy: 1916, 452
+  size: 37, 13
+  orig: 288, 162
+  offset: 103, 70
+  index: -1
+Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00030
+  rotate: false
+  xy: 1871, 146
+  size: 19, 12
+  orig: 288, 162
+  offset: 108, 71
+  index: -1
+Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00000
+  rotate: false
+  xy: 643, 951
+  size: 216, 192
+  orig: 576, 324
+  offset: 184, 58
+  index: -1
+Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00001
+  rotate: false
+  xy: 896, 1271
+  size: 213, 195
+  orig: 576, 324
+  offset: 186, 60
+  index: -1
+Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00002
+  rotate: false
+  xy: 653, 541
+  size: 204, 195
+  orig: 576, 324
+  offset: 194, 68
+  index: -1
+Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00003
+  rotate: false
+  xy: 896, 1078
+  size: 211, 191
+  orig: 576, 324
+  offset: 186, 73
+  index: -1
+Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00004
+  rotate: false
+  xy: 1327, 1048
+  size: 215, 178
+  orig: 576, 324
+  offset: 182, 89
+  index: -1
+Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00005
+  rotate: false
+  xy: 1109, 1072
+  size: 216, 172
+  orig: 576, 324
+  offset: 180, 93
+  index: -1
+Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00006
+  rotate: false
+  xy: 1290, 876
+  size: 210, 170
+  orig: 576, 324
+  offset: 177, 94
+  index: -1
+Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00008
+  rotate: true
+  xy: 653, 738
+  size: 211, 195
+  orig: 576, 324
+  offset: 171, 62
+  index: -1
+Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00009
+  rotate: false
+  xy: 1056, 592
+  size: 208, 191
+  orig: 576, 324
+  offset: 173, 62
+  index: -1
+Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00010
+  rotate: true
+  xy: 859, 541
+  size: 209, 195
+  orig: 576, 324
+  offset: 172, 55
+  index: -1
+Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00011
+  rotate: false
+  xy: 1266, 586
+  size: 199, 191
+  orig: 576, 324
+  offset: 178, 56
+  index: -1
+Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00012
+  rotate: false
+  xy: 737, 354
+  size: 196, 185
+  orig: 576, 324
+  offset: 180, 57
+  index: -1
+Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00013
+  rotate: false
+  xy: 540, 352
+  size: 195, 187
+  orig: 576, 324
+  offset: 180, 58
+  index: -1
+Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00014
+  rotate: false
+  xy: 861, 885
+  size: 215, 191
+  orig: 576, 324
+  offset: 183, 57
+  index: -1
+Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00000
+  rotate: false
+  xy: 274, 331
+  size: 264, 259
+  orig: 576, 324
+  offset: 163, 33
+  index: -1
+Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00001
+  rotate: false
+  xy: 390, 1149
+  size: 259, 254
+  orig: 576, 324
+  offset: 167, 39
+  index: -1
+Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00002
+  rotate: false
+  xy: 390, 889
+  size: 251, 258
+  orig: 576, 324
+  offset: 170, 41
+  index: -1
+Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00003
+  rotate: false
+  xy: 1370, 1400
+  size: 244, 242
+  orig: 576, 324
+  offset: 176, 58
+  index: -1
+Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00004
+  rotate: false
+  xy: 1111, 1400
+  size: 257, 242
+  orig: 576, 324
+  offset: 162, 59
+  index: -1
+Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00005
+  rotate: false
+  xy: 1616, 1519
+  size: 255, 241
+  orig: 576, 324
+  offset: 159, 62
+  index: -1
+Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00006
+  rotate: false
+  xy: 651, 1145
+  size: 243, 242
+  orig: 576, 324
+  offset: 159, 61
+  index: -1
+Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00007
+  rotate: true
+  xy: 1616, 1279
+  size: 238, 253
+  orig: 576, 324
+  offset: 159, 51
+  index: -1
+Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00008
+  rotate: true
+  xy: 838, 1468
+  size: 238, 271
+  orig: 576, 324
+  offset: 157, 33
+  index: -1
+Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00009
+  rotate: true
+  xy: 1418, 1762
+  size: 256, 274
+  orig: 576, 324
+  offset: 155, 26
+  index: -1
+Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00010
+  rotate: false
+  xy: 1149, 1746
+  size: 267, 272
+  orig: 576, 324
+  offset: 154, 24
+  index: -1
+Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00011
+  rotate: false
+  xy: 2, 325
+  size: 270, 266
+  orig: 576, 324
+  offset: 153, 21
+  index: -1
+Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00012
+  rotate: true
+  xy: 294, 592
+  size: 270, 257
+  orig: 576, 324
+  offset: 154, 23
+  index: -1
+Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00013
+  rotate: true
+  xy: 2, 49
+  size: 274, 255
+  orig: 576, 324
+  offset: 155, 32
+  index: -1
+Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00014
+  rotate: false
+  xy: 1694, 1762
+  size: 272, 256
+  orig: 576, 324
+  offset: 156, 33
+  index: -1
+Lv3/Elements - Smoke 020 Trail Right loop noCT noRSZ_00000
+  rotate: false
+  xy: 1149, 1644
+  size: 259, 100
+  orig: 300, 300
+  offset: 16, 142
+  index: -1
+Lv3/Elements - Smoke 020 Trail Right loop noCT noRSZ_00001
+  rotate: false
+  xy: 1279, 779
+  size: 252, 95
+  orig: 300, 300
+  offset: 12, 143
+  index: -1
+Lv3/Elements - Smoke 020 Trail Right loop noCT noRSZ_00002
+  rotate: true
+  xy: 1873, 1511
+  size: 249, 93
+  orig: 300, 300
+  offset: 9, 140
+  index: -1
+Lv3/Elements - Smoke 020 Trail Right loop noCT noRSZ_00003
+  rotate: true
+  xy: 1109, 339
+  size: 251, 94
+  orig: 300, 300
+  offset: 7, 141
+  index: -1
+Lv3/Elements - Smoke 020 Trail Right loop noCT noRSZ_00004
+  rotate: true
+  xy: 553, 625
+  size: 262, 98
+  orig: 300, 300
+  offset: 6, 141
+  index: -1
+Lv3/Elements - Smoke 020 Trail Right loop noCT noRSZ_00005
+  rotate: false
+  xy: 392, 1405
+  size: 267, 100
+  orig: 300, 300
+  offset: 6, 141
+  index: -1
+Lv3/body_chuong01
+  rotate: true
+  xy: 850, 752
+  size: 131, 189
+  orig: 142, 204
+  offset: 5, 10
+  index: -1
+Lv3/chay_skill4
+  rotate: false
+  xy: 392, 1507
+  size: 444, 511
+  orig: 449, 512
+  offset: 3, 0
+  index: -1
+Lv3/choe
+  rotate: false
+  xy: 2, 2
+  size: 45, 45
+  orig: 47, 47
+  offset: 1, 1
+  index: -1
+Lv3/dau_rong_skill
+  rotate: false
+  xy: 1205, 262
+  size: 172, 149
+  orig: 194, 150
+  offset: 0, 1
+  index: -1
+Lv3/eff_stone
+  rotate: false
+  xy: 1617, 427
+  size: 123, 168
+  orig: 123, 168
+  offset: 0, 0
+  index: -1
+Lv3/eff_stone1
+  rotate: true
+  xy: 1544, 1049
+  size: 177, 80
+  orig: 177, 80
+  offset: 0, 0
+  index: -1
+Lv3/ham_rong_skill
+  rotate: false
+  xy: 1956, 955
+  size: 62, 82
+  orig: 73, 86
+  offset: 0, 0
+  index: -1
+Lv3/hat_len1
+  rotate: false
+  xy: 2, 1432
+  size: 388, 586
+  orig: 600, 600
+  offset: 76, 14
+  index: -1
+Lv3/hat_len2
+  rotate: false
+  xy: 2, 864
+  size: 386, 566
+  orig: 600, 600
+  offset: 77, 24
+  index: -1
+Lv3/lua_gong1
+  rotate: false
+  xy: 2, 593
+  size: 290, 269
+  orig: 306, 282
+  offset: 8, 0
+  index: -1
+Lv3/minh_rong_skill
+  rotate: false
+  xy: 1041, 785
+  size: 236, 93
+  orig: 251, 100
+  offset: 10, 3
+  index: -1
+Lv3/no_2_skill4
+  rotate: false
+  xy: 838, 1708
+  size: 309, 310
+  orig: 321, 325
+  offset: 2, 10
+  index: -1
+Lv3/no_nho01
+  rotate: false
+  xy: 1111, 1246
+  size: 240, 152
+  orig: 246, 166
+  offset: 0, 6
+  index: -1
+Lv3/not04
+  rotate: false
+  xy: 1205, 413
+  size: 173, 171
+  orig: 195, 187
+  offset: 15, 14
+  index: -1
+Lv3/quach_tinh-rong_day_1
+  rotate: true
+  xy: 1461, 10
+  size: 64, 100
+  orig: 127, 268
+  offset: 27, 5
+  index: -1
+Lv3/quach_tinh-rong_day_11
+  rotate: false
+  xy: 259, 20
+  size: 67, 142
+  orig: 127, 268
+  offset: 48, 100
+  index: -1
+Lv3/quach_tinh-rong_day_12
+  rotate: false
+  xy: 846, 55
+  size: 83, 131
+  orig: 127, 268
+  offset: 33, 121
+  index: -1
+Lv3/quach_tinh-rong_day_13
+  rotate: true
+  xy: 1783, 780
+  size: 95, 113
+  orig: 127, 268
+  offset: 17, 147
+  index: -1
+Lv3/quach_tinh-rong_day_14
+  rotate: false
+  xy: 1503, 142
+  size: 106, 86
+  orig: 127, 268
+  offset: 4, 178
+  index: -1
+Lv3/quach_tinh-rong_day_2
+  rotate: true
+  xy: 1114, 194
+  size: 60, 119
+  orig: 127, 268
+  offset: 30, 4
+  index: -1
+Lv3/quach_tinh-rong_day_3
+  rotate: true
+  xy: 1369, 170
+  size: 58, 132
+  orig: 127, 268
+  offset: 32, 5
+  index: -1
+Lv3/quach_tinh-rong_day_4
+  rotate: false
+  xy: 1914, 637
+  size: 60, 145
+  orig: 127, 268
+  offset: 33, 5
+  index: -1
+Lv3/quach_tinh-rong_day_5
+  rotate: false
+  xy: 259, 164
+  size: 68, 159
+  orig: 127, 268
+  offset: 34, 5
+  index: -1
+Lv3/quach_tinh-rong_day_6
+  rotate: false
+  xy: 1832, 282
+  size: 74, 168
+  orig: 127, 268
+  offset: 35, 12
+  index: -1
+Lv3/quach_tinh-rong_day_7
+  rotate: false
+  xy: 1710, 604
+  size: 82, 174
+  orig: 127, 268
+  offset: 35, 23
+  index: -1
+Lv3/quach_tinh-rong_day_8
+  rotate: false
+  xy: 1742, 428
+  size: 85, 174
+  orig: 127, 268
+  offset: 36, 37
+  index: -1
+Lv3/quach_tinh-rong_day_9
+  rotate: false
+  xy: 1829, 452
+  size: 85, 167
+  orig: 127, 268
+  offset: 37, 55
+  index: -1
+Lv3/rock_dust
+  rotate: false
+  xy: 1353, 1228
+  size: 223, 170
+  orig: 223, 226
+  offset: 0, 56
+  index: -1
+Lv3/rong_skill1
+  rotate: false
+  xy: 631, 3
+  size: 81, 90
+  orig: 255, 239
+  offset: 166, 133
+  index: -1
+Lv3/rong_skill11
+  rotate: true
+  xy: 1461, 76
+  size: 64, 122
+  orig: 255, 239
+  offset: 6, 8
+  index: -1
+Lv3/rong_skill12
+  rotate: true
+  xy: 553, 583
+  size: 40, 98
+  orig: 255, 239
+  offset: 4, 4
+  index: -1
+Lv3/rong_skill2
+  rotate: false
+  xy: 1762, 32
+  size: 99, 88
+  orig: 255, 239
+  offset: 143, 126
+  index: -1
+Lv3/rong_skill3
+  rotate: false
+  xy: 1623, 180
+  size: 121, 83
+  orig: 255, 239
+  offset: 117, 122
+  index: -1
+Lv3/rong_skill4
+  rotate: false
+  xy: 1039, 256
+  size: 141, 81
+  orig: 255, 239
+  offset: 93, 118
+  index: -1
+Lv3/rong_skill5
+  rotate: false
+  xy: 540, 183
+  size: 159, 85
+  orig: 255, 239
+  offset: 72, 110
+  index: -1
+Lv3/rong_skill6
+  rotate: false
+  xy: 540, 270
+  size: 161, 80
+  orig: 255, 239
+  offset: 52, 99
+  index: -1
+Lv3/rong_skill7
+  rotate: false
+  xy: 329, 128
+  size: 154, 82
+  orig: 255, 239
+  offset: 38, 84
+  index: -1
+Lv3/rong_skill8
+  rotate: false
+  xy: 1636, 780
+  size: 145, 95
+  orig: 255, 239
+  offset: 24, 62
+  index: -1
+Lv3/rong_skill9
+  rotate: false
+  xy: 328, 14
+  size: 132, 112
+  orig: 255, 239
+  offset: 14, 39
+  index: -1
+Lv3/toa1
+  rotate: true
+  xy: 935, 345
+  size: 194, 172
+  orig: 196, 172
+  offset: 2, 0
+  index: -1
+Lv3/xoay_rong1
+  rotate: false
+  xy: 1078, 880
+  size: 210, 190
+  orig: 212, 194
+  offset: 1, 2
+  index: -1
