@@ -1,0 +1,2742 @@
+{
+"skeleton": { "hash": "IZ8p1o3k59PgrzhI1xxE/aRxez4", "spine": "3.8.99", "images": "../../../guojing/", "audio": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "zzz_skill", "parent": "root", "x": -161.85, "y": 1.07 },
+	{ "name": "zzz_body", "parent": "root", "x": 129.09, "y": 1.07 },
+	{ "name": "no1", "parent": "zzz_skill", "x": -662.61, "y": -30.89 },
+	{ "name": "Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00138", "parent": "no1", "rotation": 90, "x": -7.54, "y": 37.79 },
+	{ "name": "no2", "parent": "zzz_skill", "x": -449.31, "y": -10.71 },
+	{ "name": "Elements - Explosion 009 Up MIX noCT noRSZ_00001", "parent": "no2", "x": -1.95, "y": 38.96, "scaleX": 2.053, "scaleY": 2.053 },
+	{ "name": "Elements - Explosion 019 Hit Radial noCT noRSZ_00003", "parent": "zzz_skill", "x": -0.06, "y": -97.67 },
+	{ "name": "Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00005", "parent": "zzz_skill", "x": 46.46, "y": 84.86 },
+	{ "name": "Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00000", "parent": "zzz_body", "x": 47.41, "y": 106.35 },
+	{ "name": "Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00000", "parent": "zzz_body", "x": 225.08, "y": -23.41 },
+	{ "name": "Elements - Smoke 020 Trail Right loop noCT noRSZ_00000", "parent": "zzz_body", "x": -156.55, "y": -33.7 },
+	{ "name": "chay", "parent": "zzz_skill", "x": -294.12, "y": -249.94 },
+	{ "name": "chay_skill4", "parent": "chay", "x": -1.62, "y": 37.15 },
+	{ "name": "toa", "parent": "zzz_body", "x": -127.71, "y": -230.68 },
+	{ "name": "toa1", "parent": "toa", "x": -5.78, "y": 182.97, "scaleX": 2, "scaleY": 2 },
+	{ "name": "no_2_skill4", "parent": "no1", "y": 42.37 },
+	{ "name": "eff_stone", "parent": "no1", "x": -3.85, "y": 50.08 },
+	{ "name": "not04", "parent": "no2", "x": -1.93, "y": 52 },
+	{ "name": "eff_stone1", "parent": "no2", "x": 11.56, "y": 28.89 },
+	{ "name": "rock_dust", "parent": "no2", "x": -6.06, "y": 38.3, "scaleX": 2, "scaleY": 2 },
+	{ "name": "choe", "parent": "zzz_skill", "x": -104.61, "y": 20.43 },
+	{ "name": "rong_attack", "parent": "zzz_skill", "x": -151.23, "y": 115.81 },
+	{ "name": "minh_rong_skill", "parent": "rong_attack", "length": 47.74, "rotation": 0.99, "x": -23.04, "y": 41.48 },
+	{ "name": "dau_rong_skill", "parent": "minh_rong_skill", "length": 64.38, "rotation": -177.49, "x": 8.83, "y": -12.79 },
+	{ "name": "ham_rong_skill", "parent": "dau_rong_skill", "length": 33.83, "rotation": 26.62, "x": 46.49, "y": 11.16 },
+	{
+		"name": "toa2",
+		"parent": "toa",
+		"rotation": 39.12,
+		"x": -5.78,
+		"y": 182.97,
+		"scaleX": 2,
+		"scaleY": 2
+	},
+	{
+		"name": "toa3",
+		"parent": "toa",
+		"rotation": 103.34,
+		"x": -5.78,
+		"y": 182.97,
+		"scaleX": 2,
+		"scaleY": 2
+	},
+	{
+		"name": "toa4",
+		"parent": "toa",
+		"rotation": 149.33,
+		"x": -5.78,
+		"y": 182.97,
+		"scaleX": 2,
+		"scaleY": 2
+	},
+	{ "name": "rong_attack2", "parent": "zzz_skill", "x": -120.42, "y": 169.22 },
+	{ "name": "minh_rong_skill2", "parent": "rong_attack2", "length": 47.74, "rotation": 0.99, "x": -23.04, "y": 41.48 },
+	{ "name": "dau_rong_skill2", "parent": "minh_rong_skill2", "length": 64.38, "rotation": -177.49, "x": 8.83, "y": -12.79 },
+	{ "name": "ham_rong_skill2", "parent": "dau_rong_skill2", "length": 33.83, "rotation": 26.62, "x": 46.49, "y": 11.16 },
+	{ "name": "rong_attack3", "parent": "zzz_skill", "x": -112.2, "y": 54.19 },
+	{ "name": "minh_rong_skill3", "parent": "rong_attack3", "length": 47.74, "rotation": 0.99, "x": -23.04, "y": 41.48 },
+	{ "name": "dau_rong_skill3", "parent": "minh_rong_skill3", "length": 64.38, "rotation": -177.49, "x": 8.83, "y": -12.79 },
+	{ "name": "ham_rong_skill3", "parent": "dau_rong_skill3", "length": 33.83, "rotation": 26.62, "x": 46.49, "y": 11.16 },
+	{ "name": "Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_5", "parent": "zzz_skill", "x": 46.46, "y": 84.86 },
+	{ "name": "Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_6", "parent": "zzz_skill", "x": 46.46, "y": 84.86, "scaleY": -1.1645 },
+	{ "name": "Elements - Explosion 019 Hit Radial noCT noRSZ_3", "parent": "zzz_skill", "x": -0.06, "y": -97.67 },
+	{ "name": "Elements - Explosion 019 Hit Radial noCT noRSZ_4", "parent": "zzz_skill", "x": -0.06, "y": -97.67 },
+	{ "name": "Elements - Smoke 020 Trail Right loop noCT noRSZ_0", "parent": "zzz_body", "x": -156.55, "y": -33.7, "scaleX": -1 },
+	{ "name": "quach_tinh-rong_day_1", "parent": "zzz_skill", "x": 107.58, "y": 101.77, "scaleX": 3.7819, "scaleY": 3.7819 },
+	{ "name": "rong_skill1", "parent": "zzz_skill", "x": 43.03, "y": 329.02, "scaleX": 4.1125, "scaleY": 4.1125 },
+	{ "name": "quach_tinh-rong_day_2", "parent": "zzz_skill", "x": 107.58, "y": 101.77, "scaleX": 3.7819, "scaleY": 3.7819 },
+	{ "name": "quach_tinh-rong_day_3", "parent": "zzz_skill", "x": 107.58, "y": 101.77, "scaleX": 3.7819, "scaleY": 3.7819 },
+	{ "name": "xoay_rong1", "parent": "zzz_body", "x": 402, "y": -276.22, "scaleX": 2, "scaleY": 2 },
+	{ "name": "rong_skill2", "parent": "zzz_skill", "x": 43.03, "y": 329.02, "scaleX": 4.1125, "scaleY": 4.1125 },
+	{ "name": "rong_skill3", "parent": "zzz_skill", "x": 43.03, "y": 329.02, "scaleX": 4.1125, "scaleY": 4.1125 },
+	{
+		"name": "hat_len",
+		"parent": "zzz_skill",
+		"rotation": 121.44,
+		"x": 564.19,
+		"y": 665.15,
+		"scaleX": 1.8626,
+		"scaleY": 1.2032
+	},
+	{ "name": "hat_len1", "parent": "hat_len", "x": -7.24, "y": 486.89 },
+	{ "name": "hat_len2", "parent": "hat_len", "x": 1.81, "y": 481.46 },
+	{ "name": "hat_len3", "parent": "hat_len", "x": -7.24, "y": 486.89 },
+	{ "name": "hat_len4", "parent": "hat_len", "x": 1.81, "y": 481.46, "scaleX": -1.1071 },
+	{ "name": "no3", "parent": "zzz_skill", "x": -662.61, "y": -30.89 },
+	{ "name": "Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_138", "parent": "no3", "rotation": 90, "x": -7.54, "y": 37.79, "scaleY": -1 },
+	{ "name": "eff_stone2", "parent": "no3", "x": -3.85, "y": 50.08 },
+	{ "name": "no4", "parent": "zzz_skill", "x": -449.31, "y": -10.71 },
+	{ "name": "Elements - Explosion 009 Up MIX noCT noRSZ_1", "parent": "no4", "x": -1.95, "y": 38.96, "scaleX": 2.053, "scaleY": 2.053 },
+	{ "name": "not4", "parent": "no4", "x": -1.93, "y": 52 },
+	{ "name": "eff_stone3", "parent": "no4", "x": 11.56, "y": 28.89 },
+	{ "name": "rock_dust2", "parent": "no4", "x": -6.06, "y": 38.3 },
+	{ "name": "chay_skill5", "parent": "chay", "x": 35.63, "y": 16.19, "scaleX": -1.0952 },
+	{ "name": "chay_skill6", "parent": "chay", "x": -59.82, "y": 37.15 },
+	{ "name": "lua_gong", "parent": "zzz_body", "x": -8.1, "y": 8.72 },
+	{ "name": "Lv3/lua_gong1", "parent": "lua_gong", "x": -110.29, "y": 1.81 },
+	{ "name": "Lv3/body_chuong01", "parent": "zzz_body", "x": 99.48, "y": 6.91, "scaleX": 1.4095, "scaleY": 1.4095 },
+	{ "name": "Lv3/lua_gong2", "parent": "lua_gong", "x": -110.29, "y": 1.81 },
+	{ "name": "Lv3/lua_gong3", "parent": "lua_gong", "x": -110.29, "y": 1.81 },
+	{ "name": "Lv3/body_chuong1", "parent": "zzz_body", "x": 99.48, "y": 6.91, "scaleX": 1.4095, "scaleY": 1.4095 },
+	{ "name": "Lv3/body_chuong2", "parent": "zzz_body", "x": 99.48, "y": 6.91, "scaleX": 1.4095, "scaleY": 1.4095 },
+	{ "name": "quach_tinh-rong_day_4", "parent": "zzz_skill", "x": 107.58, "y": 101.77, "scaleX": 3.7819, "scaleY": 3.7819 },
+	{ "name": "quach_tinh-rong_day_5", "parent": "zzz_skill", "x": 107.58, "y": 101.77, "scaleX": 3.7819, "scaleY": 3.7819 },
+	{ "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00000", "parent": "zzz_skill", "x": 561.41, "y": 251.4, "scaleX": 2.5291, "scaleY": 2.5291 },
+	{ "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_0", "parent": "zzz_skill", "x": 561.41, "y": 251.4, "scaleX": 2.5291, "scaleY": 2.5291 },
+	{ "name": "no_2_skill5", "parent": "no1", "y": 42.37 },
+	{ "name": "no_nho1", "parent": "zzz_body", "x": -8.93, "y": -122.12 }
+],
+"slots": [
+	{ "name": "Lv3/lua_gong1", "bone": "Lv3/lua_gong1", "color": "ff643bff", "blend": "additive" },
+	{ "name": "Lv3/lua_gong2", "bone": "Lv3/lua_gong2", "color": "ff643bff", "blend": "additive" },
+	{ "name": "Lv3/lua_gong3", "bone": "Lv3/lua_gong3", "color": "ff643bff", "blend": "additive" },
+	{ "name": "Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00138", "bone": "Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00138", "color": "ff9e92ff", "blend": "additive" },
+	{ "name": "Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_138", "bone": "Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_138", "color": "ff9e92ff", "blend": "additive" },
+	{ "name": "Elements - Explosion 009 Up MIX noCT noRSZ_00001", "bone": "Elements - Explosion 009 Up MIX noCT noRSZ_00001", "color": "ff834aff", "blend": "additive" },
+	{ "name": "Elements - Explosion 009 Up MIX noCT noRSZ_1", "bone": "Elements - Explosion 009 Up MIX noCT noRSZ_1", "color": "ff834aff", "blend": "additive" },
+	{ "name": "Elements - Explosion 019 Hit Radial noCT noRSZ_00003", "bone": "Elements - Explosion 019 Hit Radial noCT noRSZ_00003", "color": "ff903bff", "blend": "additive" },
+	{ "name": "Elements - Explosion 019 Hit Radial noCT noRSZ_3", "bone": "Elements - Explosion 019 Hit Radial noCT noRSZ_3", "color": "ff903bff", "blend": "additive" },
+	{ "name": "Elements - Explosion 019 Hit Radial noCT noRSZ_4", "bone": "Elements - Explosion 019 Hit Radial noCT noRSZ_4", "color": "ff903bff", "blend": "additive" },
+	{ "name": "Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00005", "bone": "Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00005", "color": "ff652dff", "blend": "additive" },
+	{ "name": "Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_5", "bone": "Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_5", "color": "ff652dff", "blend": "additive" },
+	{ "name": "Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_6", "bone": "Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_6", "color": "ff652dff", "blend": "additive" },
+	{ "name": "Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00000", "bone": "Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00000", "color": "ff6d49ff", "blend": "additive" },
+	{ "name": "Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00000", "bone": "Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00000", "color": "ff642cff", "blend": "additive" },
+	{ "name": "Elements - Smoke 020 Trail Right loop noCT noRSZ_00000", "bone": "Elements - Smoke 020 Trail Right loop noCT noRSZ_00000", "color": "c05a31ff", "blend": "additive" },
+	{ "name": "Elements - Smoke 020 Trail Right loop noCT noRSZ_0", "bone": "Elements - Smoke 020 Trail Right loop noCT noRSZ_0", "color": "c05a31ff", "blend": "additive" },
+	{ "name": "chay_skill4", "bone": "chay_skill4", "color": "ffc057ff", "blend": "additive" },
+	{ "name": "chay_skill6", "bone": "chay_skill6", "color": "ffc057ff", "blend": "additive" },
+	{ "name": "chay_skill5", "bone": "chay_skill5", "color": "ffc057ff", "blend": "additive" },
+	{ "name": "choe", "bone": "choe", "color": "ff7e58ff", "blend": "additive" },
+	{ "name": "dau_rong_skill", "bone": "dau_rong_skill", "color": "ff7e58ff", "blend": "additive" },
+	{ "name": "dau_rong_skill2", "bone": "dau_rong_skill2", "color": "ff7e58ff", "blend": "additive" },
+	{ "name": "dau_rong_skill3", "bone": "dau_rong_skill3", "color": "ff7e58ff", "blend": "additive" },
+	{ "name": "eff_stone", "bone": "eff_stone", "color": "ffd9c8ff" },
+	{ "name": "eff_stone2", "bone": "eff_stone2", "color": "ffd9c8ff" },
+	{ "name": "eff_stone1", "bone": "eff_stone1", "color": "ffd9c8ff" },
+	{ "name": "eff_stone3", "bone": "eff_stone3", "color": "ffd9c8ff" },
+	{ "name": "ham_rong_skill", "bone": "ham_rong_skill", "color": "ff7e58ff", "blend": "additive" },
+	{ "name": "ham_rong_skill2", "bone": "ham_rong_skill2", "color": "ff7e58ff", "blend": "additive" },
+	{ "name": "ham_rong_skill3", "bone": "ham_rong_skill3", "color": "ff7e58ff", "blend": "additive" },
+	{ "name": "minh_rong_skill", "bone": "minh_rong_skill", "color": "ff7e58ff", "blend": "additive" },
+	{ "name": "minh_rong_skill2", "bone": "minh_rong_skill2", "color": "ff7e58ff", "blend": "additive" },
+	{ "name": "minh_rong_skill3", "bone": "minh_rong_skill3", "color": "ff7e58ff", "blend": "additive" },
+	{ "name": "no_2_skill4", "bone": "no_2_skill4", "color": "ff7e58ff", "blend": "additive" },
+	{ "name": "no_2_skill5", "bone": "no_2_skill5", "color": "ff7e58ff", "blend": "additive" },
+	{ "name": "no_nho1", "bone": "no_nho1", "color": "ff7e58ff", "blend": "additive" },
+	{ "name": "not04", "bone": "not04", "color": "ff7e58ff", "blend": "additive" },
+	{ "name": "not4", "bone": "not4", "color": "ff7e58ff", "blend": "additive" },
+	{ "name": "rock_dust", "bone": "rock_dust", "color": "ffd9c8ff" },
+	{ "name": "rock_dust2", "bone": "rock_dust2", "color": "ffd9c8ff" },
+	{ "name": "toa1", "bone": "toa1", "color": "ff7e58ff", "blend": "additive" },
+	{ "name": "toa2", "bone": "toa2", "color": "ff7e58ff", "blend": "additive" },
+	{ "name": "toa3", "bone": "toa3", "color": "ff7e58ff", "blend": "additive" },
+	{ "name": "toa4", "bone": "toa4", "color": "ff7e58ff", "blend": "additive" },
+	{ "name": "quach_tinh-rong_day_1", "bone": "quach_tinh-rong_day_1", "blend": "additive" },
+	{ "name": "quach_tinh-rong_day_4", "bone": "quach_tinh-rong_day_4", "blend": "additive" },
+	{ "name": "quach_tinh-rong_day_3", "bone": "quach_tinh-rong_day_3", "blend": "additive" },
+	{ "name": "quach_tinh-rong_day_2", "bone": "quach_tinh-rong_day_2", "blend": "additive" },
+	{ "name": "quach_tinh-rong_day_5", "bone": "quach_tinh-rong_day_5", "blend": "additive" },
+	{ "name": "rong_skill1", "bone": "rong_skill1", "blend": "additive" },
+	{ "name": "rong_skill3", "bone": "rong_skill3", "blend": "additive" },
+	{ "name": "rong_skill2", "bone": "rong_skill2", "blend": "additive" },
+	{ "name": "xoay_rong1", "bone": "xoay_rong1", "color": "ffb179ff", "blend": "additive" },
+	{ "name": "hat_len1", "bone": "hat_len1", "blend": "additive" },
+	{ "name": "hat_len3", "bone": "hat_len3", "blend": "additive" },
+	{ "name": "hat_len2", "bone": "hat_len2", "blend": "additive" },
+	{ "name": "hat_len4", "bone": "hat_len4", "blend": "additive" },
+	{ "name": "Lv3/body_chuong01", "bone": "Lv3/body_chuong01", "color": "ff7257ff", "blend": "additive" },
+	{ "name": "Lv3/body_chuong1", "bone": "Lv3/body_chuong1", "color": "ff7257ff", "blend": "additive" },
+	{ "name": "Lv3/body_chuong2", "bone": "Lv3/body_chuong2", "color": "ff7257ff", "blend": "additive" },
+	{ "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00000", "bone": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00000", "color": "ff9666ff", "blend": "additive" },
+	{ "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_0", "bone": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_0", "color": "ff9666ff", "blend": "additive" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Elements - Explosion 009 Up MIX noCT noRSZ_00001": {
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00001": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00003": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00005": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00007": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00009": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00011": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00013": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00015": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00017": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00019": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00021": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00023": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00025": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00027": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00029": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00031": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00033": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00035": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00037": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00039": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00041": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 }
+			},
+			"Elements - Explosion 009 Up MIX noCT noRSZ_1": {
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00001": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00003": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00005": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00007": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00009": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00011": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00013": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00015": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00017": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00019": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00021": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00023": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00025": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00027": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00029": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00031": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00033": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00035": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00037": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00039": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 },
+				"Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00041": { "x": 5.77, "y": 40.02, "width": 150, "height": 150 }
+			},
+			"Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00138": {
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00138": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00139": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00140": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00141": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00142": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00143": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00144": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00145": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00146": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00147": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00148": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00149": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00151": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00152": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00153": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00154": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00156": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 }
+			},
+			"Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_138": {
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00138": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00139": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00140": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00141": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00142": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00143": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00144": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00145": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00146": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00147": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00148": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00149": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00151": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00152": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00153": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00154": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00156": { "x": 78.06, "y": -4.2, "width": 200, "height": 200 }
+			},
+			"Elements - Explosion 019 Hit Radial noCT noRSZ_00003": {
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00003": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00005": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00007": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00009": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00011": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00013": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00015": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00017": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00019": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00021": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00023": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00025": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00027": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00029": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00031": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 }
+			},
+			"Elements - Explosion 019 Hit Radial noCT noRSZ_3": {
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00003": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00005": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00007": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00009": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00011": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00013": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00015": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00017": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00019": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00021": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00023": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00025": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00027": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00029": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00031": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 }
+			},
+			"Elements - Explosion 019 Hit Radial noCT noRSZ_4": {
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00003": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00005": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00007": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00009": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00011": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00013": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00015": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00017": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00019": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00021": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00023": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 },
+				"Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00025": { "x": -3.99, "y": -3.9, "width": 200, "height": 200 }
+			},
+			"Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00005": {
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00005": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00009": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00011": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00013": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00015": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00017": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00019": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00021": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00023": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00025": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00027": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00029": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00030": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 }
+			},
+			"Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_5": {
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00005": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00009": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00011": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00013": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00015": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00017": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00019": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00021": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00023": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00025": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00027": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00029": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00030": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 }
+			},
+			"Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_6": {
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00005": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00009": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00011": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00013": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00015": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00017": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00019": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00021": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00023": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00025": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00027": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00029": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 },
+				"Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00030": { "x": 30.17, "y": 1.96, "width": 288, "height": 162 }
+			},
+			"Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00000": {
+				"Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00000": { "x": 13.73, "y": 3.32, "width": 576, "height": 324 },
+				"Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00001": { "x": 13.73, "y": 3.32, "width": 576, "height": 324 },
+				"Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00002": { "x": 13.73, "y": 3.32, "width": 576, "height": 324 },
+				"Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00003": { "x": 13.73, "y": 3.32, "width": 576, "height": 324 },
+				"Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00004": { "x": 13.73, "y": 3.32, "width": 576, "height": 324 },
+				"Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00005": { "x": 13.73, "y": 3.32, "width": 576, "height": 324 },
+				"Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00006": { "x": 13.73, "y": 3.32, "width": 576, "height": 324 },
+				"Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00008": { "x": 13.73, "y": 3.32, "width": 576, "height": 324 },
+				"Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00009": { "x": 13.73, "y": 3.32, "width": 576, "height": 324 },
+				"Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00010": { "x": 13.73, "y": 3.32, "width": 576, "height": 324 },
+				"Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00011": { "x": 13.73, "y": 3.32, "width": 576, "height": 324 },
+				"Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00012": { "x": 13.73, "y": 3.32, "width": 576, "height": 324 },
+				"Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00013": { "x": 13.73, "y": 3.32, "width": 576, "height": 324 },
+				"Lv3/Elements - Fire 092 Charge Radial Loop MIX noCT noRSZ_00014": { "x": 13.73, "y": 3.32, "width": 576, "height": 324 }
+			},
+			"Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00000": {
+				"Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00000": { "x": -4.74, "y": 0.9, "width": 576, "height": 324 },
+				"Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00001": { "x": -4.74, "y": 0.9, "width": 576, "height": 324 },
+				"Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00002": { "x": -4.74, "y": 0.9, "width": 576, "height": 324 },
+				"Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00003": { "x": -4.74, "y": 0.9, "width": 576, "height": 324 },
+				"Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00004": { "x": -4.74, "y": 0.9, "width": 576, "height": 324 },
+				"Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00005": { "x": -4.74, "y": 0.9, "width": 576, "height": 324 },
+				"Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00006": { "x": -4.74, "y": 0.9, "width": 576, "height": 324 },
+				"Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00007": { "x": -4.74, "y": 0.9, "width": 576, "height": 324 },
+				"Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00008": { "x": -4.74, "y": 0.9, "width": 576, "height": 324 },
+				"Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00009": { "x": -4.74, "y": 0.9, "width": 576, "height": 324 },
+				"Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00010": { "x": -4.74, "y": 0.9, "width": 576, "height": 324 },
+				"Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00011": { "x": -4.74, "y": 0.9, "width": 576, "height": 324 },
+				"Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00012": { "x": -4.74, "y": 0.9, "width": 576, "height": 324 },
+				"Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00013": { "x": -4.74, "y": 0.9, "width": 576, "height": 324 },
+				"Lv3/Elements - Fire 094 Charge Radial Loop MIX noCT noRSZ_00014": { "x": -4.74, "y": 0.9, "width": 576, "height": 324 }
+			},
+			"Elements - Smoke 020 Trail Right loop noCT noRSZ_0": {
+				"Lv3/Elements - Smoke 020 Trail Right loop noCT noRSZ_00000": { "x": -60.45, "y": -1.56, "width": 300, "height": 300 },
+				"Lv3/Elements - Smoke 020 Trail Right loop noCT noRSZ_00001": { "x": -60.45, "y": -1.56, "width": 300, "height": 300 },
+				"Lv3/Elements - Smoke 020 Trail Right loop noCT noRSZ_00002": { "x": -60.45, "y": -1.56, "width": 300, "height": 300 },
+				"Lv3/Elements - Smoke 020 Trail Right loop noCT noRSZ_00003": { "x": -60.45, "y": -1.56, "width": 300, "height": 300 },
+				"Lv3/Elements - Smoke 020 Trail Right loop noCT noRSZ_00004": { "x": -60.45, "y": -1.56, "width": 300, "height": 300 },
+				"Lv3/Elements - Smoke 020 Trail Right loop noCT noRSZ_00005": { "x": -60.45, "y": -1.56, "width": 300, "height": 300 }
+			},
+			"Elements - Smoke 020 Trail Right loop noCT noRSZ_00000": {
+				"Lv3/Elements - Smoke 020 Trail Right loop noCT noRSZ_00000": { "x": -60.45, "y": -1.56, "width": 300, "height": 300 },
+				"Lv3/Elements - Smoke 020 Trail Right loop noCT noRSZ_00001": { "x": -60.45, "y": -1.56, "width": 300, "height": 300 },
+				"Lv3/Elements - Smoke 020 Trail Right loop noCT noRSZ_00002": { "x": -60.45, "y": -1.56, "width": 300, "height": 300 },
+				"Lv3/Elements - Smoke 020 Trail Right loop noCT noRSZ_00003": { "x": -60.45, "y": -1.56, "width": 300, "height": 300 },
+				"Lv3/Elements - Smoke 020 Trail Right loop noCT noRSZ_00004": { "x": -60.45, "y": -1.56, "width": 300, "height": 300 },
+				"Lv3/Elements - Smoke 020 Trail Right loop noCT noRSZ_00005": { "x": -60.45, "y": -1.56, "width": 300, "height": 300 }
+			},
+			"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_0": {
+				"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00000": { "x": -0.15, "y": 57.11, "width": 150, "height": 150 },
+				"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00002": { "x": -0.15, "y": 57.11, "width": 150, "height": 150 },
+				"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00004": { "x": -0.15, "y": 57.11, "width": 150, "height": 150 },
+				"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00006": { "x": -0.15, "y": 57.11, "width": 150, "height": 150 },
+				"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00008": { "x": -0.15, "y": 57.11, "width": 150, "height": 150 },
+				"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00010": { "x": -0.15, "y": 57.11, "width": 150, "height": 150 },
+				"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00012": { "x": -0.15, "y": 57.11, "width": 150, "height": 150 },
+				"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00014": { "x": -0.15, "y": 57.11, "width": 150, "height": 150 },
+				"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00016": { "x": -0.15, "y": 57.11, "width": 150, "height": 150 },
+				"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00018": { "x": -0.15, "y": 57.11, "width": 150, "height": 150 },
+				"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00020": { "x": -0.15, "y": 57.11, "width": 150, "height": 150 }
+			},
+			"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00000": {
+				"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00000": { "x": -0.15, "y": 57.11, "width": 150, "height": 150 },
+				"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00002": { "x": -0.15, "y": 57.11, "width": 150, "height": 150 },
+				"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00004": { "x": -0.15, "y": 57.11, "width": 150, "height": 150 },
+				"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00006": { "x": -0.15, "y": 57.11, "width": 150, "height": 150 },
+				"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00008": { "x": -0.15, "y": 57.11, "width": 150, "height": 150 },
+				"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00010": { "x": -0.15, "y": 57.11, "width": 150, "height": 150 },
+				"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00012": { "x": -0.15, "y": 57.11, "width": 150, "height": 150 },
+				"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00014": { "x": -0.15, "y": 57.11, "width": 150, "height": 150 },
+				"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00016": { "x": -0.15, "y": 57.11, "width": 150, "height": 150 },
+				"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00018": { "x": -0.15, "y": 57.11, "width": 150, "height": 150 },
+				"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00020": { "x": -0.15, "y": 57.11, "width": 150, "height": 150 }
+			},
+			"Lv3/body_chuong01": {
+				"Lv3/body_chuong01": { "x": 7.89, "y": 66.03, "width": 142, "height": 204 }
+			},
+			"Lv3/body_chuong1": {
+				"Lv3/body_chuong01": { "x": 7.89, "y": 66.03, "width": 142, "height": 204 }
+			},
+			"Lv3/body_chuong2": {
+				"Lv3/body_chuong01": { "x": 7.89, "y": 66.03, "width": 142, "height": 204 }
+			},
+			"Lv3/lua_gong1": {
+				"Lv3/lua_gong1": { "x": 0.61, "y": 124.49, "width": 306, "height": 282 }
+			},
+			"Lv3/lua_gong2": {
+				"Lv3/lua_gong1": { "x": 0.61, "y": 124.49, "width": 306, "height": 282 }
+			},
+			"Lv3/lua_gong3": {
+				"Lv3/lua_gong1": { "x": 0.61, "y": 124.49, "width": 306, "height": 282 }
+			},
+			"chay_skill4": {
+				"Lv3/chay_skill4": { "x": 3.51, "y": 228.64, "width": 449, "height": 512 }
+			},
+			"chay_skill5": {
+				"Lv3/chay_skill4": { "x": 3.51, "y": 228.64, "width": 449, "height": 512 }
+			},
+			"chay_skill6": {
+				"Lv3/chay_skill4": { "x": 3.51, "y": 228.64, "width": 449, "height": 512 }
+			},
+			"choe": {
+				"Lv3/choe": { "x": 0.29, "y": -0.47, "width": 47, "height": 47 }
+			},
+			"dau_rong_skill": {
+				"Lv3/dau_rong_skill": { "x": -6.47, "y": 9.19, "rotation": 147.53, "width": 194, "height": 150 }
+			},
+			"dau_rong_skill2": {
+				"Lv3/dau_rong_skill": { "x": -6.47, "y": 9.19, "rotation": 147.53, "width": 194, "height": 150 }
+			},
+			"dau_rong_skill3": {
+				"Lv3/dau_rong_skill": { "x": -6.47, "y": 9.19, "rotation": 147.53, "width": 194, "height": 150 }
+			},
+			"eff_stone": {
+				"Lv3/eff_stone": { "x": -7.79, "y": 56.84, "width": 123, "height": 168 }
+			},
+			"eff_stone1": {
+				"Lv3/eff_stone1": { "x": 8.96, "y": 18.27, "width": 177, "height": 80 }
+			},
+			"eff_stone2": {
+				"Lv3/eff_stone": { "x": -7.79, "y": 56.84, "width": 123, "height": 168 }
+			},
+			"eff_stone3": {
+				"Lv3/eff_stone1": { "x": 8.96, "y": 18.27, "width": 177, "height": 80 }
+			},
+			"ham_rong_skill": {
+				"Lv3/ham_rong_skill": { "x": 20.74, "y": 16.7, "rotation": 108.43, "width": 73, "height": 86 }
+			},
+			"ham_rong_skill2": {
+				"Lv3/ham_rong_skill": { "x": 20.74, "y": 16.7, "rotation": 108.43, "width": 73, "height": 86 }
+			},
+			"ham_rong_skill3": {
+				"Lv3/ham_rong_skill": { "x": 20.74, "y": 16.7, "rotation": 108.43, "width": 73, "height": 86 }
+			},
+			"hat_len1": {
+				"Lv3/hat_len1": { "x": 32.99, "y": -252.21, "width": 600, "height": 600 }
+			},
+			"hat_len2": {
+				"Lv3/hat_len2": { "x": 23.94, "y": -241.81, "width": 600, "height": 600 }
+			},
+			"hat_len3": {
+				"Lv3/hat_len1": { "x": 32.99, "y": -252.21, "scaleX": -1.2544, "width": 600, "height": 600 }
+			},
+			"hat_len4": {
+				"Lv3/hat_len2": { "x": 23.94, "y": -241.81, "width": 600, "height": 600 }
+			},
+			"minh_rong_skill": {
+				"Lv3/minh_rong_skill": { "x": 56.15, "y": 0.82, "rotation": -0.99, "width": 251, "height": 100 }
+			},
+			"minh_rong_skill2": {
+				"Lv3/minh_rong_skill": { "x": 56.15, "y": 0.82, "rotation": -0.99, "width": 251, "height": 100 }
+			},
+			"minh_rong_skill3": {
+				"Lv3/minh_rong_skill": { "x": 56.15, "y": 0.82, "rotation": -0.99, "width": 251, "height": 100 }
+			},
+			"no_2_skill4": {
+				"Lv3/no_2_skill4": { "x": 20.95, "y": 92.17, "width": 321, "height": 325 }
+			},
+			"no_2_skill5": {
+				"Lv3/no_2_skill4": { "x": 20.95, "y": 92.17, "width": 321, "height": 325 }
+			},
+			"no_nho1": {
+				"Lv3/no_nho01": { "x": 23.49, "y": 43.27, "width": 246, "height": 166 }
+			},
+			"not04": {
+				"Lv3/not04": { "x": 6.41, "y": -2.54, "width": 195, "height": 187 }
+			},
+			"not4": {
+				"Lv3/not04": { "x": 6.41, "y": -2.54, "width": 195, "height": 187 }
+			},
+			"quach_tinh-rong_day_1": {
+				"Lv3/quach_tinh-rong_day_1": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_2": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_3": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_4": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_5": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_6": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_7": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_8": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_9": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_11": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_12": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_13": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_14": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 }
+			},
+			"quach_tinh-rong_day_2": {
+				"Lv3/quach_tinh-rong_day_1": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_2": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_3": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_4": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_5": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_6": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_7": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_8": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_9": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_11": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_12": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_13": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_14": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 }
+			},
+			"quach_tinh-rong_day_3": {
+				"Lv3/quach_tinh-rong_day_1": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_2": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_3": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_4": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_5": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_6": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_7": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_8": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_9": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_11": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_12": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_13": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_14": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 }
+			},
+			"quach_tinh-rong_day_4": {
+				"Lv3/quach_tinh-rong_day_1": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_2": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_3": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_4": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_5": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_6": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_7": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_8": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_9": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_11": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_12": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_13": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_14": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 }
+			},
+			"quach_tinh-rong_day_5": {
+				"Lv3/quach_tinh-rong_day_1": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_2": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_3": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_4": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_5": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_6": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_7": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_8": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_9": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_11": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_12": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_13": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 },
+				"Lv3/quach_tinh-rong_day_14": { "x": 18.1, "y": 14.79, "width": 127, "height": 268 }
+			},
+			"rock_dust": {
+				"Lv3/rock_dust": { "x": 26.6, "y": -7.03, "width": 223, "height": 226 }
+			},
+			"rock_dust2": {
+				"Lv3/rock_dust": { "x": 26.6, "y": -7.03, "width": 223, "height": 226 }
+			},
+			"rong_skill1": {
+				"Lv3/rong_skill1": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill2": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill3": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill4": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill5": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill6": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill7": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill8": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill9": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill11": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill12": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 }
+			},
+			"rong_skill2": {
+				"Lv3/rong_skill1": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill2": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill3": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill4": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill5": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill6": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill7": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill8": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill9": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill11": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill12": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 }
+			},
+			"rong_skill3": {
+				"Lv3/rong_skill1": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill2": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill3": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill4": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill5": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill6": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill7": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill8": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill9": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill11": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 },
+				"Lv3/rong_skill12": { "x": -54.36, "y": -40.61, "width": 255, "height": 239 }
+			},
+			"toa1": {
+				"Lv3/toa1": { "x": -8.97, "y": -2.73, "width": 196, "height": 172 }
+			},
+			"toa2": {
+				"Lv3/toa1": { "x": -8.97, "y": -2.73, "width": 196, "height": 172 }
+			},
+			"toa3": {
+				"Lv3/toa1": { "x": -8.97, "y": -2.73, "width": 196, "height": 172 }
+			},
+			"toa4": {
+				"Lv3/toa1": { "x": -8.97, "y": -2.73, "width": 196, "height": 172 }
+			},
+			"xoay_rong1": {
+				"Lv3/xoay_rong1": { "x": -3.94, "y": -6.7, "width": 212, "height": 194 }
+			}
+		}
+	}
+],
+"animations": {
+	"attack_1": {
+		"slots": {
+			"Elements - Explosion 019 Hit Radial noCT noRSZ_00003": {
+				"attachment": [
+					{ "time": 0.2, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00003" },
+					{ "time": 0.2333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00007" },
+					{ "time": 0.2667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00009" },
+					{ "time": 0.3, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00013" },
+					{ "time": 0.3333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00015" },
+					{ "time": 0.3667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00017" },
+					{ "time": 0.4, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00021" },
+					{ "time": 0.4333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00023" },
+					{ "time": 0.4667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00025" },
+					{ "time": 0.5, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00029" },
+					{ "time": 0.5333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00031" },
+					{ "time": 0.5667, "name": null }
+				]
+			},
+			"Elements - Explosion 019 Hit Radial noCT noRSZ_3": {
+				"attachment": [
+					{ "time": 0.2333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00003" },
+					{ "time": 0.2667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00005" },
+					{ "time": 0.3, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00009" },
+					{ "time": 0.3333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00011" },
+					{ "time": 0.3667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00013" },
+					{ "time": 0.4, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00017" },
+					{ "time": 0.4333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00019" },
+					{ "time": 0.4667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00021" },
+					{ "time": 0.5, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00025" },
+					{ "time": 0.5333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00027" },
+					{ "time": 0.5667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00031" },
+					{ "time": 0.6, "name": null }
+				]
+			},
+			"Elements - Explosion 019 Hit Radial noCT noRSZ_4": {
+				"color": [
+					{ "color": "ff903a00" }
+				]
+			},
+			"Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00005": {
+				"color": [
+					{ "color": "ff652c00" }
+				]
+			},
+			"Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_6": {
+				"color": [
+					{ "color": "ff652c00" },
+					{ "time": 0.6667, "color": "ff652b00" }
+				]
+			},
+			"dau_rong_skill": {
+				"color": [
+					{ "time": 0.1667, "color": "ff7e58ff" },
+					{ "time": 0.3, "color": "ff7d5700" }
+				],
+				"attachment": [
+					{ "name": "Lv3/dau_rong_skill" },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"dau_rong_skill2": {
+				"color": [
+					{ "color": "ff7d5700" }
+				],
+				"attachment": [
+					{ "time": 0.1, "name": "Lv3/dau_rong_skill" },
+					{ "time": 0.4333, "name": null }
+				]
+			},
+			"dau_rong_skill3": {
+				"color": [
+					{ "color": "ff7d5700" }
+				]
+			},
+			"ham_rong_skill": {
+				"color": [
+					{ "time": 0.1667, "color": "ff7e58ff" },
+					{ "time": 0.3, "color": "ff7d5700" }
+				],
+				"attachment": [
+					{ "name": "Lv3/ham_rong_skill" },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"ham_rong_skill2": {
+				"color": [
+					{ "color": "ff7d5700" }
+				],
+				"attachment": [
+					{ "time": 0.1, "name": "Lv3/ham_rong_skill" },
+					{ "time": 0.4333, "name": null }
+				]
+			},
+			"ham_rong_skill3": {
+				"color": [
+					{ "color": "ff7d5700" }
+				]
+			},
+			"minh_rong_skill": {
+				"color": [
+					{ "time": 0.1667, "color": "ff7e58ff" },
+					{ "time": 0.3, "color": "ff7d5700" }
+				],
+				"attachment": [
+					{ "name": "Lv3/minh_rong_skill" },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"minh_rong_skill2": {
+				"color": [
+					{ "color": "ff7d5700" }
+				],
+				"attachment": [
+					{ "time": 0.1, "name": "Lv3/minh_rong_skill" },
+					{ "time": 0.4333, "name": null }
+				]
+			},
+			"minh_rong_skill3": {
+				"color": [
+					{ "color": "ff7d5700" }
+				]
+			}
+		},
+		"bones": {
+			"Elements - Explosion 019 Hit Radial noCT noRSZ_00003": {
+				"translate": [
+					{ "time": 0.2, "x": -629.89, "y": 204.29 }
+				],
+				"scale": [
+					{ "time": 0.2, "x": 2.777, "y": 2.777 }
+				]
+			},
+			"ham_rong_skill": {
+				"rotate": [
+					{},
+					{ "time": 0.1, "angle": 43.03 },
+					{ "time": 0.1667, "angle": 41.24 },
+					{ "time": 0.2667, "angle": -7.63 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.1, "x": -1.85, "y": -9.57 }
+				],
+				"scale": [
+					{ "x": 1.24, "y": 1.24 }
+				]
+			},
+			"dau_rong_skill2": {
+				"rotate": [
+					{ "time": 0.1 },
+					{ "time": 0.3, "angle": 331.43 },
+					{ "time": 0.4, "angle": 351.41 }
+				],
+				"translate": [
+					{ "time": 0.1 },
+					{ "time": 0.3, "x": -0.18, "y": -10.68 }
+				],
+				"scale": [
+					{ "time": 0.1, "x": 1.24, "y": 1.24 }
+				]
+			},
+			"minh_rong_skill": {
+				"scale": [
+					{ "x": 1.24, "y": 1.24 }
+				]
+			},
+			"ham_rong_skill2": {
+				"rotate": [
+					{ "time": 0.1 },
+					{ "time": 0.2, "angle": 43.03 },
+					{ "time": 0.3, "angle": 41.24 },
+					{ "time": 0.4, "angle": -7.63 }
+				],
+				"translate": [
+					{ "time": 0.1 },
+					{ "time": 0.2, "x": -1.85, "y": -9.57 }
+				],
+				"scale": [
+					{ "time": 0.1, "x": 1.24, "y": 1.24 }
+				]
+			},
+			"Elements - Explosion 019 Hit Radial noCT noRSZ_3": {
+				"rotate": [
+					{ "time": 0.2333, "angle": -124.74 }
+				],
+				"translate": [
+					{ "time": 0.2333, "x": -494, "y": 255.25 }
+				],
+				"scale": [
+					{ "time": 0.2333, "x": 2.777, "y": 2.777 }
+				]
+			},
+			"dau_rong_skill": {
+				"rotate": [
+					{},
+					{ "time": 0.1667, "angle": 331.43 },
+					{ "time": 0.2667, "angle": 351.41 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.1667, "x": -0.18, "y": -10.68 }
+				],
+				"scale": [
+					{ "x": 1.24, "y": 1.24 }
+				]
+			},
+			"rong_attack": {
+				"translate": [
+					{ "x": -142.4, "y": -71.01 },
+					{ "time": 0.1667, "x": -325.01, "y": -71.01 },
+					{ "time": 0.3, "x": -423.6, "y": -71.01 }
+				],
+				"scale": [
+					{ "x": 1.24, "y": 1.24 }
+				]
+			},
+			"minh_rong_skill2": {
+				"scale": [
+					{ "time": 0.1, "x": 1.24, "y": 1.24 }
+				]
+			},
+			"rong_attack2": {
+				"translate": [
+					{ "time": 0.1, "x": 348.74, "y": -71.01 },
+					{ "time": 0.3, "x": -325.01, "y": -71.01 },
+					{ "time": 0.4333, "x": -423.6, "y": -71.01 }
+				],
+				"scale": [
+					{ "time": 0.1, "x": 1.24, "y": 1.24 }
+				]
+			},
+			"rong_attack3": {
+				"translate": [
+					{ "time": 0.1667, "x": 348.74, "y": -71.01 },
+					{ "time": 0.4, "x": -325.01, "y": -71.01 },
+					{ "time": 0.5333, "x": -423.6, "y": -71.01 }
+				],
+				"scale": [
+					{ "time": 0.1667, "x": 1.24, "y": 1.24 }
+				]
+			},
+			"root": {
+				"translate": [
+					{ "x": 872.06 }
+				],
+				"scale": [
+					{ "x": 1.2, "y": 1.2 }
+				]
+			}
+		}
+	},
+	"attack_3": {
+		"slots": {
+			"Elements - Explosion 019 Hit Radial noCT noRSZ_00003": {
+				"attachment": [
+					{ "time": 0.2667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00003" },
+					{ "time": 0.3, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00005" },
+					{ "time": 0.3333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00007" },
+					{ "time": 0.3667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00009" },
+					{ "time": 0.4, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00011" },
+					{ "time": 0.4333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00013" },
+					{ "time": 0.4667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00015" },
+					{ "time": 0.5, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00017" },
+					{ "time": 0.5333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00019" },
+					{ "time": 0.5667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00021" },
+					{ "time": 0.6, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00023" },
+					{ "time": 0.6333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00025" },
+					{ "time": 0.6667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00027" },
+					{ "time": 0.7, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00029" },
+					{ "time": 0.7333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00031" },
+					{ "time": 0.7667, "name": null }
+				]
+			},
+			"Elements - Explosion 019 Hit Radial noCT noRSZ_3": {
+				"attachment": [
+					{ "time": 0.3333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00003" },
+					{ "time": 0.3667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00005" },
+					{ "time": 0.4, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00007" },
+					{ "time": 0.4333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00009" },
+					{ "time": 0.4667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00011" },
+					{ "time": 0.5, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00013" },
+					{ "time": 0.5333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00015" },
+					{ "time": 0.5667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00017" },
+					{ "time": 0.6, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00019" },
+					{ "time": 0.6333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00021" },
+					{ "time": 0.6667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00023" },
+					{ "time": 0.7, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00025" },
+					{ "time": 0.7333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00027" },
+					{ "time": 0.7667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00029" },
+					{ "time": 0.8, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00031" },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"Elements - Explosion 019 Hit Radial noCT noRSZ_4": {
+				"attachment": [
+					{ "time": 0.5, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00003" },
+					{ "time": 0.5333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00005" },
+					{ "time": 0.5667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00007" },
+					{ "time": 0.6, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00009" },
+					{ "time": 0.6333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00011" },
+					{ "time": 0.6667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00013" },
+					{ "time": 0.7, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00015" },
+					{ "time": 0.7333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00017" },
+					{ "time": 0.7667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00019" },
+					{ "time": 0.8, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00021" },
+					{ "time": 0.8333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00023" },
+					{ "time": 0.8667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00025" },
+					{ "time": 0.9, "name": null }
+				]
+			},
+			"Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00005": {
+				"attachment": [
+					{ "time": 0.0333, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00005" },
+					{ "time": 0.0667, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00009" },
+					{ "time": 0.1, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00011" },
+					{ "time": 0.1333, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00013" },
+					{ "time": 0.1667, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00015" },
+					{ "time": 0.2, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00017" },
+					{ "time": 0.2333, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00019" },
+					{ "time": 0.2667, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00021" },
+					{ "time": 0.3, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00023" },
+					{ "time": 0.3333, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00025" },
+					{ "time": 0.3667, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00027" },
+					{ "time": 0.4, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00029" },
+					{ "time": 0.4333, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00030" },
+					{ "time": 0.4667, "name": null }
+				]
+			},
+			"Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_5": {
+				"attachment": [
+					{ "time": 0.1333, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00005" },
+					{ "time": 0.1667, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00009" },
+					{ "time": 0.2, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00011" },
+					{ "time": 0.2333, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00013" },
+					{ "time": 0.2667, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00015" },
+					{ "time": 0.3, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00017" },
+					{ "time": 0.3333, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00019" },
+					{ "time": 0.3667, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00021" },
+					{ "time": 0.4, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00023" },
+					{ "time": 0.4333, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00025" },
+					{ "time": 0.4667, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00027" },
+					{ "time": 0.5, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00029" },
+					{ "time": 0.5333, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00030" },
+					{ "time": 0.5667, "name": null }
+				]
+			},
+			"Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_6": {
+				"attachment": [
+					{ "time": 0.2333, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00005" },
+					{ "time": 0.2667, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00009" },
+					{ "time": 0.3, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00011" },
+					{ "time": 0.3333, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00013" },
+					{ "time": 0.3667, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00015" },
+					{ "time": 0.4, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00017" },
+					{ "time": 0.4333, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00019" },
+					{ "time": 0.4667, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00021" },
+					{ "time": 0.5, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00023" },
+					{ "time": 0.5333, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00025" },
+					{ "time": 0.5667, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00027" },
+					{ "time": 0.6, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00029" },
+					{ "time": 0.6333, "name": "Lv3/Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00030" },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"dau_rong_skill": {
+				"color": [
+					{ "time": 0.2333, "color": "ff7e58ff" },
+					{ "time": 0.4, "color": "ff7d5700" }
+				],
+				"attachment": [
+					{ "name": "Lv3/dau_rong_skill" },
+					{ "time": 0.4, "name": null }
+				]
+			},
+			"dau_rong_skill2": {
+				"color": [
+					{ "time": 0.4, "color": "ff7e58ff" },
+					{ "time": 0.6, "color": "ff7d5700" }
+				],
+				"attachment": [
+					{ "time": 0.1333, "name": "Lv3/dau_rong_skill" },
+					{ "time": 0.6, "name": null }
+				]
+			},
+			"dau_rong_skill3": {
+				"color": [
+					{ "time": 0.5333, "color": "ff7e58ff" },
+					{ "time": 0.7333, "color": "ff7d5700" }
+				],
+				"attachment": [
+					{ "time": 0.2333, "name": "Lv3/dau_rong_skill" },
+					{ "time": 0.7333, "name": null }
+				]
+			},
+			"ham_rong_skill": {
+				"color": [
+					{ "time": 0.2333, "color": "ff7e58ff" },
+					{ "time": 0.4, "color": "ff7d5700" }
+				],
+				"attachment": [
+					{ "name": "Lv3/ham_rong_skill" },
+					{ "time": 0.4, "name": null }
+				]
+			},
+			"ham_rong_skill2": {
+				"color": [
+					{ "time": 0.4, "color": "ff7e58ff" },
+					{ "time": 0.6, "color": "ff7d5700" }
+				],
+				"attachment": [
+					{ "time": 0.1333, "name": "Lv3/ham_rong_skill" },
+					{ "time": 0.6, "name": null }
+				]
+			},
+			"ham_rong_skill3": {
+				"color": [
+					{ "time": 0.5333, "color": "ff7e58ff" },
+					{ "time": 0.7333, "color": "ff7d5700" }
+				],
+				"attachment": [
+					{ "time": 0.2333, "name": "Lv3/ham_rong_skill" },
+					{ "time": 0.7333, "name": null }
+				]
+			},
+			"minh_rong_skill": {
+				"color": [
+					{ "time": 0.2333, "color": "ff7e58ff" },
+					{ "time": 0.4, "color": "ff7d5700" }
+				],
+				"attachment": [
+					{ "name": "Lv3/minh_rong_skill" },
+					{ "time": 0.4, "name": null }
+				]
+			},
+			"minh_rong_skill2": {
+				"color": [
+					{ "time": 0.4, "color": "ff7e58ff" },
+					{ "time": 0.6, "color": "ff7d5700" }
+				],
+				"attachment": [
+					{ "time": 0.1333, "name": "Lv3/minh_rong_skill" },
+					{ "time": 0.6, "name": null }
+				]
+			},
+			"minh_rong_skill3": {
+				"color": [
+					{ "time": 0.5333, "color": "ff7e58ff" },
+					{ "time": 0.7333, "color": "ff7d5700" }
+				],
+				"attachment": [
+					{ "time": 0.2333, "name": "Lv3/minh_rong_skill" },
+					{ "time": 0.7333, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"ham_rong_skill3": {
+				"rotate": [
+					{ "time": 0.2333 },
+					{ "time": 0.4, "angle": 43.03 },
+					{ "time": 0.5333, "angle": 41.24 },
+					{ "time": 0.7, "angle": -7.63 }
+				],
+				"translate": [
+					{ "time": 0.2333 },
+					{ "time": 0.4, "x": -1.85, "y": -9.57 }
+				],
+				"scale": [
+					{ "time": 0.2333, "x": 1.24, "y": 1.24 }
+				]
+			},
+			"Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_00005": {
+				"translate": [
+					{ "x": -164.59 },
+					{ "time": 0.0333, "x": -181.28, "y": 18.66 },
+					{ "time": 0.1667, "x": -286.03, "y": 18.66 }
+				],
+				"scale": [
+					{ "time": 0.0333, "x": 4.893, "y": 5.091 }
+				]
+			},
+			"Elements - Explosion 019 Hit Radial noCT noRSZ_00003": {
+				"translate": [
+					{ "x": -164.59 },
+					{ "time": 0.2667, "x": -629.89, "y": 204.29 }
+				],
+				"scale": [
+					{ "time": 0.2667, "x": 2.777, "y": 2.777 }
+				]
+			},
+			"Elements - Explosion 019 Hit Radial noCT noRSZ_4": {
+				"rotate": [
+					{ "time": 0.5, "angle": -124.74 }
+				],
+				"translate": [
+					{ "x": -164.59 },
+					{ "time": 0.5, "x": -550.62, "y": 116.53 }
+				],
+				"scale": [
+					{ "time": 0.5, "x": 2.777, "y": 2.777 }
+				]
+			},
+			"ham_rong_skill": {
+				"rotate": [
+					{},
+					{ "time": 0.1333, "angle": 43.03 },
+					{ "time": 0.2333, "angle": 41.24 },
+					{ "time": 0.3667, "angle": -7.63 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.1333, "x": -1.85, "y": -9.57 }
+				],
+				"scale": [
+					{ "x": 1.24, "y": 1.24 }
+				]
+			},
+			"dau_rong_skill2": {
+				"rotate": [
+					{ "time": 0.1333 },
+					{ "time": 0.4, "angle": 331.43 },
+					{ "time": 0.5333, "angle": 351.41 }
+				],
+				"translate": [
+					{ "time": 0.1333 },
+					{ "time": 0.4, "x": -0.18, "y": -10.68 }
+				],
+				"scale": [
+					{ "time": 0.1333, "x": 1.24, "y": 1.24 }
+				]
+			},
+			"minh_rong_skill": {
+				"scale": [
+					{ "x": 1.24, "y": 1.24 }
+				]
+			},
+			"Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_5": {
+				"translate": [
+					{ "x": -164.59 },
+					{ "time": 0.1333, "x": -84.74, "y": 88.5 },
+					{ "time": 0.2667, "x": -271.66, "y": 63.85 }
+				],
+				"scale": [
+					{ "time": 0.1333, "x": 4.893, "y": 5.091 }
+				]
+			},
+			"dau_rong_skill3": {
+				"rotate": [
+					{ "time": 0.2333 },
+					{ "time": 0.5333, "angle": 331.43 },
+					{ "time": 0.7, "angle": 351.41 }
+				],
+				"translate": [
+					{ "time": 0.2333 },
+					{ "time": 0.5333, "x": -0.18, "y": -10.68 }
+				],
+				"scale": [
+					{ "time": 0.2333, "x": 1.24, "y": 1.24 }
+				]
+			},
+			"Elements - Fire 087 Torch Fireball Left MIX noCT noRSZ_6": {
+				"translate": [
+					{ "x": -164.59 },
+					{ "time": 0.2333, "x": -51.88, "y": -61.22 },
+					{ "time": 0.3667, "x": -238.79, "y": -85.86 },
+					{ "time": 0.4333, "x": -405.26, "y": -85.86 }
+				],
+				"scale": [
+					{ "time": 0.2333, "x": 7.403, "y": 6.985 },
+					{ "time": 0.2667, "x": 4.778, "y": 6.788 },
+					{ "time": 0.3333, "x": 4.055, "y": 6.392 },
+					{ "time": 0.3667, "x": 7.403, "y": 6.194 },
+					{ "time": 0.4333, "x": 5.45, "y": 6.194 }
+				]
+			},
+			"ham_rong_skill2": {
+				"rotate": [
+					{ "time": 0.1333 },
+					{ "time": 0.2667, "angle": 43.03 },
+					{ "time": 0.4, "angle": 41.24 },
+					{ "time": 0.5333, "angle": -7.63 }
+				],
+				"translate": [
+					{ "time": 0.1333 },
+					{ "time": 0.2667, "x": -1.85, "y": -9.57 }
+				],
+				"scale": [
+					{ "time": 0.1333, "x": 1.24, "y": 1.24 }
+				]
+			},
+			"Elements - Explosion 019 Hit Radial noCT noRSZ_3": {
+				"rotate": [
+					{ "time": 0.3333, "angle": -124.74 }
+				],
+				"translate": [
+					{ "x": -164.59 },
+					{ "time": 0.3333, "x": -494, "y": 255.25 }
+				],
+				"scale": [
+					{ "time": 0.3333, "x": 2.777, "y": 2.777 }
+				]
+			},
+			"dau_rong_skill": {
+				"rotate": [
+					{},
+					{ "time": 0.2333, "angle": 331.43 },
+					{ "time": 0.3667, "angle": 351.41 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.2333, "x": -0.18, "y": -10.68 }
+				],
+				"scale": [
+					{ "x": 1.24, "y": 1.24 }
+				]
+			},
+			"rong_attack": {
+				"translate": [
+					{ "x": 144.58, "y": -71.01 },
+					{ "time": 0.2333, "x": -325.01, "y": -71.01 },
+					{ "time": 0.4, "x": -423.6, "y": -71.01 }
+				],
+				"scale": [
+					{ "x": 1.24, "y": 1.24 }
+				]
+			},
+			"minh_rong_skill2": {
+				"scale": [
+					{ "time": 0.1333, "x": 1.24, "y": 1.24 }
+				]
+			},
+			"minh_rong_skill3": {
+				"scale": [
+					{ "time": 0.2333, "x": 1.24, "y": 1.24 }
+				]
+			},
+			"rong_attack2": {
+				"translate": [
+					{ "x": -164.59 },
+					{ "time": 0.1333, "x": 348.74, "y": -71.01 },
+					{ "time": 0.4, "x": -325.01, "y": -71.01 },
+					{ "time": 0.6, "x": -423.6, "y": -71.01 }
+				],
+				"scale": [
+					{ "time": 0.1333, "x": 1.24, "y": 1.24 }
+				]
+			},
+			"rong_attack3": {
+				"translate": [
+					{ "x": -334.2 },
+					{ "time": 0.2333, "x": 348.74, "y": -71.01 },
+					{ "time": 0.5333, "x": -325.01, "y": -71.01 },
+					{ "time": 0.7333, "x": -423.6, "y": -71.01 }
+				],
+				"scale": [
+					{ "time": 0.2333, "x": 1.24, "y": 1.24 }
+				]
+			},
+			"root": {
+				"translate": [
+					{ "x": 872.06 }
+				],
+				"scale": [
+					{ "x": 1.2, "y": 1.2 }
+				]
+			},
+			"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_0": {
+				"translate": [
+					{ "x": -416.27 }
+				]
+			}
+		}
+	},
+	"burst": {
+		"slots": {
+			"Elements - Explosion 009 Up MIX noCT noRSZ_00001": {
+				"attachment": [
+					{ "time": 0.3667, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00001" },
+					{ "time": 0.4333, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00003" },
+					{ "time": 0.4667, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00007" },
+					{ "time": 0.5333, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00009" },
+					{ "time": 0.5667, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00013" },
+					{ "time": 0.6333, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00015" },
+					{ "time": 0.6667, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00019" },
+					{ "time": 0.7, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00021" },
+					{ "time": 0.7667, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00025" },
+					{ "time": 0.8, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00027" },
+					{ "time": 0.8667, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00031" },
+					{ "time": 0.9, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00033" },
+					{ "time": 0.9333, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00001" },
+					{ "time": 1, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00003" },
+					{ "time": 1.0333, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00007" },
+					{ "time": 1.1, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00009" },
+					{ "time": 1.1333, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00013" },
+					{ "time": 1.2, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00015" },
+					{ "time": 1.2333, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00019" },
+					{ "time": 1.2667, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00021" },
+					{ "time": 1.3333, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00025" },
+					{ "time": 1.3667, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00027" },
+					{ "time": 1.4333, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00029" },
+					{ "time": 1.4667, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00033" },
+					{ "time": 1.5333, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00035" },
+					{ "time": 1.5667, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00039" },
+					{ "time": 1.6, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00041" },
+					{ "time": 1.6667, "name": null }
+				]
+			},
+			"Elements - Explosion 009 Up MIX noCT noRSZ_1": {
+				"attachment": [
+					{ "time": 0.6667, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00003" },
+					{ "time": 0.7, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00005" },
+					{ "time": 0.7667, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00009" },
+					{ "time": 0.8, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00011" },
+					{ "time": 0.8667, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00015" },
+					{ "time": 0.9, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00017" },
+					{ "time": 0.9333, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00021" },
+					{ "time": 1, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00023" },
+					{ "time": 1.0333, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00027" },
+					{ "time": 1.1, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00029" },
+					{ "time": 1.1333, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00033" },
+					{ "time": 1.2, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00035" },
+					{ "time": 1.2333, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00039" },
+					{ "time": 1.2667, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00041" },
+					{ "time": 1.3333, "name": null }
+				]
+			},
+			"Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00138": {
+				"attachment": [
+					{ "time": 0.3333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00139" },
+					{ "time": 0.3667, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00140" },
+					{ "time": 0.4333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00141" },
+					{ "time": 0.4667, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00143" },
+					{ "time": 0.5333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00144" },
+					{ "time": 0.5667, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00146" },
+					{ "time": 0.6333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00147" },
+					{ "time": 0.6667, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00149" },
+					{ "time": 0.7, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00151" },
+					{ "time": 0.7667, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00153" },
+					{ "time": 0.8, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00154" },
+					{ "time": 0.8667, "name": null },
+					{ "time": 0.9, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00138" },
+					{ "time": 0.9333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00140" },
+					{ "time": 1, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00141" },
+					{ "time": 1.0333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00143" },
+					{ "time": 1.1, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00144" },
+					{ "time": 1.1333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00146" },
+					{ "time": 1.2, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00147" },
+					{ "time": 1.2333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00149" },
+					{ "time": 1.2667, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00151" },
+					{ "time": 1.3333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00153" },
+					{ "time": 1.3667, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00154" },
+					{ "time": 1.4333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00156" },
+					{ "time": 1.4667, "name": null }
+				]
+			},
+			"Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_138": {
+				"attachment": [
+					{ "time": 0.4667, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00138" },
+					{ "time": 0.5333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00139" },
+					{ "time": 0.5667, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00141" },
+					{ "time": 0.6333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00142" },
+					{ "time": 0.6667, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00144" },
+					{ "time": 0.7, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00145" },
+					{ "time": 0.7667, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00147" },
+					{ "time": 0.8, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00148" },
+					{ "time": 0.8667, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00151" },
+					{ "time": 0.9, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00152" },
+					{ "time": 0.9333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00154" },
+					{ "time": 1, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00156" },
+					{ "time": 1.0333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00138" },
+					{ "time": 1.1, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00139" },
+					{ "time": 1.1333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00141" },
+					{ "time": 1.2, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00142" },
+					{ "time": 1.2333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00144" },
+					{ "time": 1.2667, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00145" },
+					{ "time": 1.3333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00147" },
+					{ "time": 1.3667, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00148" },
+					{ "time": 1.4333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00149" },
+					{ "time": 1.4667, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00152" },
+					{ "time": 1.5333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00153" },
+					{ "time": 1.5667, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00156" },
+					{ "time": 1.6, "name": null }
+				]
+			},
+			"Elements - Explosion 019 Hit Radial noCT noRSZ_00003": {
+				"attachment": [
+					{ "time": 0.5667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00005" },
+					{ "time": 0.6333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00007" },
+					{ "time": 0.6667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00011" },
+					{ "time": 0.7, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00013" },
+					{ "time": 0.7667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00017" },
+					{ "time": 0.8, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00019" },
+					{ "time": 0.8667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00023" },
+					{ "time": 0.9, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00025" },
+					{ "time": 0.9333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00029" },
+					{ "time": 1, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00031" },
+					{ "time": 1.0333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00003" },
+					{ "time": 1.1, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00005" },
+					{ "time": 1.1333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00009" },
+					{ "time": 1.2, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00011" },
+					{ "time": 1.2333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00015" },
+					{ "time": 1.2667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00017" },
+					{ "time": 1.3333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00021" },
+					{ "time": 1.3667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00023" },
+					{ "time": 1.4333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00025" },
+					{ "time": 1.4667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00029" },
+					{ "time": 1.5333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00031" },
+					{ "time": 1.5667, "name": null }
+				]
+			},
+			"Elements - Explosion 019 Hit Radial noCT noRSZ_4": {
+				"attachment": [
+					{ "time": 1.2333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00003" },
+					{ "time": 1.2667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00005" },
+					{ "time": 1.3333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00009" },
+					{ "time": 1.3667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00011" },
+					{ "time": 1.4333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00013" },
+					{ "time": 1.4667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00017" },
+					{ "time": 1.5333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00019" },
+					{ "time": 1.5667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00023" },
+					{ "time": 1.6, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00025" },
+					{ "time": 1.6667, "name": null }
+				]
+			},
+			"choe": {
+				"color": [
+					{ "time": 0.0333, "color": "ff7e58ff" },
+					{ "time": 0.2, "color": "ff7d5700" }
+				],
+				"attachment": [
+					{ "name": "Lv3/choe" },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"eff_stone": {
+				"color": [
+					{ "time": 0.6667, "color": "ffd9c8ff" },
+					{ "time": 0.8667, "color": "ffd8c800" },
+					{ "time": 1.2333, "color": "ffd9c8ff" },
+					{ "time": 1.4333, "color": "ffd8c800" }
+				],
+				"attachment": [
+					{ "time": 0.3667, "name": "Lv3/eff_stone" },
+					{ "time": 0.8667, "name": null },
+					{ "time": 0.9333, "name": "Lv3/eff_stone" },
+					{ "time": 1.4333, "name": null }
+				]
+			},
+			"eff_stone1": {
+				"color": [
+					{ "time": 0.7, "color": "ffd9c8ff" },
+					{ "time": 0.8667, "color": "ffd8c800" },
+					{ "time": 1.2667, "color": "ffd9c8ff" },
+					{ "time": 1.4667, "color": "ffd8c800" }
+				],
+				"attachment": [
+					{ "time": 0.4667, "name": "Lv3/eff_stone1" },
+					{ "time": 0.8667, "name": null },
+					{ "time": 1.0333, "name": "Lv3/eff_stone1" },
+					{ "time": 1.4667, "name": null }
+				]
+			},
+			"eff_stone2": {
+				"color": [
+					{ "time": 0.8667, "color": "ffd9c8ff" },
+					{ "time": 1, "color": "ffd8c800" }
+				],
+				"attachment": [
+					{ "time": 0.5667, "name": "Lv3/eff_stone" },
+					{ "time": 1, "name": null }
+				]
+			},
+			"eff_stone3": {
+				"color": [
+					{ "time": 0.9333, "color": "ffd9c8ff" },
+					{ "time": 1.1333, "color": "ffd8c800" }
+				],
+				"attachment": [
+					{ "time": 0.7, "name": "Lv3/eff_stone1" },
+					{ "time": 1.1333, "name": null }
+				]
+			},
+			"hat_len1": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.1333, "color": "ffffffff" },
+					{ "time": 0.3333, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.6667, "color": "ffffff00" },
+					{ "time": 0.8, "color": "ffffffff" },
+					{ "time": 0.9333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "Lv3/hat_len1" },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.6667, "name": "Lv3/hat_len1" },
+					{ "time": 0.9333, "name": null }
+				]
+			},
+			"hat_len2": {
+				"color": [
+					{ "time": 0.1333, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff" },
+					{ "time": 0.4667, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.8, "color": "ffffff00" },
+					{ "time": 0.9333, "color": "ffffffff" },
+					{ "time": 1.1333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.1333, "name": "Lv3/hat_len2" },
+					{ "time": 0.4667, "name": null },
+					{ "time": 0.8, "name": "Lv3/hat_len2" },
+					{ "time": 1.1333, "name": null }
+				]
+			},
+			"hat_len3": {
+				"color": [
+					{ "time": 0.3333, "color": "ffffff00" },
+					{ "time": 0.4667, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.9333, "color": "ffffff00" },
+					{ "time": 1.1333, "color": "ffffffff" },
+					{ "time": 1.2667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.3333, "name": "Lv3/hat_len1" },
+					{ "time": 0.6667, "name": null },
+					{ "time": 0.9333, "name": "Lv3/hat_len1" },
+					{ "time": 1.2667, "name": null }
+				]
+			},
+			"hat_len4": {
+				"color": [
+					{ "time": 0.4667, "color": "ffffff00" },
+					{ "time": 0.6667, "color": "ffffffff" },
+					{ "time": 0.8, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1.1333, "color": "ffffff00" },
+					{ "time": 1.2667, "color": "ffffffff" },
+					{ "time": 1.4667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.4667, "name": "Lv3/hat_len2" },
+					{ "time": 0.8, "name": null },
+					{ "time": 1.1333, "name": "Lv3/hat_len2" },
+					{ "time": 1.4667, "name": null }
+				]
+			},
+			"no_2_skill4": {
+				"color": [
+					{ "time": 0.9333, "color": "ff7e58ff" },
+					{ "time": 1.1333, "color": "ff7d5700" },
+					{ "time": 1.4667, "color": "ff7e58ff" },
+					{ "time": 1.6667, "color": "ff7d5700" }
+				],
+				"attachment": [
+					{ "time": 0.7, "name": "Lv3/no_2_skill4" },
+					{ "time": 1.1333, "name": null },
+					{ "time": 1.2333, "name": "Lv3/no_2_skill4" },
+					{ "time": 1.6667, "name": null }
+				]
+			},
+			"not04": {
+				"color": [
+					{ "time": 1.2333, "color": "ff7e58ff" },
+					{ "time": 1.4333, "color": "ff7d5700" }
+				],
+				"attachment": [
+					{ "time": 1.1, "name": "Lv3/not04" },
+					{ "time": 1.4333, "name": null }
+				]
+			},
+			"not4": {
+				"color": [
+					{ "time": 1.4333, "color": "ff7e58ff" },
+					{ "time": 1.5667, "color": "ff7d5700" }
+				],
+				"attachment": [
+					{ "time": 1.2333, "name": "Lv3/not04" },
+					{ "time": 1.5667, "name": null }
+				]
+			},
+			"quach_tinh-rong_day_1": {
+				"attachment": [
+					{ "time": 0.1333, "name": "Lv3/quach_tinh-rong_day_1" },
+					{ "time": 0.2, "name": "Lv3/quach_tinh-rong_day_3" },
+					{ "time": 0.2333, "name": "Lv3/quach_tinh-rong_day_7" },
+					{ "time": 0.3, "name": "Lv3/quach_tinh-rong_day_9" },
+					{ "time": 0.3333, "name": "Lv3/quach_tinh-rong_day_13" },
+					{ "time": 0.3667, "name": "Lv3/quach_tinh-rong_day_14" },
+					{ "time": 0.4333, "name": null },
+					{ "time": 0.5333, "name": "Lv3/quach_tinh-rong_day_1" },
+					{ "time": 0.5667, "name": "Lv3/quach_tinh-rong_day_5" },
+					{ "time": 0.6333, "name": "Lv3/quach_tinh-rong_day_7" },
+					{ "time": 0.6667, "name": "Lv3/quach_tinh-rong_day_12" },
+					{ "time": 0.7, "name": "Lv3/quach_tinh-rong_day_13" },
+					{ "time": 0.7667, "name": null },
+					{ "time": 0.9, "name": "Lv3/quach_tinh-rong_day_1" },
+					{ "time": 0.9333, "name": "Lv3/quach_tinh-rong_day_5" },
+					{ "time": 1, "name": "Lv3/quach_tinh-rong_day_7" },
+					{ "time": 1.0333, "name": "Lv3/quach_tinh-rong_day_12" },
+					{ "time": 1.1, "name": "Lv3/quach_tinh-rong_day_13" },
+					{ "time": 1.1333, "name": null }
+				]
+			},
+			"quach_tinh-rong_day_2": {
+				"attachment": [
+					{ "time": 0.2333, "name": "Lv3/quach_tinh-rong_day_1" },
+					{ "time": 0.3, "name": "Lv3/quach_tinh-rong_day_3" },
+					{ "time": 0.3333, "name": "Lv3/quach_tinh-rong_day_7" },
+					{ "time": 0.3667, "name": "Lv3/quach_tinh-rong_day_9" },
+					{ "time": 0.4333, "name": "Lv3/quach_tinh-rong_day_12" },
+					{ "time": 0.4667, "name": "Lv3/quach_tinh-rong_day_14" },
+					{ "time": 0.5333, "name": null },
+					{ "time": 0.6333, "name": "Lv3/quach_tinh-rong_day_1" },
+					{ "time": 0.6667, "name": "Lv3/quach_tinh-rong_day_5" },
+					{ "time": 0.7, "name": "Lv3/quach_tinh-rong_day_7" },
+					{ "time": 0.7667, "name": "Lv3/quach_tinh-rong_day_12" },
+					{ "time": 0.8, "name": "Lv3/quach_tinh-rong_day_13" },
+					{ "time": 0.8667, "name": null },
+					{ "time": 1, "name": "Lv3/quach_tinh-rong_day_1" },
+					{ "time": 1.0333, "name": "Lv3/quach_tinh-rong_day_5" },
+					{ "time": 1.1, "name": "Lv3/quach_tinh-rong_day_7" },
+					{ "time": 1.1333, "name": "Lv3/quach_tinh-rong_day_12" },
+					{ "time": 1.2, "name": "Lv3/quach_tinh-rong_day_13" },
+					{ "time": 1.2333, "name": null }
+				]
+			},
+			"rock_dust": {
+				"color": [
+					{ "time": 1.0333, "color": "ffd9c8ff" },
+					{ "time": 1.2333, "color": "ffd8c800" }
+				],
+				"attachment": [
+					{ "time": 0.9, "name": "Lv3/rock_dust" },
+					{ "time": 1.2333, "name": null }
+				]
+			},
+			"rong_skill1": {
+				"attachment": [
+					{ "time": 0.0333, "name": "Lv3/rong_skill2" },
+					{ "time": 0.1, "name": "Lv3/rong_skill3" },
+					{ "time": 0.1333, "name": "Lv3/rong_skill5" },
+					{ "time": 0.2, "name": "Lv3/rong_skill6" },
+					{ "time": 0.2333, "name": "Lv3/rong_skill8" },
+					{ "time": 0.3, "name": "Lv3/rong_skill9" },
+					{ "time": 0.3333, "name": "Lv3/rong_skill12" },
+					{ "time": 0.3667, "name": "Lv3/rong_skill1" },
+					{ "time": 0.4333, "name": "Lv3/rong_skill2" },
+					{ "time": 0.4667, "name": "Lv3/rong_skill4" },
+					{ "time": 0.5333, "name": "Lv3/rong_skill5" },
+					{ "time": 0.5667, "name": "Lv3/rong_skill7" },
+					{ "time": 0.6333, "name": "Lv3/rong_skill8" },
+					{ "time": 0.6667, "name": "Lv3/rong_skill11" },
+					{ "time": 0.7, "name": "Lv3/rong_skill12" },
+					{ "time": 0.7667, "name": "Lv3/rong_skill1" },
+					{ "time": 0.8, "name": "Lv3/rong_skill2" },
+					{ "time": 0.8667, "name": "Lv3/rong_skill4" },
+					{ "time": 0.9, "name": "Lv3/rong_skill5" },
+					{ "time": 0.9333, "name": "Lv3/rong_skill7" },
+					{ "time": 1, "name": "Lv3/rong_skill8" },
+					{ "time": 1.0333, "name": "Lv3/rong_skill11" },
+					{ "time": 1.1, "name": "Lv3/rong_skill12" },
+					{ "time": 1.1333, "name": null }
+				]
+			},
+			"rong_skill2": {
+				"attachment": [
+					{ "time": 0.1333, "name": "Lv3/rong_skill2" },
+					{ "time": 0.2, "name": "Lv3/rong_skill3" },
+					{ "time": 0.2333, "name": "Lv3/rong_skill5" },
+					{ "time": 0.3, "name": "Lv3/rong_skill6" },
+					{ "time": 0.3333, "name": "Lv3/rong_skill8" },
+					{ "time": 0.3667, "name": "Lv3/rong_skill9" },
+					{ "time": 0.4333, "name": "Lv3/rong_skill11" },
+					{ "time": 0.4667, "name": "Lv3/rong_skill1" },
+					{ "time": 0.5333, "name": "Lv3/rong_skill2" },
+					{ "time": 0.5667, "name": "Lv3/rong_skill4" },
+					{ "time": 0.6333, "name": "Lv3/rong_skill5" },
+					{ "time": 0.6667, "name": "Lv3/rong_skill7" },
+					{ "time": 0.7, "name": "Lv3/rong_skill8" },
+					{ "time": 0.7667, "name": "Lv3/rong_skill11" },
+					{ "time": 0.8, "name": "Lv3/rong_skill12" },
+					{ "time": 0.8667, "name": "Lv3/rong_skill1" },
+					{ "time": 0.9, "name": "Lv3/rong_skill2" },
+					{ "time": 0.9333, "name": "Lv3/rong_skill4" },
+					{ "time": 1, "name": "Lv3/rong_skill5" },
+					{ "time": 1.0333, "name": "Lv3/rong_skill7" },
+					{ "time": 1.1, "name": "Lv3/rong_skill8" },
+					{ "time": 1.1333, "name": "Lv3/rong_skill11" },
+					{ "time": 1.2, "name": "Lv3/rong_skill12" },
+					{ "time": 1.2333, "name": null }
+				]
+			},
+			"rong_skill3": {
+				"attachment": [
+					{ "time": 0.3333, "name": "Lv3/rong_skill2" },
+					{ "time": 0.3667, "name": "Lv3/rong_skill3" },
+					{ "time": 0.4333, "name": "Lv3/rong_skill4" },
+					{ "time": 0.4667, "name": "Lv3/rong_skill6" },
+					{ "time": 0.5333, "name": "Lv3/rong_skill7" },
+					{ "time": 0.5667, "name": "Lv3/rong_skill9" },
+					{ "time": 0.6333, "name": "Lv3/rong_skill11" },
+					{ "time": 0.6667, "name": "Lv3/rong_skill1" },
+					{ "time": 0.7, "name": "Lv3/rong_skill2" },
+					{ "time": 0.7667, "name": "Lv3/rong_skill4" },
+					{ "time": 0.8, "name": "Lv3/rong_skill5" },
+					{ "time": 0.8667, "name": "Lv3/rong_skill7" },
+					{ "time": 0.9, "name": "Lv3/rong_skill8" },
+					{ "time": 0.9333, "name": "Lv3/rong_skill11" },
+					{ "time": 1, "name": "Lv3/rong_skill12" },
+					{ "time": 1.0333, "name": "Lv3/rong_skill1" },
+					{ "time": 1.1, "name": "Lv3/rong_skill2" },
+					{ "time": 1.1333, "name": "Lv3/rong_skill4" },
+					{ "time": 1.2, "name": "Lv3/rong_skill5" },
+					{ "time": 1.2333, "name": "Lv3/rong_skill7" },
+					{ "time": 1.2667, "name": "Lv3/rong_skill8" },
+					{ "time": 1.3333, "name": "Lv3/rong_skill11" },
+					{ "time": 1.3667, "name": "Lv3/rong_skill12" },
+					{ "time": 1.4333, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"hat_len3": {
+				"translate": [
+					{ "time": 0.3333 },
+					{ "time": 0.6667, "y": 866.94 },
+					{ "time": 0.9333 },
+					{ "time": 1.2667, "y": 866.94 }
+				],
+				"scale": [
+					{ "time": 0.3333 },
+					{ "time": 0.6667, "y": 1.562 },
+					{ "time": 0.9333 },
+					{ "time": 1.2667, "y": 1.562 }
+				]
+			},
+			"Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_138": {
+				"translate": [
+					{ "time": 0.4667, "y": -35.63 }
+				],
+				"scale": [
+					{ "time": 0.4667, "x": 4.581, "y": 5.962 }
+				]
+			},
+			"eff_stone1": {
+				"translate": [
+					{ "time": 0.4667, "x": -430.34, "y": -24.67 },
+					{ "time": 0.5667, "x": -430.34, "y": 117.86 },
+					{ "time": 0.7, "x": -430.34, "y": 153.5, "curve": 0.883, "c3": 0.75 },
+					{ "time": 0.8667, "x": -430.34, "y": 104.16 },
+					{ "time": 1.0333, "x": -430.34, "y": -24.67 },
+					{ "time": 1.1333, "x": -430.34, "y": 117.86 },
+					{ "time": 1.2667, "x": -430.34, "y": 153.5, "curve": 0.883, "c3": 0.75 },
+					{ "time": 1.4667, "x": -430.34, "y": 104.16 }
+				],
+				"scale": [
+					{ "time": 0.4667 },
+					{ "time": 0.5667, "x": 1.677, "y": 4.481 },
+					{ "time": 0.7, "x": 2.542, "y": 5.218 },
+					{ "time": 0.8667, "x": 2.96, "y": 5.218 },
+					{ "time": 1.0333 },
+					{ "time": 1.1333, "x": 1.677, "y": 4.481 },
+					{ "time": 1.2667, "x": 2.542, "y": 5.218 },
+					{ "time": 1.4667, "x": 2.96, "y": 5.218 }
+				]
+			},
+			"rong_skill1": {
+				"rotate": [
+					{ "time": 0.0333, "angle": -7.84, "curve": "stepped" },
+					{ "time": 0.3333, "angle": -7.84 },
+					{ "time": 0.3667, "angle": 69.52 }
+				],
+				"translate": [
+					{ "time": 0.0333, "x": -19.7, "y": 70.35 }
+				],
+				"scale": [
+					{ "time": 0.3333 },
+					{ "time": 0.3667, "y": -0.727 }
+				]
+			},
+			"quach_tinh-rong_day_2": {
+				"rotate": [
+					{ "time": 0.2333, "angle": 122.03 }
+				],
+				"translate": [
+					{ "time": 0.2333, "x": 3.59, "y": 248.17 }
+				],
+				"scale": [
+					{ "time": 0.2333, "x": -1.013, "y": 1.266 }
+				]
+			},
+			"rong_skill3": {
+				"rotate": [
+					{ "time": 0.3333, "angle": -7.84 }
+				],
+				"translate": [
+					{ "time": 0.3333, "x": -19.7, "y": 70.35 }
+				]
+			},
+			"quach_tinh-rong_day_1": {
+				"rotate": [
+					{ "time": 0.1333, "angle": 99.49 }
+				],
+				"translate": [
+					{ "time": 0.1333, "x": -314.14, "y": 139.59 }
+				],
+				"scale": [
+					{ "time": 0.1333, "x": 1.091, "y": 1.445 }
+				]
+			},
+			"Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00138": {
+				"translate": [
+					{ "time": 0.3333, "y": -35.63 }
+				],
+				"scale": [
+					{ "time": 0.3333, "x": 4.581, "y": 5.962 }
+				]
+			},
+			"eff_stone": {
+				"translate": [
+					{ "time": 0.3667 },
+					{ "time": 0.5333, "y": 98.68, "curve": "stepped" },
+					{ "time": 0.6667, "y": 98.68, "curve": 0.919, "c3": 0.75 },
+					{ "time": 0.8667, "y": 57.56 },
+					{ "time": 0.9333 },
+					{ "time": 1.1, "y": 98.68, "curve": "stepped" },
+					{ "time": 1.2333, "y": 98.68, "curve": 0.919, "c3": 0.75 },
+					{ "time": 1.4333, "y": 57.56 }
+				],
+				"scale": [
+					{ "time": 0.3667 },
+					{ "time": 0.5333, "x": 1.219, "y": 2.389 },
+					{ "time": 0.6667, "x": 1.923, "y": 2.723 },
+					{ "time": 0.8667, "x": 2.517, "y": 2.798 },
+					{ "time": 0.9333 },
+					{ "time": 1.1, "x": 1.219, "y": 2.389 },
+					{ "time": 1.2333, "x": 1.923, "y": 2.723 },
+					{ "time": 1.4333, "x": 2.517, "y": 2.798 }
+				]
+			},
+			"Elements - Explosion 009 Up MIX noCT noRSZ_00001": {
+				"translate": [
+					{ "time": 0.3667, "x": -452.26, "y": -35.63 }
+				],
+				"scale": [
+					{ "time": 0.3667, "x": 4.642, "y": 4.642 },
+					{ "time": 0.9333, "x": -3.51, "y": 4.642 }
+				]
+			},
+			"rong_skill2": {
+				"rotate": [
+					{ "time": 0.1333, "angle": 61.59 },
+					{ "time": 0.8667, "angle": 52.56 }
+				],
+				"translate": [
+					{ "time": 0.1333, "x": -19.7, "y": 70.35 }
+				],
+				"scale": [
+					{ "time": 0.1333, "y": -0.802 }
+				]
+			},
+			"hat_len2": {
+				"translate": [
+					{ "time": 0.1333 },
+					{ "time": 0.4667, "y": 869.68 },
+					{ "time": 0.8 },
+					{ "time": 1.1333, "y": 869.68 }
+				],
+				"scale": [
+					{ "time": 0.1333 },
+					{ "time": 0.4667, "y": 1.642 },
+					{ "time": 0.8 },
+					{ "time": 1.1333, "y": 1.642 }
+				]
+			},
+			"Elements - Explosion 019 Hit Radial noCT noRSZ_00003": {
+				"translate": [
+					{ "time": 0.5667, "x": -763.62, "y": 244.54 },
+					{ "time": 1.0333, "x": -463.71, "y": 244.54 }
+				],
+				"scale": [
+					{ "time": 0.5667, "x": 3.771, "y": 4.609 }
+				]
+			},
+			"eff_stone2": {
+				"translate": [
+					{ "time": 0.5667 },
+					{ "time": 0.6667, "y": 98.68, "curve": "stepped" },
+					{ "time": 0.8667, "y": 98.68, "curve": 0.919, "c3": 0.75 },
+					{ "time": 1, "y": 57.56 }
+				],
+				"scale": [
+					{ "time": 0.5667 },
+					{ "time": 0.6667, "x": 1.219, "y": 2.389 },
+					{ "time": 0.8667, "x": 1.923, "y": 2.723 },
+					{ "time": 1, "x": 2.517, "y": 2.798 }
+				]
+			},
+			"Elements - Explosion 009 Up MIX noCT noRSZ_1": {
+				"translate": [
+					{ "time": 0.6667, "x": -452.26, "y": -35.63 }
+				],
+				"scale": [
+					{ "time": 0.6667, "x": 4.642, "y": 4.642 }
+				]
+			},
+			"hat_len1": {
+				"translate": [
+					{},
+					{ "time": 0.3333, "y": 866.94 },
+					{ "time": 0.6667 },
+					{ "time": 0.9333, "y": 866.94 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.3333, "y": 1.562 },
+					{ "time": 0.6667 },
+					{ "time": 0.9333, "y": 1.562 }
+				]
+			},
+			"Elements - Explosion 019 Hit Radial noCT noRSZ_4": {
+				"translate": [
+					{ "time": 1.2333, "x": -680.82, "y": 120.14 }
+				],
+				"scale": [
+					{ "time": 1.2333, "x": 2.82, "y": 2.82 }
+				]
+			},
+			"hat_len4": {
+				"translate": [
+					{ "time": 0.4667 },
+					{ "time": 0.8, "y": 869.68 },
+					{ "time": 1.1333 },
+					{ "time": 1.4667, "y": 869.68 }
+				],
+				"scale": [
+					{ "time": 0.4667 },
+					{ "time": 0.8, "y": 1.642 },
+					{ "time": 1.1333 },
+					{ "time": 1.4667, "y": 1.642 }
+				]
+			},
+			"eff_stone3": {
+				"translate": [
+					{ "time": 0.7, "x": -430.34, "y": -24.67 },
+					{ "time": 0.8, "x": -430.34, "y": 117.86 },
+					{ "time": 0.9333, "x": -430.34, "y": 153.5, "curve": 0.883, "c3": 0.75 },
+					{ "time": 1.1333, "x": -430.34, "y": 104.16 }
+				],
+				"scale": [
+					{ "time": 0.7 },
+					{ "time": 0.8, "x": 1.677, "y": 4.481 },
+					{ "time": 0.9333, "x": 2.542, "y": 5.218 },
+					{ "time": 1.1333, "x": 2.96, "y": 5.218 }
+				]
+			},
+			"no_2_skill4": {
+				"translate": [
+					{ "time": 0.7, "x": -230.28, "y": -17.52 },
+					{ "time": 0.8, "x": -230.28, "y": 25.03, "curve": "stepped" },
+					{ "time": 0.9333, "x": -230.28, "y": 25.03, "curve": 0.854, "c3": 0.75 },
+					{ "time": 1.1333, "x": -230.28, "y": -2.5 },
+					{ "time": 1.2333, "x": -45.05, "y": -17.52 },
+					{ "time": 1.3333, "x": -45.05, "y": 25.03, "curve": "stepped" },
+					{ "time": 1.4667, "x": -45.05, "y": 25.03, "curve": 0.854, "c3": 0.75 },
+					{ "time": 1.6667, "x": -45.05, "y": 9.88 }
+				],
+				"scale": [
+					{ "time": 0.7, "x": 1.206, "y": 1.206 },
+					{ "time": 0.8, "x": 1.417, "y": 3.51 },
+					{ "time": 0.9333, "x": 2.499, "y": 4.125 },
+					{ "time": 1.1333, "x": 3, "y": 4.125 },
+					{ "time": 1.2333, "x": 1.067, "y": 0.206 },
+					{ "time": 1.3333, "x": 1.278, "y": 2.51 },
+					{ "time": 1.4667, "x": 2.36, "y": 3.125 },
+					{ "time": 1.6667, "x": 2.861, "y": 3.125 }
+				]
+			},
+			"not04": {
+				"translate": [
+					{ "time": 1.1, "x": -480.58, "y": 25.03 }
+				],
+				"scale": [
+					{ "time": 1.1 },
+					{ "time": 1.4333, "x": 2.528, "y": 2.528 }
+				]
+			},
+			"rock_dust": {
+				"translate": [
+					{ "time": 0.9, "x": 17.52, "y": -17.52 },
+					{ "time": 1.0333, "x": 17.52, "y": 20.02, "curve": 0.629, "c3": 0.75 },
+					{ "time": 1.2333, "x": 17.52 }
+				],
+				"scale": [
+					{ "time": 0.9 },
+					{ "time": 1.0333, "x": 1.771, "y": 1.771 },
+					{ "time": 1.2333, "x": 1.904, "y": 1.771 }
+				]
+			},
+			"choe": {
+				"translate": [
+					{ "x": 243.74, "y": 364.53 }
+				],
+				"scale": [
+					{ "x": 3.248, "y": 3.248 },
+					{ "time": 0.2, "x": 13.871, "y": 13.871 }
+				]
+			},
+			"no4": {
+				"translate": [
+					{ "time": 0.6667, "x": 387.58 }
+				],
+				"scale": [
+					{ "time": 0.6667, "x": 0.908, "y": 0.908 }
+				]
+			},
+			"no3": {
+				"translate": [
+					{ "time": 0.4667, "x": 396.8 }
+				]
+			},
+			"not4": {
+				"translate": [
+					{ "time": 1.2333, "x": -300.56, "y": 27.57 }
+				],
+				"scale": [
+					{ "time": 1.2333, "x": 1.661, "y": 1.661 },
+					{ "time": 1.5667, "x": 2.378, "y": 2.378 }
+				]
+			},
+			"root": {
+				"translate": [
+					{ "x": 867.93 }
+				],
+				"scale": [
+					{ "x": 1.2, "y": 1.2 }
+				]
+			}
+		}
+	},
+	"burst2": {
+		"slots": {
+			"Elements - Explosion 009 Up MIX noCT noRSZ_00001": {
+				"attachment": [
+					{ "time": 0.4, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00001" },
+					{ "time": 0.4333, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00003" },
+					{ "time": 0.4667, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00005" },
+					{ "time": 0.5, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00007" },
+					{ "time": 0.5333, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00009" },
+					{ "time": 0.5667, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00011" },
+					{ "time": 0.6, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00013" },
+					{ "time": 0.6333, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00015" },
+					{ "time": 0.6667, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00017" },
+					{ "time": 0.7, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00019" },
+					{ "time": 0.7333, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00021" },
+					{ "time": 0.7667, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00023" },
+					{ "time": 0.8, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00025" },
+					{ "time": 0.8333, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00027" },
+					{ "time": 0.8667, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00029" },
+					{ "time": 0.9, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00031" },
+					{ "time": 0.9333, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00033" },
+					{ "time": 0.9667, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00035" },
+					{ "time": 1, "name": null }
+				]
+			},
+			"Elements - Explosion 009 Up MIX noCT noRSZ_1": {
+				"attachment": [
+					{ "time": 0.9333, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00005" },
+					{ "time": 0.9667, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00009" },
+					{ "time": 1, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00013" },
+					{ "time": 1.0333, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00017" },
+					{ "time": 1.0667, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00021" },
+					{ "time": 1.1, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00025" },
+					{ "time": 1.1333, "name": "Lv3/Elements - Explosion 009 Up MIX noCT noRSZ_00029" },
+					{ "time": 1.1667, "name": null }
+				]
+			},
+			"Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00138": {
+				"attachment": [
+					{ "time": 0.2, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00138" },
+					{ "time": 0.2333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00139" },
+					{ "time": 0.2667, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00140" },
+					{ "time": 0.3, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00141" },
+					{ "time": 0.3333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00142" },
+					{ "time": 0.3667, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00143" },
+					{ "time": 0.4, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00144" },
+					{ "time": 0.4333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00145" },
+					{ "time": 0.4667, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00146" },
+					{ "time": 0.5, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00147" },
+					{ "time": 0.5333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00148" },
+					{ "time": 0.5667, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00149" },
+					{ "time": 0.6, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00151" },
+					{ "time": 0.6333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00152" },
+					{ "time": 0.6667, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00153" },
+					{ "time": 0.7, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00154" },
+					{ "time": 0.7333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00156" },
+					{ "time": 0.7667, "name": null }
+				]
+			},
+			"Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_138": {
+				"attachment": [
+					{ "time": 0.5, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00138" },
+					{ "time": 0.5333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00139" },
+					{ "time": 0.5667, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00140" },
+					{ "time": 0.6, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00141" },
+					{ "time": 0.6333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00142" },
+					{ "time": 0.6667, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00143" },
+					{ "time": 0.7, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00144" },
+					{ "time": 0.7333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00145" },
+					{ "time": 0.7667, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00146" },
+					{ "time": 0.8, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00147" },
+					{ "time": 0.8333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00148" },
+					{ "time": 0.8667, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00149" },
+					{ "time": 0.9, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00151" },
+					{ "time": 0.9333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00152" },
+					{ "time": 0.9667, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00153" },
+					{ "time": 1.0333, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00154" },
+					{ "time": 1.1, "name": "Lv3/Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00156" },
+					{ "time": 1.1667, "name": null }
+				]
+			},
+			"Elements - Explosion 019 Hit Radial noCT noRSZ_00003": {
+				"attachment": [
+					{ "time": 0.8333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00003" },
+					{ "time": 0.8667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00007" },
+					{ "time": 0.9, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00011" },
+					{ "time": 0.9333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00015" },
+					{ "time": 0.9667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00019" },
+					{ "time": 1, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00023" },
+					{ "time": 1.0333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00027" },
+					{ "time": 1.0667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00029" },
+					{ "time": 1.1, "name": null }
+				]
+			},
+			"Elements - Explosion 019 Hit Radial noCT noRSZ_4": {
+				"attachment": [
+					{ "time": 0.9333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00003" },
+					{ "time": 0.9667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00007" },
+					{ "time": 1, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00011" },
+					{ "time": 1.0333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00015" },
+					{ "time": 1.0667, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00019" },
+					{ "time": 1.1, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00023" },
+					{ "time": 1.1333, "name": "Lv3/Elements - Explosion 019 Hit Radial noCT noRSZ_00025" },
+					{ "time": 1.1667, "name": null }
+				]
+			},
+			"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_0": {
+				"attachment": [
+					{ "time": 0.2333, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00000" },
+					{ "time": 0.2667, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00002" },
+					{ "time": 0.3, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00004" },
+					{ "time": 0.3333, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00006" },
+					{ "time": 0.3667, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00008" },
+					{ "time": 0.4, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00010" },
+					{ "time": 0.4333, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00012" },
+					{ "time": 0.4667, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00014" },
+					{ "time": 0.5, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00016" },
+					{ "time": 0.5333, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00018" },
+					{ "time": 0.5667, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00020" },
+					{ "time": 0.6, "name": null },
+					{ "time": 0.6333, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00000" },
+					{ "time": 0.6667, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00002" },
+					{ "time": 0.7, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00004" },
+					{ "time": 0.7333, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00006" },
+					{ "time": 0.7667, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00008" },
+					{ "time": 0.8, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00010" },
+					{ "time": 0.8333, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00012" },
+					{ "time": 0.8667, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00014" },
+					{ "time": 0.9, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00016" },
+					{ "time": 0.9333, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00018" },
+					{ "time": 0.9667, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00020" },
+					{ "time": 1, "name": null }
+				]
+			},
+			"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00000": {
+				"attachment": [
+					{ "time": 0.1, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00000" },
+					{ "time": 0.1333, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00002" },
+					{ "time": 0.1667, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00004" },
+					{ "time": 0.2, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00006" },
+					{ "time": 0.2333, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00008" },
+					{ "time": 0.2667, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00010" },
+					{ "time": 0.3, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00012" },
+					{ "time": 0.3333, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00014" },
+					{ "time": 0.3667, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00016" },
+					{ "time": 0.4, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00018" },
+					{ "time": 0.4333, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00020" },
+					{ "time": 0.4667, "name": null },
+					{ "time": 0.5, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00000" },
+					{ "time": 0.5333, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00002" },
+					{ "time": 0.5667, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00004" },
+					{ "time": 0.6, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00006" },
+					{ "time": 0.6333, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00008" },
+					{ "time": 0.6667, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00010" },
+					{ "time": 0.7, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00012" },
+					{ "time": 0.7333, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00014" },
+					{ "time": 0.7667, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00016" },
+					{ "time": 0.8, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00018" },
+					{ "time": 0.8333, "name": "Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00020" },
+					{ "time": 0.8667, "name": null }
+				]
+			},
+			"eff_stone": {
+				"color": [
+					{ "time": 0.5667, "color": "ffd9c8ff" },
+					{ "time": 0.7333, "color": "ffd8c800" }
+				],
+				"attachment": [
+					{ "time": 0.2667, "name": "Lv3/eff_stone" },
+					{ "time": 0.7333, "name": null }
+				]
+			},
+			"eff_stone1": {
+				"color": [
+					{ "time": 0.7333, "color": "ffd9c8ff" },
+					{ "time": 0.9, "color": "ffd8c800" }
+				],
+				"attachment": [
+					{ "time": 0.4667, "name": "Lv3/eff_stone1" },
+					{ "time": 0.9, "name": null },
+					{ "time": 1.0667, "name": "Lv3/eff_stone1" }
+				]
+			},
+			"eff_stone2": {
+				"color": [
+					{ "time": 0.8667, "color": "ffd9c8ff" },
+					{ "time": 1.0333, "color": "ffd8c800" }
+				],
+				"attachment": [
+					{ "time": 0.5667, "name": "Lv3/eff_stone" },
+					{ "time": 1.0333, "name": null }
+				]
+			},
+			"eff_stone3": {
+				"color": [
+					{ "time": 1.0667, "color": "ffd9c8ff" },
+					{ "time": 1.1667, "color": "ffd8c800" }
+				],
+				"attachment": [
+					{ "time": 0.8667, "name": "Lv3/eff_stone1" },
+					{ "time": 1.1667, "name": null }
+				]
+			},
+			"no_2_skill4": {
+				"color": [
+					{ "time": 0.9, "color": "ff7e58ff" },
+					{ "time": 1.1, "color": "ff7d5700" }
+				],
+				"attachment": [
+					{ "time": 0.6333, "name": "Lv3/no_2_skill4" },
+					{ "time": 1.1, "name": null }
+				]
+			},
+			"no_2_skill5": {
+				"color": [
+					{ "time": 1.0333, "color": "ff7e58ff" },
+					{ "time": 1.1667, "color": "ff7d5700" }
+				],
+				"attachment": [
+					{ "time": 0.8333, "name": "Lv3/no_2_skill4" },
+					{ "time": 1.1667, "name": null }
+				]
+			},
+			"no_nho1": {
+				"color": [
+					{ "time": 0.6, "color": "ff7e58ff" },
+					{ "time": 0.7667, "color": "ff7d5700" },
+					{ "time": 0.9333, "color": "ff7e58ff" },
+					{ "time": 1.1, "color": "ff7d5700" }
+				],
+				"attachment": [
+					{ "time": 0.5, "name": "Lv3/no_nho01" },
+					{ "time": 0.7667, "name": null },
+					{ "time": 0.8333, "name": "Lv3/no_nho01" },
+					{ "time": 1.1, "name": null }
+				]
+			},
+			"not04": {
+				"color": [
+					{ "time": 0.9667, "color": "ff7e58ff" },
+					{ "time": 1.1667, "color": "ff7d5700" }
+				],
+				"attachment": [
+					{ "time": 0.8333, "name": "Lv3/not04" },
+					{ "time": 1.1667, "name": null }
+				]
+			},
+			"rock_dust": {
+				"color": [
+					{ "time": 0.7667, "color": "ffd9c8ff" },
+					{ "time": 0.9667, "color": "ffd8c800" }
+				],
+				"attachment": [
+					{ "time": 0.6333, "name": "Lv3/rock_dust" },
+					{ "time": 0.9667, "name": null }
+				]
+			},
+			"rock_dust2": {
+				"color": [
+					{ "time": 0.9, "color": "ffd9c8ff" },
+					{ "time": 1.0667, "color": "ffd8c800" }
+				],
+				"attachment": [
+					{ "time": 0.8333, "name": "Lv3/rock_dust" },
+					{ "time": 1.0667, "name": null }
+				]
+			},
+			"rong_skill1": {
+				"attachment": [
+					{ "name": "Lv3/rong_skill1" },
+					{ "time": 0.0333, "name": "Lv3/rong_skill2" },
+					{ "time": 0.0667, "name": "Lv3/rong_skill3" },
+					{ "time": 0.1, "name": "Lv3/rong_skill4" },
+					{ "time": 0.1333, "name": "Lv3/rong_skill5" },
+					{ "time": 0.1667, "name": "Lv3/rong_skill6" },
+					{ "time": 0.2, "name": "Lv3/rong_skill7" },
+					{ "time": 0.2333, "name": "Lv3/rong_skill8" },
+					{ "time": 0.2667, "name": "Lv3/rong_skill9" },
+					{ "time": 0.3, "name": null },
+					{ "time": 0.4, "name": "Lv3/rong_skill1" },
+					{ "time": 0.4333, "name": "Lv3/rong_skill2" },
+					{ "time": 0.4667, "name": "Lv3/rong_skill3" },
+					{ "time": 0.5, "name": "Lv3/rong_skill4" },
+					{ "time": 0.5333, "name": "Lv3/rong_skill5" },
+					{ "time": 0.5667, "name": "Lv3/rong_skill6" },
+					{ "time": 0.6, "name": "Lv3/rong_skill7" },
+					{ "time": 0.6333, "name": "Lv3/rong_skill8" },
+					{ "time": 0.6667, "name": "Lv3/rong_skill9" },
+					{ "time": 0.7, "name": null }
+				]
+			},
+			"rong_skill2": {
+				"attachment": [
+					{ "time": 0.1333, "name": "Lv3/rong_skill1" },
+					{ "time": 0.1667, "name": "Lv3/rong_skill2" },
+					{ "time": 0.2, "name": "Lv3/rong_skill3" },
+					{ "time": 0.2333, "name": "Lv3/rong_skill4" },
+					{ "time": 0.2667, "name": "Lv3/rong_skill5" },
+					{ "time": 0.3, "name": "Lv3/rong_skill6" },
+					{ "time": 0.3333, "name": "Lv3/rong_skill7" },
+					{ "time": 0.3667, "name": "Lv3/rong_skill8" },
+					{ "time": 0.4, "name": "Lv3/rong_skill9" },
+					{ "time": 0.4333, "name": "Lv3/rong_skill11" },
+					{ "time": 0.4667, "name": "Lv3/rong_skill12" },
+					{ "time": 0.5, "name": null },
+					{ "time": 0.5333, "name": "Lv3/rong_skill1" },
+					{ "time": 0.5667, "name": "Lv3/rong_skill2" },
+					{ "time": 0.6, "name": "Lv3/rong_skill3" },
+					{ "time": 0.6333, "name": "Lv3/rong_skill4" },
+					{ "time": 0.6667, "name": "Lv3/rong_skill5" },
+					{ "time": 0.7, "name": "Lv3/rong_skill6" },
+					{ "time": 0.7333, "name": "Lv3/rong_skill7" },
+					{ "time": 0.7667, "name": "Lv3/rong_skill8" },
+					{ "time": 0.8, "name": "Lv3/rong_skill9" },
+					{ "time": 0.8333, "name": "Lv3/rong_skill11" },
+					{ "time": 0.8667, "name": "Lv3/rong_skill12" },
+					{ "time": 0.9, "name": null }
+				]
+			},
+			"rong_skill3": {
+				"attachment": [
+					{ "time": 0.3, "name": "Lv3/rong_skill1" },
+					{ "time": 0.3333, "name": "Lv3/rong_skill2" },
+					{ "time": 0.3667, "name": "Lv3/rong_skill3" },
+					{ "time": 0.4, "name": "Lv3/rong_skill4" },
+					{ "time": 0.4333, "name": "Lv3/rong_skill5" },
+					{ "time": 0.4667, "name": "Lv3/rong_skill6" },
+					{ "time": 0.5, "name": "Lv3/rong_skill7" },
+					{ "time": 0.5333, "name": "Lv3/rong_skill8" },
+					{ "time": 0.5667, "name": null },
+					{ "time": 0.6333, "name": "Lv3/rong_skill1" },
+					{ "time": 0.6667, "name": "Lv3/rong_skill2" },
+					{ "time": 0.7, "name": "Lv3/rong_skill3" },
+					{ "time": 0.7333, "name": "Lv3/rong_skill4" },
+					{ "time": 0.7667, "name": "Lv3/rong_skill5" },
+					{ "time": 0.8, "name": "Lv3/rong_skill6" },
+					{ "time": 0.8333, "name": "Lv3/rong_skill7" },
+					{ "time": 0.8667, "name": "Lv3/rong_skill8" },
+					{ "time": 0.9, "name": "Lv3/rong_skill9" },
+					{ "time": 0.9333, "name": "Lv3/rong_skill11" },
+					{ "time": 0.9667, "name": "Lv3/rong_skill12" },
+					{ "time": 1, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"rock_dust": {
+				"translate": [
+					{ "time": 0.6333, "x": -464.57, "y": 5.22 },
+					{ "time": 0.7667, "x": -464.57, "y": 42.76, "curve": 0.629, "c3": 0.75 },
+					{ "time": 0.9667, "x": -464.57, "y": 22.74 }
+				],
+				"scale": [
+					{ "time": 0.6333 },
+					{ "time": 0.7667, "x": 1.771, "y": 1.771, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9667, "x": 1.904, "y": 1.771 }
+				]
+			},
+			"no_2_skill5": {
+				"translate": [
+					{ "time": 0.8333, "x": 32.12, "y": -14.34 },
+					{ "time": 0.9333, "x": 32.12, "y": 20.08 },
+					{ "time": 1.0333, "x": 32.12, "y": 28.68, "curve": 0.577, "c3": 0.75 },
+					{ "time": 1.1667, "x": 32.12, "y": 8.6 }
+				],
+				"scale": [
+					{ "time": 0.8333, "x": 2.344, "y": 2.344 },
+					{ "time": 0.9333, "x": 2.344, "y": 4.496 },
+					{ "time": 1.0333, "x": 2.922, "y": 5.027 },
+					{ "time": 1.1667, "x": 3.341, "y": 5.027 }
+				]
+			},
+			"Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_138": {
+				"translate": [
+					{ "time": 0.5, "y": -35.63 }
+				],
+				"scale": [
+					{ "time": 0.5, "x": 4.581, "y": 5.962 }
+				]
+			},
+			"rock_dust2": {
+				"rotate": [
+					{ "time": 0.8333, "angle": -40.3 }
+				],
+				"translate": [
+					{ "time": 0.8333, "x": -176.08, "y": 11.47 }
+				],
+				"scale": [
+					{ "time": 0.8333, "x": -0.807 },
+					{ "time": 1.0667, "x": -1.808, "y": 2.241 }
+				]
+			},
+			"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_00000": {
+				"rotate": [
+					{ "time": 0.1, "angle": 169.07, "curve": "stepped" },
+					{ "time": 0.4667, "angle": 169.07 },
+					{ "time": 0.5, "angle": -173.71 }
+				],
+				"translate": [
+					{ "time": 0.1, "x": -950.93, "y": 935.22, "curve": "stepped" },
+					{ "time": 0.4667, "x": -950.93, "y": 935.22 },
+					{ "time": 0.5, "x": -1024.36, "y": 1103.91 }
+				],
+				"scale": [
+					{ "time": 0.1, "x": -3.193, "y": 4.024, "curve": "stepped" },
+					{ "time": 0.4667, "x": -3.193, "y": 4.024 },
+					{ "time": 0.5, "x": -3.193, "y": 4.373 }
+				]
+			},
+			"Elements - Explosion 013 Shot Hit Right MIX noCT noRSZ_00138": {
+				"translate": [
+					{ "time": 0.2, "y": -35.63 }
+				],
+				"scale": [
+					{ "time": 0.2, "x": 4.581, "y": 5.962 }
+				]
+			},
+			"rong_skill1": {
+				"rotate": [
+					{ "angle": 49.26, "curve": "stepped" },
+					{ "time": 0.3667, "angle": 49.26 },
+					{ "time": 0.4, "angle": 70.39 }
+				],
+				"translate": [
+					{ "x": -312.98, "y": 762.25, "curve": "stepped" },
+					{ "time": 0.3667, "x": -312.98, "y": 762.25 },
+					{ "time": 0.4, "x": -375.32, "y": 833.94 }
+				],
+				"scale": [
+					{ "x": 1.797, "y": 1.268 }
+				]
+			},
+			"Lv3/Elements - Fire 027 Slash Up noCT noRSZ_0": {
+				"rotate": [
+					{ "time": 0.2333, "angle": -177.81, "curve": "stepped" },
+					{ "time": 0.6, "angle": -177.81 },
+					{ "time": 0.6333, "angle": -179.61 }
+				],
+				"translate": [
+					{ "time": 0.2333, "x": -966.83, "y": 1183.92, "curve": "stepped" },
+					{ "time": 0.6, "x": -966.83, "y": 1183.92 },
+					{ "time": 0.6333, "x": -1110.39, "y": 1172.92 }
+				],
+				"scale": [
+					{ "time": 0.2333, "x": 2.328, "y": 4.633, "curve": "stepped" },
+					{ "time": 0.6, "x": 2.328, "y": 4.633 },
+					{ "time": 0.6333, "x": 3.521, "y": 4.498 }
+				]
+			},
+			"rong_skill2": {
+				"rotate": [
+					{ "time": 0.1333, "angle": 127.81 }
+				],
+				"translate": [
+					{ "time": 0.1333, "x": -550.02, "y": 815.89, "curve": "stepped" },
+					{ "time": 0.5, "x": -550.02, "y": 815.89 },
+					{ "time": 0.5333, "x": -756.74, "y": 815.89 }
+				],
+				"scale": [
+					{ "time": 0.1333, "x": 1.515, "y": -1.293 }
+				]
+			},
+			"Elements - Explosion 019 Hit Radial noCT noRSZ_4": {
+				"translate": [
+					{ "time": 0.9333, "x": -349.9, "y": 160.61 }
+				],
+				"scale": [
+					{ "time": 0.9333, "x": 2.866, "y": 2.866 }
+				]
+			},
+			"rong_skill3": {
+				"rotate": [
+					{ "time": 0.3, "angle": 71.76, "curve": "stepped" },
+					{ "time": 0.6, "angle": 71.76 },
+					{ "time": 0.6333, "angle": 53.55 }
+				],
+				"translate": [
+					{ "time": 0.3, "x": -688.86, "y": 610.93, "curve": "stepped" },
+					{ "time": 0.6, "x": -688.86, "y": 610.93 },
+					{ "time": 0.6333, "x": -358.46, "y": 919.51 }
+				],
+				"scale": [
+					{ "time": 0.3, "x": 1.635, "y": 1.323, "curve": "stepped" },
+					{ "time": 0.6, "x": 1.635, "y": 1.323 },
+					{ "time": 0.6333, "x": 1.502, "y": 1.323 }
+				]
+			},
+			"eff_stone": {
+				"translate": [
+					{ "time": 0.2667 },
+					{ "time": 0.4, "y": 98.68, "curve": "stepped" },
+					{ "time": 0.5667, "y": 98.68, "curve": 0.919, "c3": 0.75 },
+					{ "time": 0.7333, "y": 57.56 }
+				],
+				"scale": [
+					{ "time": 0.2667 },
+					{ "time": 0.4, "x": 1.219, "y": 2.389 },
+					{ "time": 0.5667, "x": 1.923, "y": 2.723 },
+					{ "time": 0.7333, "x": 2.517, "y": 2.798 }
+				]
+			},
+			"eff_stone1": {
+				"translate": [
+					{ "time": 0.4667, "x": -430.34, "y": -24.67 },
+					{ "time": 0.5667, "x": -430.34, "y": 117.86 },
+					{ "time": 0.7333, "x": -430.34, "y": 153.5, "curve": 0.883, "c3": 0.75 },
+					{ "time": 0.9, "x": -430.34, "y": 104.16 },
+					{ "time": 1.0667, "x": -430.34, "y": -24.67 }
+				],
+				"scale": [
+					{ "time": 0.4667 },
+					{ "time": 0.5667, "x": 1.677, "y": 4.481 },
+					{ "time": 0.7333, "x": 2.542, "y": 5.218 },
+					{ "time": 0.9, "x": 2.96, "y": 5.218 },
+					{ "time": 1.0667 }
+				]
+			},
+			"no1": {
+				"translate": [
+					{ "time": 0.2, "x": 13.64, "y": -47.75 }
+				]
+			},
+			"eff_stone3": {
+				"translate": [
+					{ "time": 0.8667, "x": 95.88 },
+					{ "time": 0.9667, "x": 95.88, "y": 155.81, "curve": "stepped" },
+					{ "time": 1.0667, "x": 95.88, "y": 155.81, "curve": 0.393, "c3": 0.75 },
+					{ "time": 1.1667, "x": 95.88, "y": 127.04 }
+				],
+				"scale": [
+					{ "time": 0.8667, "x": 1.169, "y": 1.169 },
+					{ "time": 0.9667, "x": 1.652, "y": 4.225 },
+					{ "time": 1.0667, "x": 2.235, "y": 4.999 },
+					{ "time": 1.1667, "x": 2.449, "y": 4.999 }
+				]
+			},
+			"no_2_skill4": {
+				"translate": [
+					{ "time": 0.6333, "x": 308.66, "y": 43.88 },
+					{ "time": 0.7333, "x": 308.66, "y": 86.43, "curve": "stepped" },
+					{ "time": 0.9, "x": 308.66, "y": 86.43, "curve": 0.854, "c3": 0.75 },
+					{ "time": 1.1, "x": 308.66, "y": 58.89 }
+				],
+				"scale": [
+					{ "time": 0.6333, "x": 1.206, "y": 1.206 },
+					{ "time": 0.7333, "x": 1.417, "y": 3.51 },
+					{ "time": 0.9, "x": 2.499, "y": 4.125 },
+					{ "time": 1.1, "x": 3, "y": 4.125 }
+				]
+			},
+			"Elements - Explosion 009 Up MIX noCT noRSZ_00001": {
+				"translate": [
+					{ "time": 0.4, "x": -452.26, "y": -35.63 }
+				],
+				"scale": [
+					{ "time": 0.4, "x": 3.481, "y": 3.481 }
+				]
+			},
+			"not04": {
+				"translate": [
+					{ "time": 0.8333, "x": -743.6, "y": -33 }
+				],
+				"scale": [
+					{ "time": 0.8333, "x": 2.291, "y": 2.291 },
+					{ "time": 0.9667, "x": 3.026, "y": 3.026 },
+					{ "time": 1.1667, "x": 3.647, "y": 3.647 }
+				]
+			},
+			"Elements - Explosion 009 Up MIX noCT noRSZ_1": {
+				"translate": [
+					{ "time": 0.9333, "x": 100.38, "y": -2.87 }
+				],
+				"scale": [
+					{ "time": 0.9333, "x": 2.421, "y": 3.533 }
+				]
+			},
+			"no2": {
+				"translate": [
+					{ "time": 0.4, "x": 570.77 }
+				]
+			},
+			"eff_stone2": {
+				"translate": [
+					{ "time": 0.5667 },
+					{ "time": 0.7, "y": 98.68, "curve": "stepped" },
+					{ "time": 0.8667, "y": 98.68, "curve": 0.919, "c3": 0.75 },
+					{ "time": 1.0333, "y": 57.56 }
+				],
+				"scale": [
+					{ "time": 0.5667 },
+					{ "time": 0.7, "x": 1.219, "y": 2.389 },
+					{ "time": 0.8667, "x": 1.923, "y": 2.723 },
+					{ "time": 1.0333, "x": 2.517, "y": 2.798 }
+				]
+			},
+			"Elements - Explosion 019 Hit Radial noCT noRSZ_00003": {
+				"translate": [
+					{ "time": 0.8333, "x": -605.15, "y": 127.99 }
+				],
+				"scale": [
+					{ "time": 0.8333, "x": 4.042, "y": 4.042 }
+				]
+			},
+			"no3": {
+				"translate": [
+					{ "time": 0.4667, "x": 12.5 }
+				]
+			},
+			"no_nho1": {
+				"translate": [
+					{ "time": 0.5, "x": -931.06, "y": 118.49 },
+					{ "time": 0.7667, "x": -931.06, "y": 181.25 },
+					{ "time": 0.8333, "x": -868.3, "y": 99.18 }
+				],
+				"scale": [
+					{ "time": 0.5, "x": -2.055, "y": 3.622 },
+					{ "time": 0.7667, "x": -2.981, "y": 6.856 },
+					{ "time": 0.8333, "x": -2.055, "y": 4.931 },
+					{ "time": 1.1, "x": -2.981, "y": 8.166 }
+				]
+			},
+			"root": {
+				"translate": [
+					{ "x": 557.96 }
+				],
+				"scale": [
+					{ "x": 0.8, "y": 0.8 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,4201 @@
+fileFormatVersion: 2
+guid: 5a548e527ef8e754294c580f9f57e630
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: -0.5
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lv1/ban_chan_phai
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 763
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32ad3672bbb40a60800000000000000
+      internalID: 7639437243089527355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/ban_chan_phai
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 763
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de84b9665a939240800000000000000
+      internalID: 4797347724011015889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/ban_chan_phai
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 763
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a415c7c053a7ce0800000000000000
+      internalID: -1406753605858276738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/ban_chan_trai
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 336
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1d595d4a2959d30800000000000000
+      internalID: 4437614244499149263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/ban_tay_phai
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 773
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa5ce341b46d0330800000000000000
+      internalID: 3678707183143115430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/ban_tay_phai
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 773
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4ab51ea60814c50800000000000000
+      internalID: 6647735721511331022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/ban_tay_phai
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 773
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c0804fceabf3e20800000000000000
+      internalID: 3332587776146672770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/ban_tay_phai_chuong
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 674
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3659573968ca0d0800000000000000
+      internalID: -3410202849935268872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/ban_tay_phai_chuong
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 674
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2798a8ec80b3bf60800000000000000
+      internalID: 8048971078286481195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/ban_tay_phai_chuong
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 674
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b564b162a030f9a90800000000000000
+      internalID: -7305116728447777189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/ban_tay_phai_gong
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 439
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedf2ae21b8fe9e10800000000000000
+      internalID: 2206474307333455341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/ban_tay_phai_gong
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 439
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffd87907a1745ad0800000000000000
+      internalID: -2714419713165172747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/ban_tay_phai_gong
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 439
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c04137894c88ff80800000000000000
+      internalID: -8072548084632960827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/ban_tay_phai_rong
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 333
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335565c26b4f4c6d0800000000000000
+      internalID: -2970980790892604109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/ban_tay_trai_rong
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 333
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62870185d83549220800000000000000
+      internalID: 2491708360375695398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/khoi_kiem1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 333
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99dc3a8bc4f09e40800000000000000
+      internalID: 5661293886639495580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/khoi_kiem2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 333
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5877007862faf1e70800000000000000
+      internalID: 9088175153065523077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/khoi_kiem3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 333
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27a4af25d95d9c20800000000000000
+      internalID: 3214824481174628143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/ngon_phai_rong4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 333
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d963f808e16c41410800000000000000
+      internalID: 1446999214600959645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/ngon_trai1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 333
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbc9464fb2a4cff0800000000000000
+      internalID: -16709556200944652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/ngon_trai4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 333
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7ff929ed3bd8540800000000000000
+      internalID: 5011859728857298899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/tay_tren_phai_rong
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 333
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0549f5fab9cd85f40800000000000000
+      internalID: 5717562288167162960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/tay_tren_trai_rong
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 333
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad3c1bb7877baac0800000000000000
+      internalID: -3842846432187105880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/ban_tay_phai_rong
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 333
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735282c58f34c98f0800000000000000
+      internalID: -532475921959475913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/ban_tay_trai_rong
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 333
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7867089524721f0800000000000000
+      internalID: -1069813434302429230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/khoi_kiem1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 333
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67af8016342836000800000000000000
+      internalID: 28009248596753014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/khoi_kiem2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 333
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c0ba7c439f45d80800000000000000
+      internalID: -8262705411234526108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/khoi_kiem3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 333
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ae33deb4cab95f0800000000000000
+      internalID: -748815470924928507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/ngon_phai_rong4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 333
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e7a173ed6e7afd0800000000000000
+      internalID: -2330640440059330958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/ngon_trai1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 333
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff39f372978c24df0800000000000000
+      internalID: -197375010975804417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/ngon_trai4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 333
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedee7b728a50be00800000000000000
+      internalID: 1058445428896230895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/tay_tren_phai_rong
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 333
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff01fc6efc8a2b7d0800000000000000
+      internalID: -2904073198816521985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/tay_tren_trai_rong
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 333
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e1cf96eadb33180800000000000000
+      internalID: -9136750662204514779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/ban_tay_trai
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 773
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea33b3c27a7d87c80800000000000000
+      internalID: -8324666798192774226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/ban_tay_trai
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 773
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7986ae28184dd6a40800000000000000
+      internalID: 5363176383980398743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/ban_tay_trai
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 773
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c2c4832430e5fa0800000000000000
+      internalID: -5810202886314120140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/ban_tay_trai_chuong
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 767
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e039f60a587697240800000000000000
+      internalID: 4789973502305211150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/ban_tay_trai_chuong
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 767
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccbcad8a15229990800000000000000
+      internalID: -7380796043330536255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/ban_tay_trai_chuong
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 767
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da362a3598e85e160800000000000000
+      internalID: 7054201111810565037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/ban_tay_trai_gong
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 703
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfdd6a7ef5831f90800000000000000
+      internalID: -6984091269099298854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/ban_tay_trai_gong
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 703
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1649530a9d001d7d0800000000000000
+      internalID: -2895532150726749087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/ban_tay_trai_gong
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 703
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b7c5978826936f0800000000000000
+      internalID: -704423528415593711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/chan_duoi_phai
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 764
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509d62d1b496aea70800000000000000
+      internalID: 8857007388510050565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/chan_duoi_phai_sau
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 733
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de1c0db1f1516d40800000000000000
+      internalID: 5575827912362041045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/chan_duoi_phai_sau
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 733
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b89242cc733e63e0800000000000000
+      internalID: -2058651368733632330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/chan_duoi_phai_sau
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 733
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b08d29aedc277d0800000000000000
+      internalID: -2922046800840357078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/chan_duoi_trai
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 158
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3435279bac707970800000000000000
+      internalID: 8750631152397923388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/chan_duoi_trai_sau
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 737
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c334e82e8844440800000000000000
+      internalID: 4919207199626181673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/chan_duoi_trai_sau
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 737
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7759b3ab32cfb920800000000000000
+      internalID: 3008336637512472445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/chan_duoi_trai_sau
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 737
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e524210f1dcfeba90800000000000000
+      internalID: -7296116367687531938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/chan_tren_phai
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 239
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dd44d5e7140b850800000000000000
+      internalID: 6390679882225212691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/chan_tren_phai
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 239
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31058c1856cd48360800000000000000
+      internalID: 7171098835207868435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/chan_tren_phai
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 239
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da83141356c54b060800000000000000
+      internalID: 6968296113136810157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/chan_tren_trai
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 478
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71dc48f2eb4c51910800000000000000
+      internalID: 1807567146579184919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/chan_tren_trai
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 478
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568ca5dcd06c62de0800000000000000
+      internalID: -1358180475023472539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/chan_tren_trai
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 478
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1517564a29b4c1cd0800000000000000
+      internalID: -2586108992822087343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/cu
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 762
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc2f931cd0af0dd0800000000000000
+      internalID: -2517616799594369796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/cu
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 762
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e532c68e6a4201a30800000000000000
+      internalID: 4183884353109762910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/cu
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 762
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59efcca816c496950800000000000000
+      internalID: 6442764723754434197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/dau
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 694
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802bd560dce9b9b00800000000000000
+      internalID: 836436759219646984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/dau_rong
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 531
+        width: 152
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ae5a1586d91acd0800000000000000
+      internalID: -2548582842743002525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/dau_rong
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 531
+        width: 152
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aece2a4e95aed360800000000000000
+      internalID: 7196371353852628646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/duoi_rong
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 2
+        width: 198
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d1e340a41740940800000000000000
+      internalID: 5261454827388280067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/duoi_rong
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 2
+        width: 198
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8886bf455584553a0800000000000000
+      internalID: -6677351341171709816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/ham_rong
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 279
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31a7abcee1878bf0800000000000000
+      internalID: -322145985714740931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/ham_rong
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 279
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f11cbd7f88490f0800000000000000
+      internalID: -1111112609928503533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/kho
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 590
+        width: 77
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1b3402721005170800000000000000
+      internalID: 8165027391979368948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/kho
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 590
+        width: 77
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078b591056f2da350800000000000000
+      internalID: 6029527586983753840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/long_may_phai
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 731
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e85bd80c46ebc30800000000000000
+      internalID: 4377046666024685094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/long_may_phai
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 731
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3cd4319918c7610800000000000000
+      internalID: 1620312460400378785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/long_may_phai
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 731
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23dc41735e4b265e0800000000000000
+      internalID: -1917771594741789390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/long_may_trai
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 263
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5467da7122cb06590800000000000000
+      internalID: -7682934109681912251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/long_may_trai
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 263
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091221be8a4670510800000000000000
+      internalID: 1515290476294578576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/long_may_trai
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 263
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d962747eec78dff90800000000000000
+      internalID: -6918224129858001251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/luot_body
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 2
+        width: 90
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fd40709281b84b0800000000000000
+      internalID: -5437225560629256305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/luot_body
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 2
+        width: 90
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a6d894d66c11e10800000000000000
+      internalID: 2166731068429658764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/luot_body
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 2
+        width: 90
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a6138bae36027a0800000000000000
+      internalID: -6404008810357102014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/mat_phai
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 345
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe64577db2aa775e0800000000000000
+      internalID: -1911872411520383249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/mat_phai
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 345
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8c3b06c3089e690800000000000000
+      internalID: -7572380301637990158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/mat_phai
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 345
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4859e80763ddeae0800000000000000
+      internalID: -1518325059869386675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/mat_trai
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 773
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec435ef183d90b400800000000000000
+      internalID: 337942836431631566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/mat_trai
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 773
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3716bec9661cdc0800000000000000
+      internalID: -3620499801279204438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/mat_trai
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 773
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704d80c4d8154a620800000000000000
+      internalID: 2784440136929694727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/mieng
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 761
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42520b046cd48da0800000000000000
+      internalID: -5943383285982670259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/mieng
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 761
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143f6b7a412ee4240800000000000000
+      internalID: 4778004833027683137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/mieng
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 761
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f615beb2fcc6ef0800000000000000
+      internalID: -113488103052579067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/mieng_gong
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 280
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c632a24f0220510800000000000000
+      internalID: 1513808657800981506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/mieng_gong
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 280
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6fddeaa52700bc0800000000000000
+      internalID: -3818926750203775240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/mieng_gong
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 280
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a482b53c347174130800000000000000
+      internalID: 3550832411012704330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/minh
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 449
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fad51fa2af186560800000000000000
+      internalID: 7307125178991237877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/minh_rong
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 336
+        width: 182
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c9cf4fb4bc97820800000000000000
+      internalID: 2916585760792288321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/minh_rong
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 336
+        width: 182
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dc2efb1988b75a0800000000000000
+      internalID: -6522469475745084037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/ngon_phai_rong1
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 752
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30531b58a9dff610800000000000000
+      internalID: 1657282505001357374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/ngon_phai_rong1
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 752
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50be3b6ad98712a50800000000000000
+      internalID: 6494604756146973445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/ngon_phai_rong2
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 623
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2775aa65de976830800000000000000
+      internalID: 4064391828179613484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/ngon_phai_rong2
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 623
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be5ffe927c9017c0800000000000000
+      internalID: -4102607244426781007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/ngon_phai_rong3
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 600
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a3652bccd6aa280800000000000000
+      internalID: -9031285376805356948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/ngon_phai_rong3
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 600
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0926b36f571842d20800000000000000
+      internalID: 3252867174510584464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/ngon_trai2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 671
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab108375d87145f0800000000000000
+      internalID: -774204802769871960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/ngon_trai2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 671
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3ed5c9d81b7a3e0800000000000000
+      internalID: -2042468684217326650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/ngon_trai3
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 551
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d1db31ea8aa25d0800000000000000
+      internalID: -3086469129000116888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/ngon_trai3
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 551
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81abb0ce51f46320800000000000000
+      internalID: 2550428678261285262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/rau_rong
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 53
+        width: 35
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5068f7af92cec2a0800000000000000
+      internalID: -6715216003389169574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/rau_rong
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 53
+        width: 35
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bf072d9245e40d0800000000000000
+      internalID: -3436716927036097719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/shadown
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 280
+        width: 14
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d173294484a6f2ee0800000000000000
+      internalID: -1283690510156679395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/shadown
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 280
+        width: 14
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d37c2156c58cac0800000000000000
+      internalID: -3834713493529477867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/shadown
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 280
+        width: 14
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a87e9980b4c42680800000000000000
+      internalID: -8780677110963472217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/ta_ao
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 773
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8c5340f8073c440800000000000000
+      internalID: 4954927774590945517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/tay_duoi_phai
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 767
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2926f39eb91e3e40800000000000000
+      internalID: 5637972089831303471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/tay_duoi_phai_rong
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 336
+        width: 70
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7f5d058e9a304a0800000000000000
+      internalID: -6628267411305531479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/tay_duoi_phai_rong
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 336
+        width: 70
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf64584f7953db60800000000000000
+      internalID: 7769652185353449408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/tay_duoi_trai
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 767
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa021741e93b3fd0800000000000000
+      internalID: -2361229939902903566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/tay_duoi_trai_rong
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 694
+        width: 108
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8b820cdba715990800000000000000
+      internalID: -7398997757401712421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/tay_duoi_trai_rong
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 694
+        width: 108
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2753a447a19ba740800000000000000
+      internalID: 5164381545307526957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/tay_tren_phai
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 671
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfa9c73b2654cfd0800000000000000
+      internalID: -2322636764196786238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/tay_tren_trai
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 590
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d3b49bb6eca0b10800000000000000
+      internalID: 1948596750856699268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/toc
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 160
+        width: 76
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b8cf3d134f65c40800000000000000
+      internalID: 5500852489726757766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/toc
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 160
+        width: 76
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f279e5f607f9e840800000000000000
+      internalID: 5254002049571975924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/toc
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 160
+        width: 76
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52deac0ec5bd42c0800000000000000
+      internalID: -4445697360564137381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/vai_phai
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 521
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b757e871f7ef79e0800000000000000
+      internalID: -1621322316528527436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/vai_trai
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 505
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde5a175fd3332ca0800000000000000
+      internalID: -6042929240669004068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/vai_trai_sau
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 729
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458446ed1ca915fc0800000000000000
+      internalID: -3507852477294426028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/vat_ao_phai
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 511
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48c19ef3f936ccd0800000000000000
+      internalID: -2538277619865892789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/vat_ao_phai_sau
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 727
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4002cbc4b6c48c10800000000000000
+      internalID: 2054985809802690638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/vat_ao_trai
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 622
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b7347f794a2d750800000000000000
+      internalID: 6328301399004379955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv1/vuong_mien
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 702
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36f778fb437a0c70800000000000000
+      internalID: 8938083180598523455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/ban_chan_trai
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 773
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2761a8748968490800000000000000
+      internalID: -7744335076190162189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/ban_chan_trai
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 773
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87437e11f33b092c0800000000000000
+      internalID: -4426841350240521096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/chan_duoi_phai
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 476
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a526c83345f1cad0800000000000000
+      internalID: -2683594233871981152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/chan_duoi_trai
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 487
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209c6866932790a10800000000000000
+      internalID: 1876156310635333890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/dau
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 505
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfe05a7e357bff20800000000000000
+      internalID: 3457486050137534391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/minh
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 444
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751adef37d7856000800000000000000
+      internalID: 28578331208032599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/minh
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 444
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85dca09c989a89e00800000000000000
+      internalID: 1051776922239552856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/tay_duoi_phai
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 766
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e1f5805c79c3220800000000000000
+      internalID: 2467013568396992049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/tay_duoi_phai
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 766
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf41714b4a0aaa00800000000000000
+      internalID: 768438004756860872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/tay_duoi_trai
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 761
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d688745a5f125e0800000000000000
+      internalID: -1935996274574070393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/tay_duoi_trai
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 761
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b7c8513a9166da0800000000000000
+      internalID: -5952041669291639969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/tay_tren_phai
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 720
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9200329bbbfe240800000000000000
+      internalID: 4823280129767647724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/tay_tren_phai
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 720
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4ffa361151e4d60800000000000000
+      internalID: 7876255962748679345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/tay_tren_trai
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 718
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07179eff42d7662f0800000000000000
+      internalID: -979958271040720528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/tay_tren_trai
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 718
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b878f3ea101c6e0800000000000000
+      internalID: -1819170926579184887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/vai_phai
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 542
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2ffa2a8e825bbd0800000000000000
+      internalID: -2615139028991741240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/vai_trai
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 622
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a37c511f846cf920800000000000000
+      internalID: 3025403615320503209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/vai_trai_sau
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 671
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befb3b4c34020dcb0800000000000000
+      internalID: -4841334123988271125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/vat_ao_phai
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 487
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4b91412cbbd8d40800000000000000
+      internalID: 5588329154871932072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/vat_ao_phai
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 487
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924544de2cb14fec0800000000000000
+      internalID: -3534169283560713175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/vat_ao_phai_sau
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 727
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bb507d6caac7730800000000000000
+      internalID: 3998258340185881488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/vat_ao_phai_sau
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 727
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89f5d5ae3df778f0800000000000000
+      internalID: -542686784562792049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/vat_ao_trai
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 280
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2068cccb7b5714ab0800000000000000
+      internalID: -5025606277161777662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv2/vuong_mien
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 668
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594f79484a9fd6f30800000000000000
+      internalID: 4570583681845425301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/ban_tay_phai_burst2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 773
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486ce55cefacb55c0800000000000000
+      internalID: -4225560629775251836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/ban_tay_phai_rong
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 487
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99cb6e3a6708dc20800000000000000
+      internalID: 3231340885533510045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/ban_tay_trai_nam_dam
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 701
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa110fe2525957c50800000000000000
+      internalID: 6662395210698330543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/ban_tay_trai_rong
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 623
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49485e52667f085e0800000000000000
+      internalID: -1909254223910566764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/chan_duoi_phai
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 737
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4134c201ff92416a0800000000000000
+      internalID: -6479507788414565612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/chan_duoi_trai
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 703
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a053443f89325a10800000000000000
+      internalID: 1896641680296333472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/dau
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 356
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0065e9de2315ee20800000000000000
+      internalID: 3379128187356536842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/dau_rong
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 289
+        width: 152
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fddf0bf6551c1400800000000000000
+      internalID: 296135138823101943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/duoi_rong
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 169
+        width: 198
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aad43b472cf4e920800000000000000
+      internalID: 3018814895940754082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/ham_rong
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 356
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b3535fa5879cf70800000000000000
+      internalID: 9208023245191985932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/kho
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 160
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0fb290f9061fc60800000000000000
+      internalID: 7850161861653426430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/khoi_kiem1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 265
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315fbb8dd387add20800000000000000
+      internalID: 3304085483654214931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/khoi_kiem2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2
+        width: 183
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0933b99f3f96220800000000000000
+      internalID: 2479781323220422906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/khoi_kiem3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 289
+        width: 221
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607e23e336e5ffdf0800000000000000
+      internalID: -144292882714269946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/minh_rong
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 515
+        width: 182
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d769991d969d9c0800000000000000
+      internalID: -3901971253193966257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/ngon_phai_rong1
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 669
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500a64f4fa1f4c280800000000000000
+      internalID: -9023822018092031995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/ngon_phai_rong2
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 439
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192364f1b4df32a80800000000000000
+      internalID: -8492665973201554799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/ngon_phai_rong3
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 637
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32a9340907e33c80800000000000000
+      internalID: -8344071658675789253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/ngon_phai_rong4
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 246
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51e2cc9a03c5eac0800000000000000
+      internalID: -3826437858034261670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/ngon_trai1
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 669
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d273404f0118b33a0800000000000000
+      internalID: -6684607312087992531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/ngon_trai2
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 622
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92a1ab0e8f3550a0800000000000000
+      internalID: -6893533775307627878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/ngon_trai3
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 713
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c9b08a684658160800000000000000
+      internalID: 7027133323089255474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/ngon_trai4
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 774
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931e3438b947a5650800000000000000
+      internalID: 6222414046436778297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/no_nho01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 531
+        width: 152
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4173e2e9a0fe050800000000000000
+      internalID: 5831891716964553973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/rau_rong
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 729
+        width: 103
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cfbf0fb7436fd80800000000000000
+      internalID: -8217322763162223522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/tay_duoi_phai_rong
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 515
+        width: 70
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f4043463d2dd460800000000000000
+      internalID: 7268015084725620636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/tay_duoi_trai_rong
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 513
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8363df7905bb749a0800000000000000
+      internalID: -6248820003131541960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/tay_tren_phai_rong
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 189
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e7c35935a725480800000000000000
+      internalID: -8911926213208146376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/tay_tren_trai_rong
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 2
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fe4c2ed65be6060800000000000000
+      internalID: 6948690758639873811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/vai_phai
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 766
+        width: 59
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ccb88252730e5b0800000000000000
+      internalID: -5341208525327840116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/vai_trai
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 278
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0071bebf6fe7fb00800000000000000
+      internalID: 862421116884447246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/vai_trai_sau
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 628
+        width: 67
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a87ca85be86c960800000000000000
+      internalID: 7621936329739700826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/vat_ao_trai
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 671
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1445a244d3c050c0800000000000000
+      internalID: -4588952703871925219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lv3/vuong_mien
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 563
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4203b5fdf526503f0800000000000000
+      internalID: -935233183700799452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Lv1/ban_chan_phai: 7639437243089527355
+      Lv1/ban_chan_trai: 4437614244499149263
+      Lv1/ban_tay_phai: 3678707183143115430
+      Lv1/ban_tay_phai_chuong: -3410202849935268872
+      Lv1/ban_tay_phai_gong: 2206474307333455341
+      Lv1/ban_tay_phai_rong: -2970980790892604109
+      Lv1/ban_tay_trai: -8324666798192774226
+      Lv1/ban_tay_trai_chuong: 4789973502305211150
+      Lv1/ban_tay_trai_gong: -6984091269099298854
+      Lv1/ban_tay_trai_rong: 2491708360375695398
+      Lv1/chan_duoi_phai: 8857007388510050565
+      Lv1/chan_duoi_phai_sau: 5575827912362041045
+      Lv1/chan_duoi_trai: 8750631152397923388
+      Lv1/chan_duoi_trai_sau: 4919207199626181673
+      Lv1/chan_tren_phai: 6390679882225212691
+      Lv1/chan_tren_trai: 1807567146579184919
+      Lv1/cu: -2517616799594369796
+      Lv1/dau: 836436759219646984
+      Lv1/dau_rong: -2548582842743002525
+      Lv1/duoi_rong: 5261454827388280067
+      Lv1/ham_rong: -322145985714740931
+      Lv1/kho: 8165027391979368948
+      Lv1/khoi_kiem1: 5661293886639495580
+      Lv1/khoi_kiem2: 9088175153065523077
+      Lv1/khoi_kiem3: 3214824481174628143
+      Lv1/long_may_phai: 4377046666024685094
+      Lv1/long_may_trai: -7682934109681912251
+      Lv1/luot_body: -5437225560629256305
+      Lv1/mat_phai: -1911872411520383249
+      Lv1/mat_trai: 337942836431631566
+      Lv1/mieng: -5943383285982670259
+      Lv1/mieng_gong: 1513808657800981506
+      Lv1/minh: 7307125178991237877
+      Lv1/minh_rong: 2916585760792288321
+      Lv1/ngon_phai_rong1: 1657282505001357374
+      Lv1/ngon_phai_rong2: 4064391828179613484
+      Lv1/ngon_phai_rong3: -9031285376805356948
+      Lv1/ngon_phai_rong4: 1446999214600959645
+      Lv1/ngon_trai1: -16709556200944652
+      Lv1/ngon_trai2: -774204802769871960
+      Lv1/ngon_trai3: -3086469129000116888
+      Lv1/ngon_trai4: 5011859728857298899
+      Lv1/rau_rong: -6715216003389169574
+      Lv1/shadown: -1283690510156679395
+      Lv1/ta_ao: 4954927774590945517
+      Lv1/tay_duoi_phai: 5637972089831303471
+      Lv1/tay_duoi_phai_rong: -6628267411305531479
+      Lv1/tay_duoi_trai: -2361229939902903566
+      Lv1/tay_duoi_trai_rong: -7398997757401712421
+      Lv1/tay_tren_phai: -2322636764196786238
+      Lv1/tay_tren_phai_rong: 5717562288167162960
+      Lv1/tay_tren_trai: 1948596750856699268
+      Lv1/tay_tren_trai_rong: -3842846432187105880
+      Lv1/toc: 5500852489726757766
+      Lv1/vai_phai: -1621322316528527436
+      Lv1/vai_trai: -6042929240669004068
+      Lv1/vai_trai_sau: -3507852477294426028
+      Lv1/vat_ao_phai: -2538277619865892789
+      Lv1/vat_ao_phai_sau: 2054985809802690638
+      Lv1/vat_ao_trai: 6328301399004379955
+      Lv1/vuong_mien: 8938083180598523455
+      Lv2/ban_chan_phai: 4797347724011015889
+      Lv2/ban_chan_trai: -7744335076190162189
+      Lv2/ban_tay_phai: 6647735721511331022
+      Lv2/ban_tay_phai_chuong: 8048971078286481195
+      Lv2/ban_tay_phai_gong: -2714419713165172747
+      Lv2/ban_tay_phai_rong: -532475921959475913
+      Lv2/ban_tay_trai: 5363176383980398743
+      Lv2/ban_tay_trai_chuong: -7380796043330536255
+      Lv2/ban_tay_trai_gong: -2895532150726749087
+      Lv2/ban_tay_trai_rong: -1069813434302429230
+      Lv2/chan_duoi_phai: -2683594233871981152
+      Lv2/chan_duoi_phai_sau: -2058651368733632330
+      Lv2/chan_duoi_trai: 1876156310635333890
+      Lv2/chan_duoi_trai_sau: 3008336637512472445
+      Lv2/chan_tren_phai: 7171098835207868435
+      Lv2/chan_tren_trai: -1358180475023472539
+      Lv2/cu: 4183884353109762910
+      Lv2/dau: 3457486050137534391
+      Lv2/dau_rong: 7196371353852628646
+      Lv2/duoi_rong: -6677351341171709816
+      Lv2/ham_rong: -1111112609928503533
+      Lv2/kho: 6029527586983753840
+      Lv2/khoi_kiem1: 28009248596753014
+      Lv2/khoi_kiem2: -8262705411234526108
+      Lv2/khoi_kiem3: -748815470924928507
+      Lv2/long_may_phai: 1620312460400378785
+      Lv2/long_may_trai: 1515290476294578576
+      Lv2/luot_body: 2166731068429658764
+      Lv2/mat_phai: -7572380301637990158
+      Lv2/mat_trai: -3620499801279204438
+      Lv2/mieng: 4778004833027683137
+      Lv2/mieng_gong: -3818926750203775240
+      Lv2/minh: 28578331208032599
+      Lv2/minh_rong: -6522469475745084037
+      Lv2/ngon_phai_rong1: 6494604756146973445
+      Lv2/ngon_phai_rong2: -4102607244426781007
+      Lv2/ngon_phai_rong3: 3252867174510584464
+      Lv2/ngon_phai_rong4: -2330640440059330958
+      Lv2/ngon_trai1: -197375010975804417
+      Lv2/ngon_trai2: -2042468684217326650
+      Lv2/ngon_trai3: 2550428678261285262
+      Lv2/ngon_trai4: 1058445428896230895
+      Lv2/rau_rong: -3436716927036097719
+      Lv2/shadown: -3834713493529477867
+      Lv2/tay_duoi_phai: 2467013568396992049
+      Lv2/tay_duoi_phai_rong: 7769652185353449408
+      Lv2/tay_duoi_trai: -1935996274574070393
+      Lv2/tay_duoi_trai_rong: 5164381545307526957
+      Lv2/tay_tren_phai: 4823280129767647724
+      Lv2/tay_tren_phai_rong: -2904073198816521985
+      Lv2/tay_tren_trai: -979958271040720528
+      Lv2/tay_tren_trai_rong: -9136750662204514779
+      Lv2/toc: 5254002049571975924
+      Lv2/vai_phai: -2615139028991741240
+      Lv2/vai_trai: 3025403615320503209
+      Lv2/vai_trai_sau: -4841334123988271125
+      Lv2/vat_ao_phai: 5588329154871932072
+      Lv2/vat_ao_phai_sau: 3998258340185881488
+      Lv2/vat_ao_trai: -5025606277161777662
+      Lv2/vuong_mien: 4570583681845425301
+      Lv3/ban_chan_phai: -1406753605858276738
+      Lv3/ban_chan_trai: -4426841350240521096
+      Lv3/ban_tay_phai: 3332587776146672770
+      Lv3/ban_tay_phai_burst2: -4225560629775251836
+      Lv3/ban_tay_phai_chuong: -7305116728447777189
+      Lv3/ban_tay_phai_gong: -8072548084632960827
+      Lv3/ban_tay_phai_rong: 3231340885533510045
+      Lv3/ban_tay_trai: -5810202886314120140
+      Lv3/ban_tay_trai_chuong: 7054201111810565037
+      Lv3/ban_tay_trai_gong: -704423528415593711
+      Lv3/ban_tay_trai_nam_dam: 6662395210698330543
+      Lv3/ban_tay_trai_rong: -1909254223910566764
+      Lv3/chan_duoi_phai: -6479507788414565612
+      Lv3/chan_duoi_phai_sau: -2922046800840357078
+      Lv3/chan_duoi_trai: 1896641680296333472
+      Lv3/chan_duoi_trai_sau: -7296116367687531938
+      Lv3/chan_tren_phai: 6968296113136810157
+      Lv3/chan_tren_trai: -2586108992822087343
+      Lv3/cu: 6442764723754434197
+      Lv3/dau: 3379128187356536842
+      Lv3/dau_rong: 296135138823101943
+      Lv3/duoi_rong: 3018814895940754082
+      Lv3/ham_rong: 9208023245191985932
+      Lv3/kho: 7850161861653426430
+      Lv3/khoi_kiem1: 3304085483654214931
+      Lv3/khoi_kiem2: 2479781323220422906
+      Lv3/khoi_kiem3: -144292882714269946
+      Lv3/long_may_phai: -1917771594741789390
+      Lv3/long_may_trai: -6918224129858001251
+      Lv3/luot_body: -6404008810357102014
+      Lv3/mat_phai: -1518325059869386675
+      Lv3/mat_trai: 2784440136929694727
+      Lv3/mieng: -113488103052579067
+      Lv3/mieng_gong: 3550832411012704330
+      Lv3/minh: 1051776922239552856
+      Lv3/minh_rong: -3901971253193966257
+      Lv3/ngon_phai_rong1: -9023822018092031995
+      Lv3/ngon_phai_rong2: -8492665973201554799
+      Lv3/ngon_phai_rong3: -8344071658675789253
+      Lv3/ngon_phai_rong4: -3826437858034261670
+      Lv3/ngon_trai1: -6684607312087992531
+      Lv3/ngon_trai2: -6893533775307627878
+      Lv3/ngon_trai3: 7027133323089255474
+      Lv3/ngon_trai4: 6222414046436778297
+      Lv3/no_nho01: 5831891716964553973
+      Lv3/rau_rong: -8217322763162223522
+      Lv3/shadown: -8780677110963472217
+      Lv3/tay_duoi_phai: 768438004756860872
+      Lv3/tay_duoi_phai_rong: 7268015084725620636
+      Lv3/tay_duoi_trai: -5952041669291639969
+      Lv3/tay_duoi_trai_rong: -6248820003131541960
+      Lv3/tay_tren_phai: 7876255962748679345
+      Lv3/tay_tren_phai_rong: -8911926213208146376
+      Lv3/tay_tren_trai: -1819170926579184887
+      Lv3/tay_tren_trai_rong: 6948690758639873811
+      Lv3/toc: -4445697360564137381
+      Lv3/vai_phai: -5341208525327840116
+      Lv3/vai_trai: 862421116884447246
+      Lv3/vai_trai_sau: 7621936329739700826
+      Lv3/vat_ao_phai: -3534169283560713175
+      Lv3/vat_ao_phai_sau: -542686784562792049
+      Lv3/vat_ao_trai: -4588952703871925219
+      Lv3/vuong_mien: -935233183700799452
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
