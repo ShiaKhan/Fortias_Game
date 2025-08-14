@@ -35,3 +35,5 @@ ignore.conf
 
 # Crash and debug logs
 sysinfo.txt
+
+.fake
