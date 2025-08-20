@@ -1,10 +1,19 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/UI_Guardian/load.png.meta
 guid: 38fbc14cd4f9ff54d90af363eeadde65
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: 5184566964599981933
     second: load_0
+========
+guid: 6f6685af8933e5d49b8ad419fc6abe4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4364034832326165938
+    second: bg_0
+>>>>>>>> a346ab1a32db61bc0f0b7b3d9f5662d33faec91c:Assets/UI_Guardian/bg.png.meta
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,17 +105,55 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<<< HEAD:Assets/UI_Guardian/load.png.meta
+========
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+>>>>>>>> a346ab1a32db61bc0f0b7b3d9f5662d33faec91c:Assets/UI_Guardian/bg.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
+<<<<<<<< HEAD:Assets/UI_Guardian/load.png.meta
       name: load_0
+========
+      name: bg_0
+>>>>>>>> a346ab1a32db61bc0f0b7b3d9f5662d33faec91c:Assets/UI_Guardian/bg.png.meta
       rect:
         serializedVersion: 2
         x: 0
         y: 0
+<<<<<<<< HEAD:Assets/UI_Guardian/load.png.meta
         width: 1028
         height: 42
+========
+        width: 1080
+        height: 1080
+>>>>>>>> a346ab1a32db61bc0f0b7b3d9f5662d33faec91c:Assets/UI_Guardian/bg.png.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +162,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
+<<<<<<<< HEAD:Assets/UI_Guardian/load.png.meta
       spriteID: d67053f6f2843f740800000000000000
       internalID: 5184566964599981933
+========
+      spriteID: e4a74cf0175df63c0800000000000000
+      internalID: -4364034832326165938
+>>>>>>>> a346ab1a32db61bc0f0b7b3d9f5662d33faec91c:Assets/UI_Guardian/bg.png.meta
       vertices: []
       indices: 
       edges: []

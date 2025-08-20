@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scenes/Scenes/Scene Mockup.meta
 guid: 40f6b465c159c3044a661c91b90cadce
+========
+guid: 7165ad566183b4a47b84ea2f91caf91d
+>>>>>>>> a346ab1a32db61bc0f0b7b3d9f5662d33faec91c:Assets/UI_Guardian/main.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

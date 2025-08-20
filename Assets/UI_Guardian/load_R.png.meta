@@ -1,10 +1,19 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/UI_Guardian/load_R.png.meta
 guid: 30ae1d5c0e9ecea46b055b80441398f9
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: 4268137257959062454
     second: load_R_0
+========
+guid: b96a6fac010a5da4c914a446da453966
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7675826601332790545
+    second: coin_0
+>>>>>>>> a346ab1a32db61bc0f0b7b3d9f5662d33faec91c:Assets/UI_Guardian/main/coin.png.meta
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,17 +105,55 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<<< HEAD:Assets/UI_Guardian/load_R.png.meta
+========
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+>>>>>>>> a346ab1a32db61bc0f0b7b3d9f5662d33faec91c:Assets/UI_Guardian/main/coin.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
+<<<<<<<< HEAD:Assets/UI_Guardian/load_R.png.meta
       name: load_R_0
+========
+      name: coin_0
+>>>>>>>> a346ab1a32db61bc0f0b7b3d9f5662d33faec91c:Assets/UI_Guardian/main/coin.png.meta
       rect:
         serializedVersion: 2
         x: 0
         y: 0
+<<<<<<<< HEAD:Assets/UI_Guardian/load_R.png.meta
         width: 23
         height: 36
+========
+        width: 68
+        height: 71
+>>>>>>>> a346ab1a32db61bc0f0b7b3d9f5662d33faec91c:Assets/UI_Guardian/main/coin.png.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +162,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
+<<<<<<<< HEAD:Assets/UI_Guardian/load_R.png.meta
       spriteID: 6bb7249f8387b3b30800000000000000
       internalID: 4268137257959062454
+========
+      spriteID: 1155fe920a3068a60800000000000000
+      internalID: 7675826601332790545
+>>>>>>>> a346ab1a32db61bc0f0b7b3d9f5662d33faec91c:Assets/UI_Guardian/main/coin.png.meta
       vertices: []
       indices: 
       edges: []
