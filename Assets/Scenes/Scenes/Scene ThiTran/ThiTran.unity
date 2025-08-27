@@ -2678,12 +2678,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 713527378}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 476e73a5144ca4f4d9ba1194be449e5e, type: 3}
+  m_Script: {fileID: 11500000, guid: 490de717cfe94c30afb574a8f64dc72a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetToPlayer: {fileID: 0}
-  tileMap: {fileID: 1006480068}
-  offset: {x: 0, y: 0, z: 0}
+  _target: {fileID: 0}
+  _offset: {x: 0, y: 0, z: -8}
+  _smoothTime: 0.3
 --- !u!1 &813443808
 GameObject:
   m_ObjectHideFlags: 0
@@ -9623,7 +9623,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: KhuVuc
+          m_StringArgument: Mockup
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1531596428
@@ -10866,6 +10866,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 0}
   playerPrefab: {fileID: 6048920869346007424, guid: 1b24b63e28ddc494c919060a6f0bfd3c, type: 3}
+  heroPrefab: {fileID: 2101050000362469875, guid: 955d051def7db5d47936a46f00aeab99, type: 3}
+  playerViewPrefab: {fileID: 8549387395438786734, guid: 458fb001383173c4d80ac35653c0359c, type: 3}
 --- !u!4 &1857883078
 Transform:
   m_ObjectHideFlags: 0
@@ -12294,6 +12296,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3123282187135191927, guid: 1b24b63e28ddc494c919060a6f0bfd3c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3667339597019661035, guid: 1b24b63e28ddc494c919060a6f0bfd3c, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6048920869346007424, guid: 1b24b63e28ddc494c919060a6f0bfd3c, type: 3}
