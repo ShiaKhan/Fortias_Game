@@ -1,0 +1,259 @@
+skeleton.png
+size:1684,1684
+filter:Linear,Linear
+pma:true
+cuoc
+bounds:2,991,483,691
+dashoubi01
+bounds:1441,1388,13,13
+dashoubi02
+bounds:1337,454,12,14
+rotate:90
+effect/effect 1/1_00000
+bounds:1404,1208,130,48
+offsets:9,9,143,69
+effect/effect 1/1_00002
+bounds:487,998,131,55
+offsets:8,7,143,69
+effect/effect 1/1_00004
+bounds:1073,1244,128,49
+offsets:11,9,143,69
+rotate:90
+effect/effect 1/1_00006
+bounds:1156,244,130,45
+offsets:9,11,143,69
+effect/effect 1/1_00008
+bounds:1518,322,130,40
+offsets:9,10,143,69
+rotate:90
+effect/effect 2/effect_skill1_miaozhun-skill1_00
+bounds:620,991,62,61
+offsets:134,131,311,311
+rotate:90
+effect/effect 2/effect_skill1_miaozhun-skill1_01
+bounds:1538,687,132,134
+offsets:99,94,311,311
+effect/effect 2/effect_skill1_miaozhun-skill1_02
+bounds:803,1055,151,151
+offsets:90,87,311,311
+effect/effect 2/effect_skill1_miaozhun-skill1_03
+bounds:1509,925,160,160
+offsets:85,81,311,311
+effect/effect 2/effect_skill1_miaozhun-skill1_04
+bounds:720,221,263,261
+offsets:31,29,311,311
+effect/effect 2/effect_skill1_miaozhun-skill1_05
+bounds:151,10,248,247
+offsets:38,36,311,311
+effect/effect 2/effect_skill1_miaozhun-skill1_06
+bounds:1005,797,240,235
+offsets:42,42,311,311
+effect/effect 2/effect_skill1_miaozhun-skill1_07
+bounds:1009,573,220,222
+offsets:52,50,311,311
+effect/effect 2/effect_skill1_miaozhun-skill1_08
+bounds:997,25,192,194
+offsets:65,63,311,311
+effect/effect 2/effect_skill1_miaozhun-skill1_09
+bounds:1361,631,179,175
+offsets:76,73,311,311
+rotate:90
+effect/effect 2/effect_skill1_miaozhun-skill1_10
+bounds:1361,454,179,175
+offsets:76,73,311,311
+effect/effect 2/effect_skill1_miaozhun-skill1_11
+bounds:1156,291,179,175
+offsets:76,73,311,311
+effect/effect 2/effect_skill1_miaozhun-skill1_12
+bounds:1337,277,179,175
+offsets:76,73,311,311
+effect/effect 3/sj20000
+bounds:1483,176,79,99
+offsets:34,13,149,128
+effect/effect 3/sj20002
+bounds:1457,1099,83,107
+offsets:30,9,149,128
+effect/effect 3/sj20004
+bounds:1191,22,90,114
+offsets:28,5,149,128
+rotate:90
+effect/effect 3/sj20006
+bounds:1386,154,95,121
+offsets:27,2,149,128
+effect/effect 3/sj20008
+bounds:1542,459,97,125
+offsets:26,0,149,128
+rotate:90
+effect/effect 3/sj20010
+bounds:1560,330,96,127
+offsets:26,0,149,128
+effect/effect 3/sj20012
+bounds:1191,114,96,128
+offsets:27,0,149,128
+effect/effect 3/sj20014
+bounds:1289,147,95,128
+offsets:27,0,149,128
+effect/effect 3/sj20016
+bounds:1404,1258,103,128
+offsets:25,0,149,128
+effect/effect 3/sj20018
+bounds:1231,468,114,128
+offsets:21,0,149,128
+rotate:90
+effect/effect 3/sj20020
+bounds:1542,558,125,127
+offsets:16,0,149,128
+effect/effect 3/sj20022
+bounds:1509,823,134,100
+offsets:11,12,149,128
+effect/effect 3/sj20024
+bounds:1307,27,118,98
+offsets:26,17,149,128
+rotate:90
+effect/effect 3/sj20026
+bounds:1564,243,76,85
+offsets:27,24,149,128
+effect/effect 4/effect_cx_lan-animation_00
+bounds:1009,486,85,162
+offsets:139,56,364,360
+rotate:90
+effect/effect 4/effect_cx_lan-animation_01
+bounds:1009,486,85,162
+offsets:139,56,364,360
+rotate:90
+effect/effect 4/effect_cx_lan-animation_02
+bounds:418,95,287,300
+offsets:42,24,364,360
+rotate:90
+effect/effect 4/effect_cx_lan-animation_03
+bounds:487,1055,314,314
+offsets:29,21,364,360
+effect/effect 4/effect_cx_lan-animation_04
+bounds:487,1371,321,311
+offsets:24,26,364,360
+effect/effect 4/effect_cx_lan-animation_05
+bounds:810,1374,315,308
+offsets:29,27,364,360
+effect/effect 4/effect_cx_lan-animation_06
+bounds:418,685,304,298
+offsets:35,33,364,360
+rotate:90
+effect/effect 4/effect_cx_lan-animation_07
+bounds:1127,1388,294,312
+offsets:39,38,364,360
+rotate:90
+effect/effect 4/effect_cx_lan-animation_08
+bounds:418,384,293,299
+offsets:34,42,364,360
+effect/effect 4/effect_cx_lan-animation_09
+bounds:718,762,285,291
+offsets:35,48,364,360
+effect/effect 4/effect_cx_lan-animation_10
+bounds:718,484,289,276
+offsets:32,60,364,360
+effect/effect 4/effect_cx_lan-animation_11
+bounds:1441,1403,279,234
+offsets:30,68,364,360
+rotate:90
+effect/effect 4/effect_cx_lan-animation_12
+bounds:720,8,275,211
+offsets:35,82,364,360
+effect/effect 4/effect_cx_lan-animation_13
+bounds:1127,1208,275,178
+offsets:35,92,364,360
+effect/effect 4/effect_cx_lan-animation_14
+bounds:1081,1034,260,172
+offsets:52,94,364,360
+effect/effect 4/effect_cx_lan-animation_15
+bounds:985,221,261,169
+offsets:51,92,364,360
+rotate:90
+effect/effect 4/effect_cx_lan-animation_16
+bounds:810,1219,261,153
+offsets:52,91,364,360
+effect/effect 4/effect_cx_lan-animation_17
+bounds:2,2,255,147
+offsets:54,93,364,360
+rotate:90
+effect/effect 4/effect_cx_lan-animation_18
+bounds:1247,812,220,129
+offsets:56,100,364,360
+rotate:90
+effect/effect 4/effect_cx_lan-animation_19
+bounds:1378,812,220,129
+offsets:56,100,364,360
+rotate:90
+effect/effect 4/effect_cx_lan-animation_20
+bounds:1231,584,211,128
+offsets:64,101,364,360
+rotate:90
+effect/effect 4/effect_cx_lan-animation_21
+bounds:1542,1087,137,86
+offsets:130,106,364,360
+effect/effect 4/effect_cx_lan-animation_22
+bounds:1124,1371,1,1
+effect/effect 5/baoci01_0000
+bounds:1542,1175,140,112
+offsets:52,7,232,166
+effect/effect 5/baoci01_0001
+bounds:956,1055,162,123
+offsets:31,7,232,166
+rotate:90
+effect/effect 5/baoci01_0002
+bounds:1509,1289,173,112
+offsets:24,8,232,166
+effect/effect 5/baoci01_0004
+bounds:1343,1034,172,112
+offsets:24,10,232,166
+rotate:90
+effect/effect 5/baoci01_0006
+bounds:557,5,146,88
+offsets:42,16,232,166
+effect/effect 5/baoci01_0008
+bounds:401,3,154,90
+offsets:36,17,232,166
+effect/effect 5/baoci01_0010
+bounds:1407,23,129,71
+offsets:39,17,232,166
+rotate:90
+gong
+bounds:1642,264,64,40
+rotate:90
+lian
+bounds:1173,518,54,53
+qunzi
+bounds:401,229,28,14
+rotate:90
+riu
+bounds:2,259,414,730
+shenti
+bounds:1645,903,18,20
+shou01
+bounds:1509,812,9,10
+rotate:90
+toufa01
+bounds:1509,1262,17,25
+toufa02
+bounds:1658,429,24,28
+toufa03
+bounds:1247,797,13,13
+toufa04
+bounds:1005,1034,25,19
+toufa05
+bounds:1665,909,14,17
+rotate:90
+toufa06
+bounds:1457,1077,20,20
+tui01
+bounds:705,80,13,13
+tui02
+bounds:1528,1273,12,14
+tui03
+bounds:1456,1388,11,13
+tui04
+bounds:1262,797,11,13
+xiaoshoubi01
+bounds:1528,1258,13,12
+rotate:90
+xiaoshoubi02
+bounds:1671,1074,11,11

@@ -1,0 +1,181 @@
+skeleton.png
+size:1160,1160
+filter:Linear,Linear
+pma:true
+TOU(2)
+bounds:849,30,89,105
+cuoc
+bounds:2,467,483,691
+d
+bounds:2,4,19,41
+rotate:90
+effect/effect 1/daoguang_00000
+bounds:836,789,161,94
+offsets:2,2,165,151
+rotate:90
+effect/effect 1/daoguang_00001
+bounds:678,830,156,120
+offsets:9,2,165,151
+effect/effect 1/daoguang_00002
+bounds:652,703,125,136
+offsets:39,3,165,151
+rotate:90
+effect/effect 1/daoguang_00003
+bounds:940,25,84,110
+offsets:80,36,165,151
+effect/effect 1/daoguang_00004
+bounds:1026,33,96,94
+offsets:68,55,165,151
+rotate:90
+effect/effect 1/daoguang_00005
+bounds:855,371,86,58
+offsets:63,91,165,151
+rotate:90
+effect/effect 4/1_00040
+bounds:734,5,73,110
+offsets:33,10,136,136
+rotate:90
+effect/effect 4/1_00042
+bounds:1046,617,111,123
+offsets:16,5,136,136
+effect/effect 4/1_00044
+bounds:918,137,116,120
+offsets:13,8,136,136
+rotate:90
+effect/effect 4/1_00046
+bounds:669,489,122,123
+offsets:6,6,136,136
+effect/effect 4/1_00048
+bounds:1040,131,114,122
+offsets:5,8,136,136
+effect/effect 4/1_00050
+bounds:1003,495,124,120
+offsets:4,8,136,136
+effect/effect 4/1_00052
+bounds:547,484,127,120
+offsets:4,8,136,136
+rotate:90
+effect/effect 4/1_00054
+bounds:816,582,121,123
+offsets:10,7,136,136
+rotate:90
+effect/effect 4/1_00056
+bounds:932,814,118,123
+offsets:13,8,136,136
+effect/effect 4/1_00058
+bounds:793,459,123,121
+offsets:6,8,136,136
+effect/effect 4/1_00060
+bounds:734,193,119,121
+offsets:5,8,136,136
+rotate:90
+effect/effect 4/1_00062
+bounds:1003,373,120,122
+offsets:5,8,136,136
+rotate:90
+effect/effect 4/1_00064
+bounds:980,255,125,116
+offsets:5,8,136,136
+effect/effect 4/1_00066
+bounds:734,337,120,119
+offsets:10,9,136,136
+rotate:90
+effect/effect 4/1_00068
+bounds:734,80,113,111
+offsets:16,10,136,136
+effect/efffect 2/b'dci-0001
+bounds:487,1046,219,112
+offsets:31,6,278,124
+effect/efffect 2/b'dci-0002
+bounds:708,1055,237,103
+offsets:22,13,278,124
+effect/efffect 2/b'dci-0003
+bounds:947,939,219,103
+offsets:33,14,278,124
+rotate:90
+effect/efffect 2/b'dci-0004
+bounds:1052,947,211,102
+offsets:36,14,278,124
+rotate:90
+effect/efffect 2/b'dci-0005
+bounds:1052,742,203,99
+offsets:37,16,278,124
+rotate:90
+effect/efffect 2/b'dci-0006
+bounds:708,952,199,101
+offsets:39,16,278,124
+effect/efffect 2/b'dci-0007
+bounds:487,945,189,99
+offsets:48,16,278,124
+effect/efffect 2/b'dci-0008
+bounds:554,779,164,96
+offsets:68,16,278,124
+rotate:90
+effect/efffect 2/b'dci-0009
+bounds:554,613,164,92
+offsets:70,18,278,124
+rotate:90
+effect/efffect 2/b'dci-0010
+bounds:955,647,165,89
+offsets:71,20,278,124
+rotate:90
+effect/efffect 2/b'dci-0011
+bounds:648,614,166,87
+offsets:72,21,278,124
+effect/efffect 2/b'dci-0012
+bounds:790,705,163,82
+offsets:75,23,278,124
+effect/efffect 2/b'dci-0013
+bounds:857,218,151,59
+offsets:88,35,278,124
+rotate:90
+effect/efffect 3/1_00017
+bounds:487,676,267,65
+offsets:6,9,333,82
+rotate:90
+effect/efffect 3/1_00019
+bounds:487,474,200,58
+offsets:126,12,333,82
+rotate:90
+effect/efffect 3/1_00021
+bounds:941,474,171,60
+offsets:138,11,333,82
+rotate:90
+effect/efffect 3/1_00023
+bounds:918,314,158,60
+offsets:143,11,333,82
+rotate:90
+effect/efffect 3/1_00025
+bounds:2,25,123,24
+offsets:164,31,333,82
+j
+bounds:199,11,60,38
+j1
+bounds:137,13,15,16
+j2
+bounds:127,31,15,18
+j3
+bounds:45,2,20,21
+j4
+bounds:89,4,19,22
+rotate:90
+riu
+bounds:2,51,414,730
+rotate:90
+s1
+bounds:159,37,12,12
+s2
+bounds:144,35,13,14
+s3
+bounds:113,4,22,19
+s4
+bounds:173,37,11,12
+s5
+bounds:186,37,11,12
+s6
+bounds:67,2,20,21
+ss
+bounds:261,17,32,31
+rotate:90
+xs
+bounds:154,4,43,29

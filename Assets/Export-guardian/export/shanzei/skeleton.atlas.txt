@@ -1,0 +1,318 @@
+skeleton.png
+size:1700,1700
+filter:Linear,Linear
+pma:true
+cuoc
+bounds:1482,758,80,110
+effect/effect 1/daoguang_00000
+bounds:583,725,236,214
+offsets:7,12,253,237
+rotate:90
+effect/effect 1/daoguang_00001
+bounds:631,980,214,185
+offsets:28,21,253,237
+rotate:90
+effect/effect 1/daoguang_00002
+bounds:1028,239,178,177
+offsets:62,16,253,237
+effect/effect 1/daoguang_00003
+bounds:1543,1573,125,155
+offsets:104,36,253,237
+rotate:90
+effect/effect 1/daoguang_00004
+bounds:839,5,50,133
+offsets:160,43,253,237
+rotate:90
+effect/effect 1/daoguang_00005
+bounds:1520,570,32,121
+offsets:176,43,253,237
+effect/effect 2/dici_00000
+bounds:1140,1278,159,96
+offsets:3,4,172,103
+rotate:90
+effect/effect 2/dici_00001
+bounds:1140,1119,157,96
+offsets:4,5,172,103
+rotate:90
+effect/effect 2/dici_00002
+bounds:854,280,158,96
+offsets:4,5,172,103
+effect/effect 2/dici_00003
+bounds:1192,709,153,94
+offsets:10,7,172,103
+rotate:90
+effect/effect 2/dici_00004
+bounds:1208,210,154,83
+offsets:10,16,172,103
+effect/effect 2/dici_00005
+bounds:1537,1103,135,70
+offsets:30,18,172,103
+effect/effect 2/dici_00006
+bounds:1283,3,135,71
+offsets:30,18,172,103
+effect/effect 3/suishi_01
+bounds:1637,602,66,59
+offsets:17,16,87,91
+rotate:90
+effect/effect 3/suishi_02
+bounds:1482,693,74,63
+offsets:13,18,87,91
+effect/effect 3/suishi_03
+bounds:1519,338,70,66
+offsets:11,18,87,91
+effect/effect 3/suishi_04
+bounds:1437,1063,74,70
+offsets:8,17,87,91
+effect/effect 3/suishi_05
+bounds:1205,2,76,72
+offsets:6,16,87,91
+effect/effect 3/suishi_06
+bounds:1519,406,79,74
+offsets:4,15,87,91
+rotate:90
+effect/effect 3/suishi_07
+bounds:1420,2,80,75
+offsets:3,13,87,91
+effect/effect 3/suishi_08
+bounds:1554,591,81,77
+offsets:2,10,87,91
+effect/effect 3/suishi_09
+bounds:1520,487,81,77
+offsets:2,7,87,91
+rotate:90
+effect/effect 3/suishi_10
+bounds:974,12,59,43
+offsets:24,7,87,91
+effect/effect 3/suishi_11
+bounds:1657,693,58,41
+offsets:24,5,87,91
+rotate:90
+effect/effect 3/suishi_12
+bounds:1513,1063,57,38
+offsets:25,3,87,91
+effect/effect 4/effect_skill1_baozha-skill2_00
+bounds:2,1336,361,362
+offsets:38,0,450,362
+effect/effect 4/effect_skill1_baozha-skill2_01
+bounds:2,981,344,353
+offsets:55,0,450,362
+effect/effect 4/effect_skill1_baozha-skill2_02
+bounds:667,1437,300,261
+offsets:106,86,450,362
+effect/effect 4/effect_skill1_baozha-skill2_03
+bounds:365,1429,300,269
+offsets:107,87,450,362
+effect/effect 4/effect_skill1_baozha-skill2_04
+bounds:2,713,297,266
+offsets:111,90,450,362
+effect/effect 4/effect_skill1_baozha-skill2_05
+bounds:2,447,296,264
+offsets:113,92,450,362
+effect/effect 4/effect_skill1_baozha-skill2_06
+bounds:969,1439,286,259
+offsets:124,98,450,362
+effect/effect 4/effect_skill1_baozha-skill2_07
+bounds:1257,1467,284,231
+offsets:127,125,450,362
+effect/effect 4/effect_skill1_baozha-skill2_08
+bounds:365,1196,284,231
+offsets:128,125,450,362
+effect/effect 4/effect_skill1_baozha-skill2_09
+bounds:2,214,285,231
+offsets:127,125,450,362
+effect/effect 4/effect_skill1_baozha-skill2_10
+bounds:580,492,272,231
+offsets:141,125,450,362
+effect/effect 4/effect_skill1_baozha-skill2_11
+bounds:579,259,273,231
+offsets:141,125,450,362
+effect/effect 4/effect_skill1_baozha-skill2_12
+bounds:289,31,275,231
+offsets:140,125,450,362
+effect/effect 4/effect_skill1_baozha-skill2_13
+bounds:301,497,277,231
+offsets:139,125,450,362
+effect/effect 4/effect_skill1_baozha-skill2_14
+bounds:1257,1234,278,231
+offsets:138,125,450,362
+effect/effect 4/effect_skill1_baozha-skill2_15
+bounds:301,730,280,231
+offsets:137,125,450,362
+effect/effect 4/effect_skill1_baozha-skill2_16
+bounds:348,963,281,231
+offsets:137,125,450,362
+effect/effect 4/effect_skill1_baozha-skill2_17
+bounds:300,264,277,231
+offsets:141,125,450,362
+effect/effect 4/effect_skill1_baozha-skill2_18
+bounds:667,1205,275,230
+offsets:142,126,450,362
+effect/effect 4/effect_skill1_baozha-skill2_19
+bounds:566,39,271,218
+offsets:146,130,450,362
+effect/effect 4/effect_skill1_baozha-skill2_20
+bounds:2,3,261,209
+offsets:153,136,450,362
+effect/effect 4/effect_skill1_baozha-skill2_21
+bounds:944,1190,245,194
+offsets:160,145,450,362
+rotate:90
+effect/effect 4/effect_skill1_baozha-skill2_22
+bounds:1354,317,163,168
+offsets:174,157,450,362
+effect/effect 4/effect_skill1_baozha-skill2_23
+bounds:580,727,1,1
+effect/effect 5/effect_skill1_bf-bf_00
+bounds:1288,685,174,192
+offsets:37,12,230,232
+rotate:90
+effect/effect 5/effect_skill1_bf-bf_01
+bounds:1192,490,174,193
+offsets:37,12,230,232
+effect/effect 5/effect_skill1_bf-bf_02
+bounds:1146,864,174,194
+offsets:37,12,230,232
+effect/effect 5/effect_skill1_bf-bf_03
+bounds:1007,64,173,196
+offsets:37,12,230,232
+rotate:90
+effect/effect 5/effect_skill1_bf-bf_04
+bounds:799,779,172,199
+offsets:37,13,230,232
+effect/effect 5/effect_skill1_bf-bf_05
+bounds:1238,1060,172,197
+offsets:37,13,230,232
+rotate:90
+effect/effect 5/effect_skill1_bf-bf_06
+bounds:854,378,172,198
+offsets:37,13,230,232
+effect/effect 5/effect_skill1_bf-bf_07
+bounds:973,820,171,199
+offsets:38,13,230,232
+effect/effect 5/effect_skill1_bf-bf_08
+bounds:854,578,170,199
+offsets:38,14,230,232
+effect/effect 5/effect_skill1_bf-bf_09
+bounds:936,1021,167,200
+offsets:39,14,230,232
+rotate:90
+effect/effect 5/effect_skill1_bf-bf_10
+bounds:839,57,166,200
+offsets:40,15,230,232
+effect/effect 5/effect_skill1_bf-bf_11
+bounds:1026,619,164,199
+offsets:41,17,230,232
+effect/effect 5/effect_skill1_bf-bf_12
+bounds:1028,418,162,199
+offsets:42,18,230,232
+effect/effect 5/effect_skill1_bf-bf_13
+bounds:1537,1175,158,198
+offsets:45,20,230,232
+effect/effect 5/effect_skill1_bf-bf_14
+bounds:1322,861,156,197
+offsets:47,22,230,232
+effect/effect 5/effect_skill1_bf-bf_15
+bounds:1543,1375,154,196
+offsets:48,24,230,232
+effect/effect 5/effect_skill1_bf-bf_16
+bounds:1368,487,150,196
+offsets:50,24,230,232
+effect/effect 5/effect_skill1_bf-bf_17
+bounds:1208,295,144,193
+offsets:53,28,230,232
+effect/effect 5/effect_skill1_bf-bf_18
+bounds:1205,76,132,184
+offsets:59,34,230,232
+rotate:90
+effect/effect 5/effect_skill1_bf-bf_19
+bounds:818,1043,116,160
+offsets:64,47,230,232
+effect/effect 5/effect_skill1_bf-bf_20
+bounds:1364,210,105,124
+offsets:63,50,230,232
+rotate:90
+effect/effect 5/effect_skill1_bf-bf_21
+bounds:1490,210,105,124
+offsets:62,51,230,232
+rotate:90
+effect/effect 5/effect_skill1_bf-bf_22
+bounds:1590,869,107,125
+offsets:61,51,230,232
+effect/effect 5/effect_skill1_bf-bf_23
+bounds:1480,935,108,126
+offsets:61,50,230,232
+effect/effect 5/effect_skill1_bf-bf_24
+bounds:1506,80,112,128
+offsets:60,49,230,232
+effect/effect 5/effect_skill1_bf-bf_25
+bounds:1391,79,113,129
+offsets:59,49,230,232
+effect/effect 5/effect_skill1_bf-bf_26
+bounds:1564,753,114,126
+offsets:60,52,230,232
+rotate:90
+effect/effect 5/effect_skill1_bf-bf_27
+bounds:1590,996,108,105
+offsets:67,52,230,232
+effect/effect 5/effect_skill1_bf-bf_28
+bounds:1437,1135,97,98
+offsets:66,53,230,232
+rotate:90
+effect/effect 5/effect_skill1_bf-bf_29
+bounds:1558,670,81,97
+offsets:75,56,230,232
+rotate:90
+effect/effect 5/effect_skill1_bf-bf_30
+bounds:1354,307,8,8
+offsets:151,148,230,232
+effect/effect 5/effect_skill1_bf-bf_31
+bounds:651,1393,14,14
+offsets:148,146,230,232
+effect/effect 5/effect_skill1_bf-bf_32
+bounds:914,1020,20,21
+offsets:145,144,230,232
+effect/effect 5/effect_skill1_bf-bf_33
+bounds:1014,327,12,13
+offsets:149,149,230,232
+effect/effect 5/effect_skill1_bf-bf_34
+bounds:1537,1460,4,5
+offsets:153,154,230,232
+riu
+bounds:1480,870,63,101
+rotate:90
+shanzei_0
+bounds:1138,1063,59,54
+shanzei_1
+bounds:1657,670,21,18
+rotate:90
+shanzei_10
+bounds:651,1409,14,18
+shanzei_11
+bounds:1014,360,12,16
+shanzei_12
+bounds:799,749,38,28
+shanzei_13
+bounds:301,963,16,22
+rotate:90
+shanzei_14
+bounds:1238,1418,17,19
+shanzei_15
+bounds:818,1008,94,33
+shanzei_2
+bounds:1014,342,12,16
+shanzei_3
+bounds:1192,459,14,10
+shanzei_4
+bounds:818,980,38,26
+shanzei_5
+bounds:348,1319,15,15
+shanzei_6
+bounds:854,259,19,19
+shanzei_7
+bounds:1192,471,17,14
+rotate:90
+shanzei_8
+bounds:1554,570,18,19
+shanzei_9
+bounds:289,433,12,9
+rotate:90

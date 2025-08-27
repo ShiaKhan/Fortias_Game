@@ -1,19 +1,7 @@
 fileFormatVersion: 2
-<<<<<<<< HEAD:Assets/UI_Guardian/bg.png.meta
 guid: f66eb5f7df9af3c4ea9ba0941e7aaa77
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: -4364034832326165938
-    second: bg_0
-========
-guid: 0e38c1d3cadcef34ab1f6baa518ef578
-TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 8766740682603709380
-    second: bag_0
->>>>>>>> a346ab1a32db61bc0f0b7b3d9f5662d33faec91c:Assets/UI_Guardian/main/bag.png.meta
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +39,7 @@ TextureImporter:
     mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: 1
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -60,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,16 +63,16 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-  applyGammaDecoding: 0
+  applyGammaDecoding: 1
   swizzle: 50462976
-  cookieLightType: 0
+  cookieLightType: 2
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -97,7 +85,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -105,14 +93,12 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-<<<<<<<< HEAD:Assets/UI_Guardian/bg.png.meta
-========
   - serializedVersion: 4
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -125,7 +111,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -133,42 +119,27 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
->>>>>>>> a346ab1a32db61bc0f0b7b3d9f5662d33faec91c:Assets/UI_Guardian/main/bag.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-<<<<<<<< HEAD:Assets/UI_Guardian/bg.png.meta
       name: bg_0
-========
-      name: bag_0
->>>>>>>> a346ab1a32db61bc0f0b7b3d9f5662d33faec91c:Assets/UI_Guardian/main/bag.png.meta
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-<<<<<<<< HEAD:Assets/UI_Guardian/bg.png.meta
-        width: 1080
-        height: 1080
-========
-        width: 93
-        height: 95
->>>>>>>> a346ab1a32db61bc0f0b7b3d9f5662d33faec91c:Assets/UI_Guardian/main/bag.png.meta
+        y: 560
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-<<<<<<<< HEAD:Assets/UI_Guardian/bg.png.meta
-      spriteID: e4a74cf0175df63c0800000000000000
-      internalID: -4364034832326165938
-========
-      spriteID: 4c34f80e338b9a970800000000000000
-      internalID: 8766740682603709380
->>>>>>>> a346ab1a32db61bc0f0b7b3d9f5662d33faec91c:Assets/UI_Guardian/main/bag.png.meta
+      spriteID: 7a976175b8c7e3347b34ecfcbc4568dd
+      internalID: -1149036272
       vertices: []
       indices: 
       edges: []
@@ -177,7 +148,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -185,8 +156,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
-    nameFileIdTable: {}
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: False
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      bg_0: -1149036272
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

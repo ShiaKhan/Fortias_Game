@@ -1,0 +1,213 @@
+skeleton.png
+size:1460,1460
+filter:Linear,Linear
+pma:true
+clow
+bounds:2,790,747,668
+offsets:6,7,760,676
+effect/effect 1/daoguang_00000
+bounds:1014,460,236,214
+offsets:7,12,253,237
+effect/effect 1/daoguang_00001
+bounds:103,438,214,185
+offsets:28,21,253,237
+effect/effect 1/daoguang_00002
+bounds:1246,154,178,177
+offsets:62,16,253,237
+effect/effect 1/daoguang_00003
+bounds:1087,100,125,155
+offsets:104,36,253,237
+rotate:90
+effect/effect 1/daoguang_00004
+bounds:491,439,50,133
+offsets:160,43,253,237
+rotate:90
+effect/effect 1/daoguang_00005
+bounds:368,436,32,121
+offsets:176,43,253,237
+rotate:90
+effect/effect 2/b'dci-0001
+bounds:781,213,219,112
+offsets:31,6,278,124
+rotate:90
+effect/effect 2/b'dci-0002
+bounds:1019,676,237,103
+offsets:22,13,278,124
+effect/effect 2/b'dci-0003
+bounds:895,470,219,103
+offsets:33,14,278,124
+rotate:90
+effect/effect 2/b'dci-0004
+bounds:983,8,211,102
+offsets:36,14,278,124
+rotate:90
+effect/effect 2/b'dci-0005
+bounds:1246,333,203,99
+offsets:37,16,278,124
+effect/effect 2/b'dci-0006
+bounds:1258,647,199,101
+offsets:39,16,278,124
+effect/effect 2/b'dci-0007
+bounds:2,434,189,99
+offsets:48,16,278,124
+rotate:90
+effect/effect 2/b'dci-0008
+bounds:86,692,164,96
+offsets:68,16,278,124
+effect/effect 2/b'dci-0009
+bounds:252,696,164,92
+offsets:70,18,278,124
+effect/effect 2/b'dci-0010
+bounds:562,495,165,89
+offsets:71,20,278,124
+effect/effect 2/b'dci-0011
+bounds:1290,65,166,87
+offsets:72,21,278,124
+effect/effect 2/b'dci-0012
+bounds:2,625,163,82
+offsets:75,23,278,124
+rotate:90
+effect/effect 2/b'dci-0013
+bounds:626,434,151,59
+offsets:88,35,278,124
+effect/effect 3/blow_00
+bounds:1000,625,71,12
+offsets:102,50,287,224
+rotate:90
+effect/effect 3/blow_01
+bounds:1244,7,145,44
+offsets:64,35,287,224
+rotate:90
+effect/effect 3/blow_02
+bounds:118,626,227,63
+offsets:22,26,287,224
+effect/effect 3/blow_03
+bounds:751,887,274,70
+offsets:1,22,287,224
+effect/effect 3/blow_04
+bounds:1027,781,255,176
+offsets:12,0,287,224
+effect/effect 3/blow_05
+bounds:1087,274,184,157
+offsets:52,0,287,224
+rotate:90
+effect/effect 3/blow_06
+bounds:2,3,194,156
+offsets:41,0,287,224
+rotate:90
+effect/effect 3/blow_07
+bounds:563,2,198,209
+offsets:39,0,287,224
+effect/effect 3/blow_08
+bounds:347,491,203,213
+offsets:38,0,287,224
+rotate:90
+effect/effect 3/blow_09
+bounds:763,4,207,218
+offsets:36,0,287,224
+rotate:90
+effect/effect 3/blow_10
+bounds:196,210,210,222
+offsets:36,0,287,224
+effect/effect 3/blow_11
+bounds:1252,434,211,206
+offsets:36,14,287,224
+rotate:90
+effect/effect 3/blow_12
+bounds:160,4,193,201
+offsets:49,18,287,224
+rotate:90
+effect/effect 3/blow_13
+bounds:363,4,204,198
+offsets:35,19,287,224
+rotate:90
+effect/effect 3/blow_14
+bounds:408,213,219,191
+offsets:22,25,287,224
+rotate:90
+effect/effect 3/blow_15
+bounds:2,199,233,192
+offsets:10,26,287,224
+rotate:90
+effect/effect 3/blow_16
+bounds:751,691,247,194
+offsets:0,26,287,224
+effect/effect 3/blow_17
+bounds:563,586,202,184
+offsets:53,27,287,224
+rotate:90
+effect/effect 3/blow_18
+bounds:895,221,211,178
+offsets:51,31,287,224
+rotate:90
+effect/effect 3/blow_19
+bounds:601,213,219,178
+offsets:50,31,287,224
+rotate:90
+effect/effect 3/blow_20
+bounds:749,497,192,136
+offsets:47,31,287,224
+rotate:90
+effect/effect 3/blow_21
+bounds:751,959,706,499
+offsets:161,113,1036,809
+effect/effect 3/blow_22
+bounds:1284,784,173,141
+offsets:41,31,287,224
+effect/effect 3/blow_23
+bounds:1284,750,171,32
+offsets:39,143,287,224
+effect/effect 3/blow_24
+bounds:1284,927,174,30
+offsets:36,147,287,224
+effect/effect 3/blow_25
+bounds:1457,780,1,2
+offsets:34,178,287,224
+effect/quan
+bounds:779,439,56,56
+offsets:1,1,58,58
+lishi0
+bounds:319,437,52,47
+rotate:90
+lishi1
+bounds:1000,740,14,17
+rotate:90
+lishi10
+bounds:1075,227,40,45
+lishi11
+bounds:1000,866,22,19
+lishi12
+bounds:1000,756,15,17
+rotate:90
+lishi13
+bounds:1000,823,20,13
+lishi14
+bounds:1000,709,13,13
+lishi15
+bounds:1000,773,36,17
+rotate:90
+lishi2
+bounds:1000,724,14,16
+offsets:0,0,15,16
+rotate:90
+lishi3
+bounds:1000,811,18,10
+lishi4
+bounds:1000,838,21,26
+lishi5
+bounds:1019,799,10,6
+rotate:90
+lishi6
+bounds:86,625,64,30
+rotate:90
+lishi7
+bounds:1258,750,14,29
+lishi8
+bounds:1000,698,9,13
+rotate:90
+lishi9
+bounds:837,459,36,37
+rotate:90
+riu
+bounds:418,725,63,101
+rotate:90

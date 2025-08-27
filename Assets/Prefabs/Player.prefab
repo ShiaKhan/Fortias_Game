@@ -12,8 +12,8 @@ GameObject:
   - component: {fileID: 4156725100858030743}
   - component: {fileID: 3181112863791174011}
   - component: {fileID: 6368742565795400455}
-  - component: {fileID: 6677239582558878178}
   - component: {fileID: 2070859846197207469}
+  - component: {fileID: 4752379803290400747}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -154,22 +154,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
---- !u!114 &6677239582558878178
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5461105183115903604}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d342ce35762d1a044ab2513816bb5106, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  map: {fileID: 0}
-  moveSpeed: 10
-  anim: {fileID: 2070859846197207469}
-  areaEntrance: 
 --- !u!95 &2070859846197207469
 Animator:
   serializedVersion: 7
@@ -192,3 +176,19 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &4752379803290400747
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5461105183115903604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d342ce35762d1a044ab2513816bb5106, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  map: {fileID: 0}
+  moveSpeed: 10
+  anim: {fileID: 2070859846197207469}
+  areaEntrance: 

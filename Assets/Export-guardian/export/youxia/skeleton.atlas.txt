@@ -1,0 +1,365 @@
+skeleton.png
+size:1460,1460
+filter:Linear,Linear
+pma:true
+Layer 2
+bounds:1310,988,18,22
+rotate:90
+cuoc
+bounds:2,767,483,691
+images/effect 1/effect_skill1_buff-shao_00
+bounds:1208,549,105,98
+offsets:82,95,275,350
+images/effect 1/effect_skill1_buff-shao_01
+bounds:1208,549,105,98
+offsets:82,95,275,350
+images/effect 1/effect_skill1_buff-shao_02
+bounds:1244,855,101,131
+offsets:77,89,275,350
+images/effect 1/effect_skill1_buff-shao_03
+bounds:792,855,105,156
+offsets:75,65,275,350
+images/effect 1/effect_skill1_buff-shao_04
+bounds:1045,556,91,161
+offsets:82,61,275,350
+rotate:90
+images/effect 1/effect_skill1_buff-shao_05
+bounds:1045,556,91,161
+offsets:82,61,275,350
+rotate:90
+images/effect 1/effect_skill1_buff-shao_06
+bounds:899,787,89,167
+offsets:80,60,275,350
+rotate:90
+images/effect 1/effect_skill1_buff-shao_07
+bounds:1068,778,92,162
+offsets:76,58,275,350
+rotate:90
+images/effect 1/effect_skill1_buff-shao_08
+bounds:876,460,95,159
+offsets:74,61,275,350
+rotate:90
+images/effect 1/effect_skill1_buff-shao_09
+bounds:876,460,95,159
+offsets:74,61,275,350
+rotate:90
+images/effect 1/effect_skill1_buff-shao_10
+bounds:776,450,98,160
+offsets:73,62,275,350
+images/effect 1/effect_skill1_buff-shao_11
+bounds:1315,525,102,137
+offsets:74,65,275,350
+images/effect 1/effect_skill1_buff-shao_12
+bounds:1315,423,100,139
+offsets:75,65,275,350
+rotate:90
+images/effect 1/effect_skill1_buff-shao_13
+bounds:1315,423,100,139
+offsets:75,65,275,350
+rotate:90
+images/effect 1/effect_skill1_buff-shao_14
+bounds:780,188,99,137
+offsets:77,73,275,350
+images/effect 1/effect_skill1_buff-shao_15
+bounds:955,35,96,122
+offsets:81,75,275,350
+images/effect 1/effect_skill1_buff-shao_16
+bounds:881,159,86,131
+offsets:88,68,275,350
+rotate:90
+images/effect 1/effect_skill1_buff-shao_17
+bounds:881,159,86,131
+offsets:88,68,275,350
+rotate:90
+images/effect 1/effect_skill1_buff-shao_18
+bounds:1190,649,86,127
+offsets:88,74,275,350
+images/effect 1/effect_skill1_buff-shao_19
+bounds:876,370,88,146
+offsets:86,57,275,350
+rotate:90
+images/effect 1/effect_skill1_buff-shao_20
+bounds:1037,461,93,147
+offsets:81,63,275,350
+rotate:90
+images/effect 1/effect_skill1_buff-shao_21
+bounds:1037,461,93,147
+offsets:81,63,275,350
+rotate:90
+images/effect 1/effect_skill1_buff-shao_22
+bounds:894,557,97,149
+offsets:80,61,275,350
+rotate:90
+images/effect 1/effect_skill1_buff-shao_23
+bounds:418,2,100,135
+offsets:82,72,275,350
+images/effect 1/effect_skill1_buff-shao_24
+bounds:520,2,97,135
+offsets:87,71,275,350
+images/effect 1/effect_skill1_buff-shao_25
+bounds:520,2,97,135
+offsets:87,71,275,350
+images/effect 1/effect_skill1_buff-shao_26
+bounds:1310,1008,94,148
+offsets:93,62,275,350
+rotate:90
+images/effect 1/effect_skill1_buff-shao_27
+bounds:695,820,95,123
+offsets:95,65,275,350
+images/effect 1/effect_skill1_buff-shao_28
+bounds:776,327,98,121
+offsets:93,65,275,350
+images/effect 1/effect_skill1_buff-shao_29
+bounds:776,327,98,121
+offsets:93,65,275,350
+images/effect 1/effect_skill1_buff-shao_30
+bounds:1294,325,96,117
+offsets:93,70,275,350
+rotate:90
+images/effect 1/effect_skill1_buff-shao_31
+bounds:725,27,98,131
+offsets:90,60,275,350
+images/effect 1/effect_skill1_buff-shao_32
+bounds:1053,33,97,124
+offsets:89,67,275,350
+images/effect 1/effect_skill1_buff-shao_33
+bounds:1053,33,97,124
+offsets:89,67,275,350
+images/effect 1/effect_skill1_buff-shao_34
+bounds:1220,118,100,112
+offsets:87,81,275,350
+rotate:90
+images/effect 1/effect_skill1_buff-shao_35
+bounds:697,1090,78,105
+offsets:93,92,275,350
+images/effect 1/effect_skill1_buff-shao_36
+bounds:1152,119,66,100
+offsets:103,101,275,350
+images/effect 1/effect_skill1_buff-shao_37
+bounds:1152,119,66,100
+offsets:103,101,275,350
+images/effect 2/effect_sf_back-skill1_sf_back_00
+bounds:899,999,12,6
+offsets:109,34,230,135
+rotate:90
+images/effect 2/effect_sf_back-skill1_sf_back_01
+bounds:1166,328,126,103
+offsets:52,8,230,135
+images/effect 2/effect_sf_back-skill1_sf_back_02
+bounds:619,4,133,104
+offsets:49,8,230,135
+rotate:90
+images/effect 2/effect_sf_back-skill1_sf_back_03
+bounds:666,612,206,109
+offsets:8,4,230,135
+rotate:90
+images/effect 2/effect_sf_back-skill1_sf_back_04
+bounds:540,405,206,118
+offsets:8,4,230,135
+rotate:90
+images/effect 2/effect_sf_back-skill1_sf_back_05
+bounds:487,945,207,122
+offsets:8,3,230,135
+images/effect 2/effect_sf_back-skill1_sf_back_06
+bounds:698,1203,207,123
+offsets:8,3,230,135
+images/effect 2/effect_sf_back-skill1_sf_back_07
+bounds:909,1335,207,123
+offsets:8,3,230,135
+images/effect 2/effect_sf_back-skill1_sf_back_08
+bounds:418,348,207,120
+offsets:9,3,230,135
+rotate:90
+images/effect 2/effect_sf_back-skill1_sf_back_09
+bounds:418,557,208,120
+offsets:11,3,230,135
+rotate:90
+images/effect 2/effect_sf_back-skill1_sf_back_10
+bounds:487,1069,208,126
+offsets:11,3,230,135
+images/effect 2/effect_sf_back-skill1_sf_back_11
+bounds:487,1197,209,129
+offsets:12,3,230,135
+images/effect 2/effect_sf_back-skill1_sf_back_12
+bounds:487,1328,210,130
+offsets:12,3,230,135
+images/effect 2/effect_sf_back-skill1_sf_back_13
+bounds:699,1328,208,130
+offsets:15,4,230,135
+images/effect 2/effect_sf_back-skill1_sf_back_14
+bounds:1118,1221,208,114
+offsets:15,3,230,135
+images/effect 2/effect_sf_back-skill1_sf_back_15
+bounds:539,139,207,113
+offsets:14,4,230,135
+rotate:90
+images/effect 2/effect_sf_back-skill1_sf_back_16
+bounds:418,139,207,119
+offsets:13,4,230,135
+rotate:90
+images/effect 2/effect_sf_back-skill1_sf_back_17
+bounds:1118,1337,208,121
+offsets:11,4,230,135
+images/effect 2/effect_sf_back-skill1_sf_back_18
+bounds:487,820,206,123
+offsets:11,4,230,135
+images/effect 2/effect_sf_back-skill1_sf_back_19
+bounds:540,613,205,124
+offsets:10,4,230,135
+rotate:90
+images/effect 2/effect_sf_back-skill1_sf_back_20
+bounds:907,998,206,108
+offsets:8,4,230,135
+images/effect 2/effect_sf_back-skill1_sf_back_21
+bounds:907,1108,208,110
+offsets:8,3,230,135
+images/effect 2/effect_sf_back-skill1_sf_back_22
+bounds:909,1220,207,113
+offsets:8,3,230,135
+images/effect 2/effect_sf_back-skill1_sf_back_23
+bounds:660,408,202,114
+offsets:10,4,230,135
+rotate:90
+images/effect 2/effect_sf_back-skill1_sf_back_24
+bounds:777,617,201,115
+offsets:11,4,230,135
+rotate:90
+images/effect 2/effect_sf_back-skill1_sf_back_25
+bounds:1118,1104,197,115
+offsets:14,4,230,135
+images/effect 2/effect_sf_back-skill1_sf_back_26
+bounds:1115,988,193,114
+offsets:16,6,230,135
+images/effect 3/effect_skill2_hit-animation_00
+bounds:1045,653,1,1
+images/effect 3/effect_skill2_hit-animation_01
+bounds:1317,1104,115,123
+offsets:58,27,230,159
+rotate:90
+images/effect 3/effect_skill2_hit-animation_02
+bounds:1089,872,153,114
+offsets:41,27,230,159
+images/effect 3/effect_skill2_hit-animation_03
+bounds:1186,433,127,114
+offsets:53,24,230,159
+images/effect 3/effect_skill2_hit-animation_04
+bounds:899,878,188,118
+offsets:24,24,230,159
+images/effect 3/effect_skill2_hit-animation_05
+bounds:777,1013,188,128
+offsets:24,24,230,159
+rotate:90
+images/effect 3/effect_skill2_hit-animation_06
+bounds:1328,1287,171,129
+offsets:32,23,230,159
+rotate:90
+images/effect 3/effect_skill2_hit-animation_07
+bounds:894,656,152,129
+offsets:41,22,230,159
+images/effect 3/effect_skill2_hit-animation_08
+bounds:1278,664,138,128
+offsets:47,21,230,159
+images/effect 3/effect_skill2_hit-animation_09
+bounds:1048,649,140,127
+offsets:46,21,230,159
+images/effect 3/effect_skill2_hit-animation_10
+bounds:654,160,139,124
+offsets:46,21,230,159
+rotate:90
+images/effect 3/effect_skill2_hit-animation_11
+bounds:881,247,136,121
+offsets:46,22,230,159
+images/effect 3/effect_skill2_hit-animation_12
+bounds:1037,347,127,112
+offsets:44,25,230,159
+images/effect 3/effect_skill2_hit-animation_13
+bounds:825,45,128,112
+offsets:43,25,230,159
+images/effect 3/effect_skill2_hit-animation_14
+bounds:1349,215,108,109
+offsets:62,28,230,159
+rotate:90
+images/effect 3/effect_skill2_hit-animation_15
+bounds:1347,901,105,111
+offsets:64,26,230,159
+rotate:90
+images/effect 3/effect_skill2_hit-animation_16
+bounds:660,301,105,114
+offsets:64,22,230,159
+rotate:90
+images/effect 3/effect_skill2_hit-animation_17
+bounds:1120,221,105,114
+offsets:64,22,230,159
+rotate:90
+images/effect 3/effect_skill2_hit-animation_18
+bounds:1347,794,105,111
+offsets:64,25,230,159
+rotate:90
+images/effect 3/effect_skill2_hit-animation_19
+bounds:1236,220,103,111
+offsets:65,24,230,159
+rotate:90
+images/effect 3/effect_skill2_hit-animation_20
+bounds:1334,112,101,107
+offsets:66,26,230,159
+rotate:90
+images/effect 3/effect_skill2_hit-animation_21
+bounds:1019,247,98,99
+offsets:67,33,230,159
+rotate:90
+images/effect 3/effect_skill2_hit-animation_22
+bounds:1014,159,86,81
+offsets:73,45,230,159
+rotate:90
+images/effect 3/effect_skill2_hit-animation_23
+bounds:1120,328,17,17
+offsets:236,211,528,366
+riu
+bounds:2,35,414,730
+s1
+bounds:780,174,12,12
+youxia01
+bounds:1443,171,15,18
+youxia02
+bounds:876,587,16,28
+youxia03
+bounds:1097,221,21,24
+youxia04
+bounds:1328,1224,66,61
+youxia05
+bounds:1024,436,11,22
+youxia06
+bounds:697,1070,18,22
+rotate:90
+youxia07
+bounds:654,139,23,19
+youxia08
+bounds:1443,153,16,15
+rotate:90
+youxia09
+bounds:1434,782,24,10
+youxia10
+bounds:792,826,24,27
+youxia11
+bounds:2,6,25,27
+youxia12
+bounds:1232,845,10,25
+youxia13
+bounds:1278,649,13,17
+rotate:90
+youxia14
+bounds:1396,1276,14,9
+youxia15
+bounds:1443,191,15,22
+youxia16
+bounds:1418,770,14,22
+youxia17
+bounds:825,29,10,14
+youxia18
+bounds:725,11,12,14
+youxia19
+bounds:1166,433,18,26
+youxia20
+bounds:540,381,10,22
+youxia21
+bounds:487,774,50,44

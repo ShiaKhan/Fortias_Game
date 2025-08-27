@@ -1,0 +1,279 @@
+skeleton.png
+size:1860,1860
+filter:Linear,Linear
+pma:true
+cuoc
+bounds:2,1167,483,691
+effect/effect 1/fire_00030
+bounds:1345,13,129,95
+offsets:26,7,173,132
+effect/effect 1/fire_00032
+bounds:1757,710,135,95
+offsets:22,8,173,132
+rotate:90
+effect/effect 1/fire_00034
+bounds:1757,1488,162,101
+offsets:7,8,173,132
+rotate:90
+effect/effect 1/fire_00036
+bounds:1745,998,168,113
+offsets:4,8,173,132
+rotate:90
+effect/effect 1/fire_00038
+bounds:819,30,158,118
+offsets:9,6,173,132
+effect/effect 1/fire_00040
+bounds:1550,222,147,118
+offsets:14,7,173,132
+rotate:90
+effect/effect 1/fire_00042
+bounds:1205,154,147,118
+offsets:13,7,173,132
+effect/effect 1/fire_00044
+bounds:1745,847,149,113
+offsets:12,8,173,132
+rotate:90
+effect/effect 1/fire_00046
+bounds:1670,247,148,113
+offsets:12,8,173,132
+rotate:90
+effect/effect 1/fire_00048
+bounds:1198,40,145,112
+offsets:12,9,173,132
+effect/effect 1/fire_00050
+bounds:1354,110,135,110
+offsets:11,9,173,132
+effect/effect 1/fire_00052
+bounds:1491,110,133,110
+offsets:13,8,173,132
+effect/effect 1/fire_00054
+bounds:1626,89,131,107
+offsets:14,8,173,132
+rotate:90
+effect/effect 1/fire_00056
+bounds:1476,4,128,104
+offsets:17,9,173,132
+effect/effect 1/fire_00058
+bounds:528,2,126,102
+offsets:19,9,173,132
+rotate:90
+effect/effect 1/fire_00060
+bounds:1735,120,125,98
+offsets:19,9,173,132
+rotate:90
+effect/effect 1/fire_00062
+bounds:1764,1747,111,88
+offsets:21,10,173,132
+rotate:90
+effect/effect 2/skill1/1_00056
+bounds:1696,1357,86,59
+offsets:157,36,317,208
+rotate:90
+effect/effect 2/skill1/1_00058
+bounds:419,130,232,135
+offsets:54,58,317,208
+effect/effect 2/skill1/1_00060
+bounds:653,95,246,164
+offsets:37,36,317,208
+rotate:90
+effect/effect 2/skill1/1_00062
+bounds:1068,1292,265,162
+offsets:19,20,317,208
+effect/effect 2/skill1/1_00064
+bounds:884,1285,273,182
+offsets:22,12,317,208
+rotate:90
+effect/effect 2/skill1/1_00066
+bounds:917,1012,271,179
+offsets:26,14,317,208
+rotate:90
+effect/effect 2/skill1/1_00068
+bounds:1026,495,247,171
+offsets:50,17,317,208
+rotate:90
+effect/effect 2/skill1/1_00070
+bounds:1696,1168,180,162
+offsets:118,26,317,208
+rotate:90
+effect/effect 2/skill1/1_00072
+bounds:1384,222,164,147
+offsets:119,39,317,208
+effect/effect 3/dange fenxian
+bounds:1757,594,77,114
+offsets:7,24,218,202
+effect/effect 3/dange fenxian_03
+bounds:1335,1287,167,116
+offsets:7,16,218,202
+rotate:90
+effect/effect 3/dange fenxian_05
+bounds:2,11,198,110
+offsets:8,14,218,202
+effect/effect 3/dange fenxian_07
+bounds:1591,397,190,180
+offsets:19,16,218,202
+rotate:90
+effect/effect 3/dange fenxian_10
+bounds:1027,84,163,169
+offsets:45,28,218,202
+rotate:90
+effect/effect 3/dange fenxian_13
+bounds:227,2,130,160
+offsets:64,32,218,202
+rotate:90
+effect/effect 3/dange fenxian_16
+bounds:389,2,137,126
+offsets:57,60,218,202
+effect/effect 3/dange fenxian_19
+bounds:1757,1350,136,101
+offsets:54,82,218,202
+rotate:90
+effect/effect 3/dange fenxian_22
+bounds:1693,1063,103,31
+offsets:49,146,218,202
+rotate:90
+effect/effect 4/buff_00
+bounds:1384,371,205,206
+offsets:32,40,274,425
+effect/effect 4/buff_01
+bounds:1459,1445,205,296
+offsets:32,28,274,425
+rotate:90
+effect/effect 4/buff_02
+bounds:487,1537,217,321
+offsets:21,5,274,425
+effect/effect 4/buff_03
+bounds:2,123,223,310
+offsets:17,17,274,425
+effect/effect 4/buff_04
+bounds:706,1560,225,298
+offsets:16,29,274,425
+effect/effect 4/buff_05
+bounds:933,1567,225,291
+offsets:16,40,274,425
+effect/effect 4/buff_06
+bounds:1465,1652,206,297
+offsets:35,49,274,425
+rotate:90
+effect/effect 4/buff_07
+bounds:1160,1654,204,303
+offsets:35,56,274,425
+rotate:90
+effect/effect 4/buff_08
+bounds:487,1227,200,308
+offsets:36,64,274,425
+effect/effect 4/buff_09
+bounds:1098,1025,200,265
+offsets:36,64,274,425
+effect/effect 4/buff_10
+bounds:801,676,193,280
+offsets:36,60,274,425
+effect/effect 4/buff_11
+bounds:689,1247,193,288
+offsets:36,61,274,425
+effect/effect 4/buff_12
+bounds:607,636,192,295
+offsets:37,64,274,425
+effect/effect 4/buff_13
+bounds:419,267,195,296
+offsets:37,70,274,425
+effect/effect 4/buff_14
+bounds:1160,1456,196,297
+offsets:37,76,274,425
+rotate:90
+effect/effect 4/buff_15
+bounds:616,343,194,291
+offsets:37,87,274,425
+effect/effect 4/buff_16
+bounds:1452,1063,191,239
+offsets:36,89,274,425
+rotate:90
+effect/effect 4/buff_17
+bounds:1453,1256,187,241
+offsets:36,91,274,425
+rotate:90
+effect/effect 4/buff_18
+bounds:1181,766,184,257
+offsets:36,82,274,425
+effect/effect 4/buff_19
+bounds:996,744,183,266
+offsets:37,82,274,425
+effect/effect 4/buff_20
+bounds:1557,824,186,237
+offsets:37,89,274,425
+effect/effect 4/buff_21
+bounds:1367,816,188,241
+offsets:37,85,274,425
+effect/effect 4/buff_22
+bounds:819,150,206,243
+offsets:21,88,274,425
+effect/effect 4/buff_23
+bounds:812,395,212,279
+offsets:17,63,274,425
+effect/effect 4/buff_24
+bounds:702,958,213,287
+offsets:16,64,274,425
+effect/effect 4/buff_25
+bounds:487,933,213,292
+offsets:16,67,274,425
+effect/effect 4/buff_26
+bounds:418,565,187,297
+offsets:44,71,274,425
+effect/effect 4/buff_27
+bounds:227,134,190,299
+offsets:43,76,274,425
+effect/effect 4/buff_28
+bounds:1565,589,190,233
+offsets:42,81,274,425
+effect/effect 4/buff_29
+bounds:1378,579,185,235
+offsets:44,87,274,425
+effect/effect 4/buff_30
+bounds:1205,274,177,243
+offsets:46,87,274,425
+effect/effect 4/buff_31
+bounds:1199,519,177,245
+offsets:44,92,274,425
+effect/effect 4/buff_32
+bounds:1027,249,176,244
+offsets:42,101,274,425
+effect/effect 4/buff_33
+bounds:1300,1059,150,226
+offsets:60,122,274,425
+effect/liehen_0001
+bounds:418,864,301,67
+offsets:7,6,323,79
+rotate:90
+gong
+bounds:917,958,52,36
+rotate:90
+jian
+bounds:702,942,33,14
+jiantong
+bounds:1591,371,34,24
+riu
+bounds:2,435,414,730
+shen
+bounds:202,85,23,36
+tou
+bounds:487,870,65,61
+youdabi
+bounds:1745,828,10,17
+youdatui
+bounds:1726,1139,12,17
+rotate:90
+youshoubi
+bounds:1565,579,17,8
+youxiaotui
+bounds:706,1544,12,14
+zuodabi
+bounds:689,1229,11,16
+zuodatui
+bounds:1726,1153,13,17
+rotate:90
+zuoshou
+bounds:801,665,9,9
+zuoxiaobi
+bounds:1098,1012,11,10
+rotate:90
+zuoxiaotui
+bounds:884,1269,12,14
