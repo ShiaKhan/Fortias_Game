@@ -13,7 +13,7 @@ public class PlayerController : MonoBehaviour
 
     public Tilemap map;
 
-    public float moveSpeed = 1f;
+    public float moveSpeed = 10f;
 
     public Animator anim;
 
@@ -36,8 +36,8 @@ public class PlayerController : MonoBehaviour
         {
             Destroy(gameObject);
         }
+        map = GameObject.FindGameObjectWithTag("Ground").GetComponent<Tilemap>();
         
-        DontDestroyOnLoad(gameObject);
 
         BoundsInt bounds = map.cellBounds;
         minLimit = map.CellToWorld(bounds.min) + new Vector3(0.5f, 1f, 0f);

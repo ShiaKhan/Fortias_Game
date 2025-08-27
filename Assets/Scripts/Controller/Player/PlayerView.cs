@@ -21,6 +21,7 @@ public class PlayerView : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        if (playerData == null) Resources.Load<PlayerDataSO>("PlayerDataSO");
         Init();
         spawnHero(heroes_bag);
     }
@@ -34,7 +35,6 @@ public class PlayerView : MonoBehaviour
     void Init()
     {
         this.heroes_bag = playerData._heroes;
-        if (playerData == null) Resources.Load<PlayerDataSO>("PlayerDataSO");
     }
 
     public void spawnHero(List<HeroesDataSO> heroes)

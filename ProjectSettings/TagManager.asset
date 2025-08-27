@@ -8,6 +8,7 @@ TagManager:
   - King
   - Tree
   - Enemy
+  - Ground
   layers:
   - Default
   - TransparentFX

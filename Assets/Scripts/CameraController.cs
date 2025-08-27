@@ -17,7 +17,14 @@ public class CameraController : MonoBehaviour
     private float haftWidth;
     void Start()
     {
-        targetToPlayer = PlayerController.instance.transform;
+        if (instance == null)
+        {
+            instance = this;
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
 
         Camera cam = Camera.main;
         haftHeight = cam.orthographicSize;
@@ -29,9 +36,12 @@ public class CameraController : MonoBehaviour
         topRightLimit = bounds.max;
         bottomLeftLimit = bounds.min;
 
-
+        
     }
-    
+    public void setTarget(Transform target)
+    {
+        targetToPlayer = target;
+    }
 
     private void LateUpdate()
     {
