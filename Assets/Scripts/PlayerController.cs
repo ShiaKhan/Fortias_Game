@@ -19,12 +19,13 @@ public class PlayerController : MonoBehaviour
 
     public static PlayerController instance;
     public string areaEntrance;
-
+    public DynamicJoystick joystick;
 
     void Start()
     {
         rigidbody2d = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+        joystick = Object.FindFirstObjectByType<DynamicJoystick>();
 
         if (instance == null)
         {
@@ -35,6 +36,7 @@ public class PlayerController : MonoBehaviour
         {
             Destroy(gameObject);
         }
+        
         DontDestroyOnLoad(gameObject);
 
         BoundsInt bounds = map.cellBounds;
@@ -45,8 +47,8 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
-        moveX = Input.GetAxisRaw("Horizontal");
-        moveY = Input.GetAxisRaw("Vertical");
+        moveX = joystick.Horizontal;
+        moveY = joystick.Vertical;
         rigidbody2d.linearVelocity = new Vector2(moveX, moveY) * moveSpeed;
 
 
