@@ -7,7 +7,7 @@ public class CameraController : MonoBehaviour
     public static CameraController instance;
     public Transform targetToPlayer;
 
-    public Tilemap tileMap;
+    //public Tilemap tileMap;
 
     public Vector3 offset;
     private Vector3 topRightLimit;
@@ -32,9 +32,9 @@ public class CameraController : MonoBehaviour
 
         offset = Camera.main.transform.position;
 
-        Bounds bounds = tileMap.localBounds;
-        topRightLimit = bounds.max;
-        bottomLeftLimit = bounds.min;
+        //Bounds bounds = tileMap.localBounds;
+        // topRightLimit = bounds.max;
+        // bottomLeftLimit = bounds.min;
 
         
     }

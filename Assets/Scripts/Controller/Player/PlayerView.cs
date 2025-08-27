@@ -14,14 +14,19 @@ public class PlayerView : MonoBehaviour
     [SerializeField] private List<HeroesDataSO> heroes_bag_selected;
     public Transform spawnHeroPoint;
     public GameObject prefabHero;
-    [SerializeField] private List<Character> team;
+    [SerializeField] private List<Character> team = new List<Character>();
     public bool isAutoPlay = false;
 
 
     // Start is called before the first frame update
     void Start()
     {
-        if (playerData == null) Resources.Load<PlayerDataSO>("PlayerDataSO");
+        if (playerData == null)
+        {
+            playerData = Resources.Load<PlayerDataSO>("PlayerDataSO");
+            Debug.Log("Loading PlayerDataSO from Resources folder.");
+        }
+        spawnHeroPoint = this.transform;
         Init();
         spawnHero(heroes_bag);
     }
@@ -35,15 +40,18 @@ public class PlayerView : MonoBehaviour
     void Init()
     {
         this.heroes_bag = playerData._heroes;
+        Debug.Log(heroes_bag.Count);
     }
 
     public void spawnHero(List<HeroesDataSO> heroes)
     {
+        Debug.Log("Heroes bag count: " + heroes.Count);
         foreach (HeroesDataSO hero in heroes)
         {
             Vector3 spawnPosition = new Vector3(Random.Range((float)(spawnHeroPoint.position.x - 0.5), (float)(spawnHeroPoint.position.x + 0.5)), Random.Range((float)(spawnHeroPoint.position.y - 0.5), (float)(spawnHeroPoint.position.y + 0.5)), spawnHeroPoint.transform.position.z);
             Character heroSpawned = Instantiate(prefabHero, spawnPosition, Quaternion.identity, this.transform).GetComponent<Character>();
             heroSpawned.InitCharacter(hero, this);
+            Debug.Log("Init hero");
             heroSpawned.GetComponent<PlayerMovement>().enabled = true;
             team.Add(heroSpawned);
         }
@@ -89,4 +97,5 @@ public class PlayerView : MonoBehaviour
             return null;
         }
     }   
+  
 }

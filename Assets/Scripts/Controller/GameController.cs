@@ -11,7 +11,8 @@ public class GameController : MonoBehaviour
     public static GameController instance;
     public GameObject player;
     public GameObject playerPrefab;
-
+    public GameObject heroPrefab;
+    public GameObject playerViewPrefab;
 
     void Start()
     {
@@ -38,21 +39,23 @@ public class GameController : MonoBehaviour
     {
         if (player == null && sceneName == "ThiTran")
         {
-            Debug.Log("Player not found, spawning new player.");
+            Debug.Log("Player not found, spawning new player in scene: " + sceneName);
             player = Instantiate(playerPrefab, transform.position, quaternion.identity);
             Debug.Log("Player spawned.");
             player.tag = "Player";
             player.AddComponent<PlayerController>();
         }
-        if (player == null && sceneName == "KhuVuc")
+        if (player == null && sceneName == "Mockup")
         {
-            Debug.Log("Player not found, spawning new player.");
-            player = Instantiate(playerPrefab, transform.position, quaternion.identity);
+            Debug.Log("Player not found, spawning new player in scene: " + sceneName);
+            player = Instantiate(playerViewPrefab, transform.position, quaternion.identity);
             Debug.Log("Player spawned.");
             player.tag = "Player";
-            player.AddComponent<PlayerView>();
+            var playerView = player.AddComponent<PlayerView>();
+            playerView.prefabHero = heroPrefab;
+            playerView.GetComponent<PlayerView>().enabled = true;
         }
-        CameraController.instance.setTarget(player.transform);
+        FollowCamera.instance.SetTarget(player.transform);
     }
 
     // Update is called once per frame
@@ -67,7 +70,16 @@ public class GameController : MonoBehaviour
             Destroy(player);
             player = null;
         }
+        // Đăng ký callback khi scene load xong
+        SceneManager.sceneLoaded += OnSceneLoaded;
         SceneManager.LoadScene(sceneName);
-        initPlayer(playerPrefab, sceneName);
+    }
+
+    private void OnSceneLoaded(UnityEngine.SceneManagement.Scene scene, UnityEngine.SceneManagement.LoadSceneMode mode)
+    {
+        // Chỉ khởi tạo player khi scene đã load xong
+        initPlayer(playerPrefab, scene.name);
+        // Hủy đăng ký callback để tránh gọi nhiều lần
+        //SceneManager.sceneLoaded -= OnSceneLoaded;
     }
 }
