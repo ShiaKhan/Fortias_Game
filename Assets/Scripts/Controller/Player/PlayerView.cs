@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using TreeEditor;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.UI;
 using Random = UnityEngine.Random;
 
 
@@ -15,6 +16,7 @@ public class PlayerView : MonoBehaviour
     public Transform spawnHeroPoint;
     public GameObject prefabHero;
     [SerializeField] private List<Character> team = new List<Character>();
+    private Button autoPlayBtn;
     public bool isAutoPlay = false;
 
 
@@ -40,12 +42,13 @@ public class PlayerView : MonoBehaviour
     void Init()
     {
         this.heroes_bag = playerData._heroes;
-        Debug.Log(heroes_bag.Count);
+        autoPlayBtn = GameObject.FindGameObjectWithTag("AutoPlay").GetComponent<Button>();
+        autoPlayBtn.onClick.AddListener(clickAutoPlay);
     }
 
     public void spawnHero(List<HeroesDataSO> heroes)
     {
-        Debug.Log("Heroes bag count: " + heroes.Count);
+        
         foreach (HeroesDataSO hero in heroes)
         {
             Vector3 spawnPosition = new Vector3(Random.Range((float)(spawnHeroPoint.position.x - 0.5), (float)(spawnHeroPoint.position.x + 0.5)), Random.Range((float)(spawnHeroPoint.position.y - 0.5), (float)(spawnHeroPoint.position.y + 0.5)), spawnHeroPoint.transform.position.z);

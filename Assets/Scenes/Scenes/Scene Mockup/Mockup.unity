@@ -836,82 +836,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _target: {fileID: 0}
-  _offset: {x: 0, y: 0, z: -8}
+  _offset: {x: 0, y: 0}
   _smoothTime: 0.3
---- !u!1 &1030323457
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1030323459}
-  - component: {fileID: 1030323458}
-  - component: {fileID: 1030323460}
-  m_Layer: 3
-  m_Name: Player
-  m_TagString: Player
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!114 &1030323458
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1030323457}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b0cfd7b808d1e4e4bb86c913a4935220, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  playerData: {fileID: 11400000, guid: 95e4910db3917514ba0dcb0edefe5d98, type: 2}
-  heroes_bag: []
-  heroes_bag_selected: []
-  spawnHeroPoint: {fileID: 1030323459}
-  prefabHero: {fileID: 2101050000362469875, guid: 955d051def7db5d47936a46f00aeab99, type: 3}
-  team: []
-  isAutoPlay: 0
---- !u!4 &1030323459
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1030323457}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.64, y: -5.35, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &1030323460
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1030323457}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: db12b56c0e466ff459a89f304e8a4582, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1219348478
 GameObject:
   m_ObjectHideFlags: 0
@@ -1137,7 +1063,7 @@ GameObject:
   - component: {fileID: 1473700306}
   m_Layer: 5
   m_Name: AutoAttack
-  m_TagString: Untagged
+  m_TagString: AutoPlay
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1205,19 +1131,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1473700307}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1030323458}
-        m_TargetAssemblyTypeName: PlayerView, Assembly-CSharp
-        m_MethodName: clickAutoPlay
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1473700307
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1823,6 +1737,5 @@ SceneRoots:
   - {fileID: 54875460}
   - {fileID: 558456845}
   - {fileID: 675531820}
-  - {fileID: 1030323459}
   - {fileID: 2088661804}
   - {fileID: 1252602745}
